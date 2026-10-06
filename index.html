@@ -1,0 +1,738 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b0d10">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="GamePass Tracker">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icon-192.svg">
+  <title>Xbox Game Pass Tracker &amp; Backlog</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #090b0e;
+      --panel: #12161c;
+      --card: #161b22;
+      --card-hover: #1c232c;
+      --line: #27303c;
+      --text: #f3f5f8;
+      --muted: #9ba6b4;
+      --accent: #107c10;
+      --accent-glow: #24b824;
+      --accent-light: #9dfb71;
+      --accent-pill: #1a421a;
+      --play: #9bf00b;
+      --done: #4dd7fa;
+      --skip: #ff6879;
+    }
+    * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+    body {
+      margin: 0;
+      background: radial-gradient(circle at 50% -10%, #172b1a 0%, #090b0e 45%);
+      min-height: 100vh;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+    }
+    button, input, select { font: inherit; }
+    button { cursor: pointer; border: none; outline: none; }
+    .app {
+      max-width: 1060px;
+      margin: auto;
+      padding: env(safe-area-inset-top) 16px calc(36px + env(safe-area-inset-bottom));
+    }
+    header {
+      padding: 16px 2px 14px;
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: linear-gradient(to bottom, #090b0e 82%, rgba(9, 11, 14, 0));
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .brand h1 {
+      font-size: 26px;
+      letter-spacing: -0.5px;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .xbox-badge {
+      background: linear-gradient(135deg, #107c10, #25bb25);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 900;
+      letter-spacing: 0.8px;
+      padding: 3px 8px;
+      border-radius: 6px;
+      text-transform: uppercase;
+      box-shadow: 0 0 12px rgba(36, 184, 36, 0.35);
+    }
+    .brand p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .icon-btn, .refresh-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      border: 1px solid var(--line);
+      background: var(--card);
+      color: #fff;
+      border-radius: 12px;
+      padding: 9px 14px;
+      min-height: 42px;
+      font-size: 13px;
+      font-weight: 600;
+      transition: all 0.2s ease;
+    }
+    .icon-btn:hover, .refresh-btn:hover {
+      background: #212933;
+      border-color: #3b4756;
+    }
+    .refresh-btn.spinning svg {
+      animation: spin 0.9s linear infinite;
+    }
+    @keyframes spin { 100% { transform: rotate(360deg); } }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+      margin: 12px 0 16px;
+    }
+    .stat {
+      background: rgba(22, 27, 34, 0.85);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 10px 12px;
+      transition: transform 0.15s ease;
+    }
+    .stat b {
+      display: block;
+      font-size: 22px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    .stat.total b { color: #fff; }
+    .stat.play b { color: var(--play); }
+    .stat.done b { color: var(--done); }
+    .stat.skip b { color: var(--skip); }
+    .stat span {
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr 160px;
+      gap: 9px;
+      margin-bottom: 10px;
+    }
+    .search-wrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .search-icon {
+      position: absolute;
+      left: 13px;
+      color: var(--muted);
+      pointer-events: none;
+    }
+    .search {
+      width: 100%;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      color: #fff;
+      border-radius: 13px;
+      padding: 11px 14px 11px 38px;
+      min-height: 44px;
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+    .search:focus {
+      border-color: var(--accent-glow);
+      box-shadow: 0 0 0 2px rgba(36, 184, 36, 0.2);
+    }
+    .clear-search {
+      position: absolute;
+      right: 10px;
+      background: transparent;
+      color: var(--muted);
+      padding: 6px;
+      border-radius: 50%;
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+    .clear-search.visible { display: flex; }
+    .select {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      color: #fff;
+      border-radius: 13px;
+      padding: 11px 13px;
+      min-height: 44px;
+      outline: none;
+      cursor: pointer;
+    }
+    .select:focus { border-color: var(--accent-glow); }
+
+    .tabs {
+      display: flex;
+      gap: 7px;
+      overflow-x: auto;
+      padding-bottom: 6px;
+      margin-bottom: 10px;
+      scrollbar-width: none;
+    }
+    .tabs::-webkit-scrollbar { display: none; }
+    .tab {
+      white-space: nowrap;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: #a0acba;
+      border-radius: 999px;
+      padding: 8px 14px;
+      min-height: 38px;
+      font-size: 13px;
+      font-weight: 600;
+      transition: all 0.15s ease;
+    }
+    .tab:hover { color: #fff; background: #192028; }
+    .tab.active {
+      background: #dbffb8;
+      color: #0b1a03;
+      border-color: #dbffb8;
+      font-weight: 700;
+    }
+
+    .sortrow {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 12px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .sortrow select {
+      background: transparent;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      color: #e1e7ec;
+      padding: 4px 6px;
+      outline: none;
+      cursor: pointer;
+    }
+    .sortrow select:hover, .sortrow select:focus {
+      border-color: var(--line);
+      background: #151a22;
+    }
+
+    .notice {
+      background: #141a22;
+      border: 1px solid #2d3846;
+      border-radius: 13px;
+      padding: 12px 14px;
+      margin: 10px 0 16px;
+      font-size: 13px;
+      color: #c7d1dc;
+      line-height: 1.45;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .notice strong { color: #fff; }
+    .notice-text { flex: 1; }
+    .notice-close {
+      background: transparent;
+      color: var(--muted);
+      font-size: 16px;
+      padding: 4px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+    @media (min-width: 600px) {
+      .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
+    @media (min-width: 860px) {
+      .grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+      .app { padding-left: 20px; padding-right: 20px; }
+    }
+
+    .game {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+      cursor: pointer;
+    }
+    .game:hover {
+      border-color: #384656;
+      background: var(--card-hover);
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
+    }
+    .cover-wrap {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      position: relative;
+      background: #1e252e;
+      overflow: hidden;
+    }
+    .cover {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+    .game:hover .cover {
+      transform: scale(1.03);
+    }
+    .status-badge {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: 0.3px;
+      background: rgba(10, 14, 18, 0.88);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    }
+    .status-badge.play { color: var(--play); border-color: rgba(155, 240, 11, 0.3); }
+    .status-badge.done { color: var(--done); border-color: rgba(77, 215, 250, 0.3); }
+    .status-badge.skip { color: var(--skip); border-color: rgba(255, 104, 121, 0.3); }
+
+    .game-body {
+      padding: 11px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+    .game-title {
+      font-weight: 700;
+      line-height: 1.25;
+      font-size: 14px;
+      color: #fff;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 35px;
+    }
+    .game-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 8px;
+      margin-bottom: 10px;
+    }
+    .pill {
+      font-size: 10px;
+      font-weight: 600;
+      color: #bdc8d4;
+      background: #12171d;
+      border: 1px solid #2f3844;
+      border-radius: 999px;
+      padding: 3px 7px;
+    }
+    .pill.ea {
+      color: #ff8594;
+      border-color: rgba(255, 133, 148, 0.3);
+      background: rgba(255, 133, 148, 0.08);
+    }
+
+    .actions {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 5px;
+      margin-top: auto;
+    }
+    .actions button {
+      min-height: 36px;
+      border-radius: 10px;
+      border: 1px solid #2d3642;
+      background: #1e252e;
+      color: #cfd7df;
+      font-size: 11px;
+      font-weight: 600;
+      transition: all 0.15s ease;
+    }
+    .actions button:hover {
+      background: #2a333e;
+      color: #fff;
+    }
+    .actions button.active-play {
+      background: #dbffb8;
+      color: #0b1a03;
+      border-color: #dbffb8;
+      font-weight: 800;
+    }
+    .actions button.active-done {
+      background: #b6f3ff;
+      color: #011d24;
+      border-color: #b6f3ff;
+      font-weight: 800;
+    }
+    .actions button.active-skip {
+      background: #ffd0d6;
+      color: #2b0408;
+      border-color: #ffd0d6;
+      font-weight: 800;
+    }
+
+    .empty, .loading-state {
+      grid-column: 1 / -1;
+      padding: 50px 20px;
+      text-align: center;
+      color: var(--muted);
+      border: 1px dashed var(--line);
+      border-radius: 18px;
+      background: rgba(18, 22, 28, 0.5);
+    }
+    .empty b, .loading-state b {
+      display: block;
+      color: #fff;
+      font-size: 16px;
+      margin-bottom: 6px;
+    }
+    .empty button {
+      margin-top: 14px;
+      background: #202732;
+      border: 1px solid var(--line);
+      color: #fff;
+      padding: 8px 16px;
+      border-radius: 10px;
+      font-size: 13px;
+    }
+
+    /* Modal / Drawers */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      z-index: 50;
+      display: none;
+      align-items: flex-end;
+      justify-content: center;
+    }
+    .modal-backdrop.open { display: flex; }
+    .sheet {
+      background: #13171e;
+      border: 1px solid #2e3846;
+      border-radius: 24px 24px 0 0;
+      width: 100%;
+      max-width: 620px;
+      max-height: 88vh;
+      overflow-y: auto;
+      padding: 22px 20px 32px;
+      box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.6);
+      animation: slideUp 0.22s ease-out;
+    }
+    @keyframes slideUp {
+      from { transform: translateY(100%); }
+      to { transform: translateY(0); }
+    }
+    .sheet-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .sheet-header h2 { margin: 0; font-size: 20px; }
+    .close-btn {
+      background: #1f2631;
+      border: 1px solid var(--line);
+      color: #fff;
+      border-radius: 10px;
+      padding: 7px 12px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .settings-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 0;
+      border-bottom: 1px solid #202732;
+      gap: 12px;
+      font-size: 14px;
+    }
+    .settings-row span { color: var(--muted); }
+    .settings-row strong { color: #fff; }
+    .settings-input {
+      background: #0d1014;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      color: #fff;
+      padding: 8px 10px;
+      font-size: 13px;
+      width: 100%;
+      margin-top: 6px;
+    }
+    .danger-btn {
+      background: rgba(255, 104, 121, 0.15);
+      border: 1px solid rgba(255, 104, 121, 0.35);
+      color: #ff9baa;
+      padding: 8px 14px;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 13px;
+    }
+    .danger-btn:hover { background: rgba(255, 104, 121, 0.25); }
+
+    /* Detail Modal Styles */
+    .detail-hero {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .detail-cover {
+      width: 120px;
+      aspect-ratio: 1 / 1;
+      border-radius: 14px;
+      object-fit: cover;
+      background: #1e252e;
+      border: 1px solid var(--line);
+      flex-shrink: 0;
+    }
+    .detail-info { flex: 1; }
+    .detail-title { font-size: 19px; font-weight: 800; margin: 0 0 6px; line-height: 1.25; }
+    .detail-dev { color: var(--muted); font-size: 13px; margin-bottom: 8px; }
+    .detail-desc {
+      color: #c0cbda;
+      font-size: 13px;
+      line-height: 1.55;
+      background: #0d1015;
+      border: 1px solid #1f2732;
+      padding: 12px 14px;
+      border-radius: 14px;
+      margin: 16px 0;
+      max-height: 180px;
+      overflow-y: auto;
+    }
+    .detail-actions {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+    .detail-actions button {
+      min-height: 44px;
+      border-radius: 12px;
+      border: 1px solid #303a48;
+      background: #1e252f;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .store-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      width: 100%;
+      min-height: 44px;
+      background: #107c10;
+      color: #fff;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 14px;
+      box-shadow: 0 4px 14px rgba(16, 124, 16, 0.4);
+      transition: background 0.15s ease;
+    }
+    .store-link:hover { background: #138f13; }
+  </style>
+</head>
+<body>
+
+<div class="app" id="app">
+  <header>
+    <div class="brand">
+      <div>
+        <h1><span class="xbox-badge">XBOX</span> Game Pass Tracker</h1>
+        <p id="subtitle" style="cursor:pointer" title="Click for Settings">
+          <span>Your personal backlog</span>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+        </p>
+      </div>
+      <div class="header-actions">
+        <button class="refresh-btn" id="refresh" title="Check for newly added Game Pass titles">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg>
+          <span>Refresh</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="stats">
+    <div class="stat total"><b id="total">—</b><span>In catalogue</span></div>
+    <div class="stat play"><b id="play">0</b><span>Want to play</span></div>
+    <div class="stat done"><b id="done">0</b><span>Played</span></div>
+    <div class="stat skip"><b id="skip">0</b><span>Skipped</span></div>
+  </div>
+
+  <div class="controls">
+    <div class="search-wrap">
+      <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input class="search" id="search" type="search" placeholder="Search games, studio, EA..." autocomplete="off">
+      <button class="clear-search" id="clear-search" title="Clear search">✕</button>
+    </div>
+    <select class="select" id="platform">
+      <option value="all">All platforms</option>
+      <option value="console">Xbox Console</option>
+      <option value="pc">PC</option>
+      <option value="ea">EA Play</option>
+    </select>
+  </div>
+
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-filter="all" id="tab-all">All</button>
+    <button class="tab" data-filter="play" id="tab-play">Want to play</button>
+    <button class="tab" data-filter="done" id="tab-done">Played</button>
+    <button class="tab" data-filter="skip" id="tab-skip">Skip</button>
+    <button class="tab" data-filter="unmarked" id="tab-unmarked">Unmarked</button>
+  </div>
+
+  <div class="sortrow">
+    <span id="updated">Loading catalogue...</span>
+    <div>
+      <label for="sort" style="margin-right:4px;">Sort:</label>
+      <select id="sort">
+        <option value="new">Newest added</option>
+        <option value="az">A–Z</option>
+        <option value="za">Z–A</option>
+        <option value="status">My status</option>
+      </select>
+    </div>
+  </div>
+
+  <div id="message" class="notice" style="display:none">
+    <div class="notice-text" id="message-text"></div>
+    <button class="notice-close" id="message-close">✕</button>
+  </div>
+
+  <div id="list" class="grid">
+    <div class="loading-state">
+      <b>Loading Game Pass catalogue…</b>
+      <span>Retrieving catalogue entries...</span>
+    </div>
+  </div>
+</div>
+
+<!-- Settings Drawer -->
+<div class="modal-backdrop" id="drawer">
+  <div class="sheet">
+    <div class="sheet-header">
+      <h2>Tracker Settings</h2>
+      <button class="close-btn" id="close">Close</button>
+    </div>
+    <div class="settings-row">
+      <span>Catalogue Region</span>
+      <strong>UK · en-GB</strong>
+    </div>
+    <div class="settings-row">
+      <span>Storage</span>
+      <strong>Local IndexedDB (Offline ready)</strong>
+    </div>
+    <div class="settings-row">
+      <span>Refresh Catalogue</span>
+      <button class="icon-btn" id="refresh2">Check for updates</button>
+    </div>
+    <div class="settings-row" style="flex-direction:column;align-items:flex-start;">
+      <span style="font-size:13px;font-weight:600;color:#fff;">Optional CORS Proxy (for live API sync)</span>
+      <p style="margin:2px 0 6px;color:var(--muted);font-size:12px;">Leave blank to use built-in proxy fallbacks and bundled catalogue updates.</p>
+      <input type="url" class="settings-input" id="custom-proxy" placeholder="https://your-cors-proxy.workers.dev/?url=">
+    </div>
+    <div class="settings-row">
+      <span>Backup / Transfer</span>
+      <div style="display:flex;gap:6px;">
+        <button class="icon-btn" id="export-btn">Export</button>
+        <button class="icon-btn" id="import-btn">Import</button>
+        <input type="file" id="import-file" accept=".json" style="display:none">
+      </div>
+    </div>
+    <div class="settings-row">
+      <span>Reset My Statuses</span>
+      <button class="danger-btn" id="reset">Reset All</button>
+    </div>
+    <p style="color:var(--muted);font-size:12px;line-height:1.55;margin-top:16px;">
+      Your game statuses (Want to play, Played, Skip) are stored securely on this device. Catalogue data is mirrored from Microsoft's public Xbox endpoints. Unofficial tool, not affiliated with Microsoft or Xbox.
+    </p>
+  </div>
+</div>
+
+<!-- Game Details Modal -->
+<div class="modal-backdrop" id="detail-modal">
+  <div class="sheet" id="detail-sheet">
+    <div class="sheet-header">
+      <span class="pill" id="detail-category">Game Details</span>
+      <button class="close-btn" id="detail-close">Close</button>
+    </div>
+    <div class="detail-hero">
+      <img class="detail-cover" id="detail-img" src="" alt="">
+      <div class="detail-info">
+        <h3 class="detail-title" id="detail-title"></h3>
+        <div class="detail-dev" id="detail-dev"></div>
+        <div class="game-meta" id="detail-meta"></div>
+      </div>
+    </div>
+    <div class="detail-desc" id="detail-desc"></div>
+    <div class="detail-actions">
+      <button id="detail-btn-play">Want to play</button>
+      <button id="detail-btn-done">Played</button>
+      <button id="detail-btn-skip">Skip</button>
+    </div>
+    <a href="#" target="_blank" rel="noopener noreferrer" class="store-link" id="detail-store">
+      <span>View in Xbox Store</span>
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+    </a>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
