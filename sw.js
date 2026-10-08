@@ -1,4 +1,4 @@
-const CACHE = "gp-tracker-v2";
+const CACHE = "gp-tracker-v3";
 const STATIC_ASSETS = [
   "./",
   "./index.html",

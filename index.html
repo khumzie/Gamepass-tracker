@@ -585,6 +585,283 @@
       transition: background 0.15s ease;
     }
     .store-link:hover { background: #138f13; }
+
+    /* Quick Triage & New Badges */
+    .triage-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      border: 1px solid rgba(157, 251, 113, 0.4);
+      background: linear-gradient(135deg, #107c10 0%, #178f17 100%);
+      color: #fff;
+      border-radius: 12px;
+      padding: 9px 13px;
+      min-height: 42px;
+      font-size: 13px;
+      font-weight: 700;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: 0 2px 10px rgba(16, 124, 16, 0.35);
+    }
+    .triage-btn:hover {
+      background: linear-gradient(135deg, #138f13 0%, #1ea61e 100%);
+      border-color: rgba(157, 251, 113, 0.7);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 16px rgba(16, 124, 16, 0.5);
+    }
+    .triage-badge {
+      background: rgba(0, 0, 0, 0.4);
+      color: var(--accent-light);
+      border-radius: 999px;
+      padding: 1px 7px;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.2px;
+    }
+    .status-badge.removed {
+      color: #ff9baa;
+      background: rgba(30, 8, 12, 0.94);
+      border-color: rgba(255, 104, 121, 0.55);
+      box-shadow: 0 2px 8px rgba(255, 104, 121, 0.25);
+    }
+    .status-badge.new {
+      color: #b0ff6b;
+      background: rgba(10, 32, 10, 0.94);
+      border-color: rgba(157, 251, 113, 0.55);
+      box-shadow: 0 2px 8px rgba(36, 184, 36, 0.25);
+    }
+    .pill.pill-removed {
+      color: #ff9baa;
+      border-color: rgba(255, 104, 121, 0.4);
+      background: rgba(255, 104, 121, 0.12);
+      font-weight: 700;
+    }
+    .pill.pill-new {
+      color: #9dfb71;
+      border-color: rgba(157, 251, 113, 0.45);
+      background: rgba(16, 124, 16, 0.2);
+      font-weight: 700;
+    }
+    .game.card-leaving {
+      opacity: 0 !important;
+      transform: scale(0.92) !important;
+      pointer-events: none;
+      transition: opacity 0.18s ease, transform 0.18s ease !important;
+    }
+    .actions button:active {
+      transform: scale(0.93);
+    }
+
+    /* Triage Modal Elements - iPhone First Touch Design */
+    .triage-sheet {
+      max-width: 500px;
+      padding: 14px 16px calc(24px + env(safe-area-inset-bottom));
+      border-radius: 28px 28px 0 0;
+      touch-action: manipulation;
+    }
+    .sheet-handle {
+      width: 40px;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.22);
+      border-radius: 999px;
+      margin: 0 auto 12px;
+    }
+    .triage-header-info {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+    }
+    .triage-progress {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .triage-card {
+      background: #0d1015;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      overflow: hidden;
+      margin-bottom: 14px;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      touch-action: pan-y;
+      user-select: none;
+      -webkit-user-select: none;
+      transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s ease, border-color 0.2s ease;
+      cursor: grab;
+    }
+    .triage-card:active {
+      cursor: grabbing;
+    }
+    .triage-card.swiping-right {
+      border-color: #9bf00b;
+      box-shadow: 0 0 24px rgba(155, 240, 11, 0.35);
+    }
+    .triage-card.swiping-up {
+      border-color: #4dd7fa;
+      box-shadow: 0 0 24px rgba(77, 215, 250, 0.35);
+    }
+    .triage-card.swiping-left {
+      border-color: #ff6879;
+      box-shadow: 0 0 24px rgba(255, 104, 121, 0.35);
+    }
+    .triage-cover-wrap {
+      width: 100%;
+      height: 200px;
+      position: relative;
+      background: #181f2a;
+      overflow: hidden;
+    }
+    @media (max-height: 740px) {
+      .triage-cover-wrap { height: 160px; }
+      .triage-desc { display: none; }
+    }
+    .triage-cover {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 25%;
+      display: block;
+      pointer-events: none;
+    }
+    .triage-info {
+      padding: 12px 14px;
+    }
+    .triage-title {
+      margin: 0 0 4px;
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.25;
+      color: #fff;
+    }
+    .triage-dev {
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+    .triage-desc {
+      color: #a4b2c1;
+      font-size: 12px;
+      line-height: 1.45;
+      margin: 8px 0 0;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .triage-actions {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 9px;
+      margin-bottom: 12px;
+    }
+    .triage-btn-action {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+      min-height: 60px;
+      padding: 10px 4px;
+      border-radius: 16px;
+      font-weight: 800;
+      font-size: 13px;
+      letter-spacing: -0.2px;
+      border: 1.5px solid var(--line);
+      touch-action: manipulation;
+      cursor: pointer;
+      transition: transform 0.12s ease, background 0.15s ease, border-color 0.15s ease;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .triage-btn-action:active {
+      transform: scale(0.93);
+    }
+    .triage-icon {
+      font-size: 18px;
+      line-height: 1;
+    }
+    .triage-btn-text {
+      line-height: 1.2;
+    }
+    .triage-key {
+      font-size: 9px;
+      font-weight: 800;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: rgba(0, 0, 0, 0.4);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: #cbd5e1;
+    }
+    .triage-btn-action.btn-play {
+      background: rgba(155, 240, 11, 0.16);
+      border-color: rgba(155, 240, 11, 0.45);
+      color: #bdfc4a;
+      box-shadow: 0 4px 14px rgba(155, 240, 11, 0.12);
+    }
+    .triage-btn-action.btn-play:active {
+      background: rgba(155, 240, 11, 0.35);
+      border-color: #9bf00b;
+    }
+    .triage-btn-action.btn-done {
+      background: rgba(77, 215, 250, 0.16);
+      border-color: rgba(77, 215, 250, 0.45);
+      color: #6ee3ff;
+      box-shadow: 0 4px 14px rgba(77, 215, 250, 0.12);
+    }
+    .triage-btn-action.btn-done:active {
+      background: rgba(77, 215, 250, 0.35);
+      border-color: #4dd7fa;
+    }
+    .triage-btn-action.btn-skip {
+      background: rgba(255, 104, 121, 0.16);
+      border-color: rgba(255, 104, 121, 0.45);
+      color: #ff8594;
+      box-shadow: 0 4px 14px rgba(255, 104, 121, 0.12);
+    }
+    .triage-btn-action.btn-skip:active {
+      background: rgba(255, 104, 121, 0.35);
+      border-color: #ff6879;
+    }
+    .triage-subactions {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 9px;
+      margin-bottom: 10px;
+    }
+    .triage-sub-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      background: #181f2a;
+      border: 1px solid var(--line);
+      color: #cbd5e1;
+      border-radius: 13px;
+      min-height: 44px;
+      padding: 10px 14px;
+      font-size: 13px;
+      font-weight: 700;
+      touch-action: manipulation;
+      transition: all 0.12s ease;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .triage-sub-btn:active {
+      transform: scale(0.95);
+      background: #232c3a;
+      color: #fff;
+    }
+    .triage-keyboard-hint {
+      text-align: center;
+      font-size: 11px;
+      color: var(--muted);
+      padding-top: 2px;
+      line-height: 1.4;
+    }
+    .triage-keyboard-hint b {
+      color: #e2e8f0;
+    }
   </style>
 </head>
 <body>
@@ -600,6 +877,11 @@
         </p>
       </div>
       <div class="header-actions">
+        <button class="triage-btn" id="start-triage" title="Quickly organise unmarked games into Play, Played, or Skip">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+          <span>Quick Triage</span>
+          <span id="triage-badge" class="triage-badge">0</span>
+        </button>
         <button class="refresh-btn" id="refresh" title="Check for newly added Game Pass titles">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg>
           <span>Refresh</span>
@@ -635,6 +917,7 @@
     <button class="tab" data-filter="done" id="tab-done">Played</button>
     <button class="tab" data-filter="skip" id="tab-skip">Skip</button>
     <button class="tab" data-filter="unmarked" id="tab-unmarked">Unmarked</button>
+    <button class="tab" data-filter="removed" id="tab-removed">Removed</button>
   </div>
 
   <div class="sortrow">
@@ -730,6 +1013,66 @@
       <span>View in Xbox Store</span>
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
     </a>
+  </div>
+</div>
+
+<!-- Quick Triage Modal (Rapid Backlog Sorter - iPhone Optimized) -->
+<div class="modal-backdrop" id="triage-modal">
+  <div class="sheet triage-sheet" id="triage-sheet">
+    <div class="sheet-handle"></div>
+    <div class="sheet-header">
+      <div class="triage-header-info">
+        <h2 style="display:flex;align-items:center;gap:6px;">⚡ Quick Triage</h2>
+        <span class="triage-progress" id="triage-progress">0 of 0</span>
+      </div>
+      <button class="close-btn" id="triage-close">Done</button>
+    </div>
+    
+    <div class="triage-card" id="triage-card">
+      <div class="triage-cover-wrap">
+        <img class="triage-cover" id="triage-img" src="" alt="" decoding="async">
+        <div id="triage-status-badge"></div>
+      </div>
+      <div class="triage-info">
+        <h3 class="triage-title" id="triage-title">—</h3>
+        <div class="triage-dev" id="triage-dev"></div>
+        <div class="game-meta" id="triage-meta"></div>
+        <p class="triage-desc" id="triage-desc"></p>
+      </div>
+    </div>
+
+    <div class="triage-actions">
+      <button class="triage-btn-action btn-play" id="triage-play" title="Shortcut: Press 1, P, or Swipe Right">
+        <span class="triage-icon">🎮</span>
+        <span class="triage-btn-text">Want to Play</span>
+        <span class="triage-key">1 · ➡️</span>
+      </button>
+      <button class="triage-btn-action btn-done" id="triage-done" title="Shortcut: Press 2, D, or Swipe Up">
+        <span class="triage-icon">✅</span>
+        <span class="triage-btn-text">Played</span>
+        <span class="triage-key">2 · ⬆️</span>
+      </button>
+      <button class="triage-btn-action btn-skip" id="triage-skip" title="Shortcut: Press 3, S, or Swipe Left">
+        <span class="triage-icon">⏭</span>
+        <span class="triage-btn-text">Skip</span>
+        <span class="triage-key">3 · ⬅️</span>
+      </button>
+    </div>
+
+    <div class="triage-subactions">
+      <button class="triage-sub-btn" id="triage-undo" title="Shortcut: Press Z or Backspace">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M3 7v6h6"/><path d="M21 17a9 9 0 0 0-9-9 9 9 0 0 0-6 2.3L3 13"/></svg>
+        <span>Undo</span>
+      </button>
+      <button class="triage-sub-btn" id="triage-pass" title="Shortcut: Press Space or Down Arrow">
+        <span>Pass / Next</span>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+      </button>
+    </div>
+
+    <div class="triage-keyboard-hint">
+      <span>💡 Tap buttons or <b>swipe card</b> · Press <b>1, 2, 3</b> on keyboard</span>
+    </div>
   </div>
 </div>
 

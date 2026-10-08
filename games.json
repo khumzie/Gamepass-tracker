@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1791370263820,
-  "updatedDate": "2026-10-07T10:51:03.820Z",
-  "count": 814,
+  "updatedAt": 1791456459263,
+  "updatedDate": "2026-10-08T10:47:39.263Z",
+  "count": 697,
   "games": [
     {
       "id": "9NPDN9R45JX4",
@@ -59,24 +59,18 @@
       "title": "A Plague Tale: Requiem",
       "image": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1666047600000,
-      "description": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
-      "developer": "Asobo Studio"
-    },
-    {
-      "id": "9N97RC576957",
-      "title": "A Plague Tale: Requiem - Windows",
-      "image": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1666047600000,
       "description": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
-      "developer": "Asobo Studio"
+      "developer": "Asobo Studio",
+      "removed": false,
+      "aliasIds": [
+        "9ND0JVB184XL",
+        "9N97RC576957"
+      ]
     },
     {
       "id": "BWVBNCMF22ZK",
@@ -184,24 +178,18 @@
       "title": "Age of Empires IV: Anniversary Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.63959.14235977975261210.106699ff-5046-4540-ac72-e248ae2c3818.f61be535-d1e6-46c7-a0b3-338fd9384f08",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1692734400000,
       "description": "For years you’ve battled armies and made history your story. Now it’s time to make history once more with a new breakthrough in strategy gaming – introducing Age of Empires IV: Anniversary Edition, now available on Xbox consoles.* Includes native inputs for Xbox controller, console-specific user interface, and a new tutorial designed for first time players to help achieve easy setup and success.\r\n\r\n*This content is available on Xbox consoles as a free download for current Xbox Game Pass subscribers and owners of Age of Empires IV on PC, excluding Steam purchasers.",
-      "developer": "World's Edge, Relic Entertainment"
-    },
-    {
-      "id": "9N94NCGM1Q2N",
-      "title": "Age of Empires IV: Anniversary Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.63959.14235977975261210.106699ff-5046-4540-ac72-e248ae2c3818.f61be535-d1e6-46c7-a0b3-338fd9384f08",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1635379200000,
-      "description": "Celebrating its first year of delighting millions of global players, the award-winning and best-selling strategy franchise continues with Age of Empires IV: Anniversary Edition, putting you at the center of even more epic historical battles that shaped the world. \r\n\r\nFeaturing both familiar and innovative new ways to expand your empire, Age of Empires IV: Anniversary Edition brings an evolved real-time strategy game to the next level with a host of free new content and features including brand-new civilizations, new maps, additional in-game updates and languages, and new masteries, challenges, taunts and cheats – all at an amazing value that packs in more history than ever before!",
-      "developer": "World's Edge, Relic Entertainment"
+      "developer": "World's Edge, Relic Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9PHH1ZWRSZ41",
+        "9N94NCGM1Q2N"
+      ]
     },
     {
       "id": "9NPKGVXPFRSX",
@@ -246,24 +234,18 @@
       "title": "Aliens: Dark Descent",
       "image": "https://store-images.s-microsoft.com/image/apps.59357.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.f23d3596-4cc8-4c03-be15-1a37405ca63a",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1687219200000,
       "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Moon Lethe.",
-      "developer": "Tindalos Interactive"
-    },
-    {
-      "id": "9N1M64W9XZQ7",
-      "title": "Aliens: Dark Descent (Windows)",
-      "image": "https://store-images.s-microsoft.com/image/apps.59357.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.f23d3596-4cc8-4c03-be15-1a37405ca63a",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1732665600000,
-      "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Moon Lethe.",
-      "developer": "Tindalos Interactive"
+      "developer": "Tindalos Interactive",
+      "removed": false,
+      "aliasIds": [
+        "9MX7DMHK13SC",
+        "9N1M64W9XZQ7"
+      ]
     },
     {
       "id": "9NG07QJNK38J",
@@ -383,24 +365,18 @@
       "title": "ARK: Ultimate Survivor Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.52261.14036931078975578.35527dd4-bd1c-43d9-90ff-3a801a47df6a.d5645ab8-82fd-46e0-b961-9fc179d12fe4",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1622073600000,
-      "description": "Experience everything that the ARK franchise has to offer in this definitive collection! With thousands of hours of unique content in an eons-spanning saga, you'll tame and ride primeval creatures as you explore savage lands, team up with other players to compete in epic tribal battles, and travel together on the greatest dinosaur-filled adventure of all time!",
-      "developer": "Studio Wildcard"
-    },
-    {
-      "id": "9P686C1GJ91L",
-      "title": "ARK: Ultimate Survivor Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.52261.14624535533178035.dd996182-c788-4a1e-894e-493c31d70096.6bdc58c3-9d81-4a96-a5f4-0e44bd44472b",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1622073600000,
       "description": "Experience everything that the ARK franchise has to offer in this definitive collection! With thousands of hours of unique content in an eons-spanning saga, you'll tame and ride primeval creatures as you explore savage lands, team up with other players to compete in epic tribal battles, and travel together on the greatest dinosaur-filled adventure of all time!",
-      "developer": "Studio Wildcard"
+      "developer": "Studio Wildcard",
+      "removed": false,
+      "aliasIds": [
+        "9N5JRWWGMS1R",
+        "9P686C1GJ91L"
+      ]
     },
     {
       "id": "9NXQKPGMHH9G",
@@ -482,12 +458,18 @@
       "title": "Assassin's Creed Chronicles – Russia",
       "image": "https://store-images.s-microsoft.com/image/apps.32880.13874420025795339.c01de403-78f3-485d-8b78-d893cc4c17bf.619a3852-09c8-4718-a124-2247a17d77df",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1454976000000,
       "description": "Play as the Assassin Nikolaï Orelov and fight your way through a depiction of 1918 Russia in an iconic propaganda art style.\n• Survive the aftermath of October Revolution \n• Experience the thrill of being an Assassin in an exclusive 2.5D modern setting with interactive environmental stealth systems.\n• Switch between two playable characters: Nikolaï & Anastasia with their unique playstyles.",
-      "developer": "Climax Studio"
+      "developer": "Climax Studio",
+      "removed": false,
+      "aliasIds": [
+        "9MZHXGGM7HDJ",
+        "BXQQQQ8HRBSF"
+      ]
     },
     {
       "id": "C4HB1XWT02DK",
@@ -506,24 +488,36 @@
       "title": "Assassin's Creed Chronicles : China",
       "image": "https://store-images.s-microsoft.com/image/apps.38235.14277760325951257.465493d1-8432-423d-833f-e539aae50fea.ef6efb4c-be10-4fc5-9e68-cecc6b0d22ab",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1429574400000,
       "description": "Exact Shao Jun’s vengeance on the Chinese Emperor in stunning 16th century China with fresh 2.5D stealth gameplay:\n\n• Embody a stealthy Assassin with unique combat skills and gear like the Shoe Blade and the Rope Dart\n• Discover the story of Shao Jun, the last remaining Assassin of the Chinese Brotherhood\n• Dive into a beautiful Chinese setting by travelling across the great empire of China\n",
-      "developer": "Ubisoft Entertainment"
+      "developer": "Ubisoft Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9PJPZK79N5VG",
+        "BZQQ7HX8PZ05"
+      ]
     },
     {
       "id": "9N0QFT016SGV",
       "title": "Assassin’s Creed Chronicles: India",
       "image": "https://store-images.s-microsoft.com/image/apps.33447.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.3906fcfc-8f0b-410d-a789-3234764a1dc8",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1452556800000,
       "description": "Embody Arbaaz in his quest for retribution through a colourful depiction of Colonial India in 2.5D stealth gameplay. \n\n• Travel across an amazing 19th Century India and its legendary landmarks. \n• Experience the thrill of a stealthy assassin with a unique set of skills and weapons such as the double kill moves and the chakram.\n• Discover a brand new mode with stealth, speed and assassination rooms",
-      "developer": "Climax Studio"
+      "developer": "Climax Studio",
+      "removed": false,
+      "aliasIds": [
+        "9N0QFT016SGV",
+        "BTMS1PXLQ6P6"
+      ]
     },
     {
       "id": "9MZ1GSWX2G53",
@@ -538,64 +532,40 @@
       "developer": "Ubisoft Entertainment"
     },
     {
-      "id": "BRKMHZX1RCF2",
-      "title": "Assassin's Creed IV Black Flag",
-      "image": "https://store-images.s-microsoft.com/image/apps.52808.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076.9ce9e6d0-f086-4b7e-a6fc-a75551e5d0d5",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1385078400000,
-      "description": "Discover Assassin's Creed IV Black Flag, the classic pirate action-adventure game from 2013. Command your ship, hunt Templars, and carve your legend as Edward Kenway across the Caribbean's Golden Age of Piracy.",
-      "developer": ""
-    },
-    {
       "id": "9NVZ03XT8S2P",
       "title": "Assassin’s Creed IV Black Flag - Gold Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.46338.13940090142368898.8299cde5-c41c-4157-9f91-9b62c239a7c3.03fae3b1-22c6-45ba-a38d-0d343e2a0372",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "It is 1715. Pirates rule the Caribbean, terrorizing navies & humiliating empires. From sinking warships to conquering fortresses, Captain Edward Kenway stopped at nothing to earn his fortune & legend. Yet, the adventures of his first mate have never been revealed. Until now. Get the game & the Season Pass now for the chance to play as Edward’s first mate, who will take you even deeper into the real explosive events of the Golden Age of Pirates.",
-      "developer": "Ubisoft Montreal"
-    },
-    {
-      "id": "BW9TWC8L4JCS",
-      "title": "Assassin's Creed Odyssey",
-      "image": "https://store-images.s-microsoft.com/image/apps.51903.71972716530068101.ccdcadf1-1d2a-49f2-9c37-0b0a27e5a53c.08e06d2d-1104-4c80-b879-91facf8348d5",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1538697600000,
-      "description": "In this action-adventure game, set sail for Ancient Greece to alter its fate. Fight in visceral battles on land and sea, shape your destiny from outcast to legend, and uncover secrets of your past.",
-      "developer": ""
-    },
-    {
-      "id": "BZGJRJC1FGF3",
-      "title": "Assassin's Creed Origins",
-      "image": "https://store-images.s-microsoft.com/image/apps.29520.63657969076271726.154f5a09-55ab-4b31-bc57-4e0335fab06a.98159a5f-99d5-4db9-89bc-4ae02f971596",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1509062400000,
-      "description": "Explore Ancient Egypt in this action-adventure game. Battle powerful enemies, unveil conspiracies, and discover the origin story of the Assassin’s Brotherhood.",
-      "developer": ""
+      "developer": "Ubisoft Montreal",
+      "removed": false,
+      "aliasIds": [
+        "9NVZ03XT8S2P",
+        "BRKMHZX1RCF2"
+      ]
     },
     {
       "id": "9P2CHXX6D861",
       "title": "Assassin's Creed Origins",
       "image": "https://store-images.s-microsoft.com/image/apps.29520.63657969076271726.154f5a09-55ab-4b31-bc57-4e0335fab06a.98159a5f-99d5-4db9-89bc-4ae02f971596",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "Ancient Egypt, a land of majesty and intrigue, is disappearing in a ruthless fight for power.",
-      "developer": "Ubisoft Entertainment"
+      "developer": "Ubisoft Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9P2CHXX6D861",
+        "BZGJRJC1FGF3"
+      ]
     },
     {
       "id": "9MZG3KH0PVZC",
@@ -610,184 +580,112 @@
       "developer": "Ubisoft Montreal"
     },
     {
-      "id": "9NV01PJJLXN2",
-      "title": "Assassin's Creed Rogue",
-      "image": "https://store-images.s-microsoft.com/image/apps.64519.14404228666643357.00fb5d81-62c1-41da-81f3-9d5832ec99ad.0f872158-7c7e-4ca0-a891-d4cab48f0e6d",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1425945600000,
-      "description": "Introducing Assassin’s Creed Rogue, the darkest chapter in the Assassin’s Creed franchise yet. \nAs Shay, you will experience the slow transformation from Assassin to Assassin Hunter.",
-      "developer": "Ubisoft Sofia, Ubisoft Kiev"
-    },
-    {
       "id": "BXVQ8M4J9HNM",
       "title": "Assassin's Creed Syndicate",
       "image": "https://store-images.s-microsoft.com/image/apps.39552.63309362003335928.f979bcb8-9f41-424d-b922-00373875de81.a189499b-ad97-483a-907e-2958172ccdb6",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1445558400000,
       "description": "London, 1868. Lead your underworld organization in the midst of the Industrial Revolution to break the corrupt stranglehold on the city in a visceral adventure filled with action, intrigue, and brutal combat.",
-      "developer": ""
-    },
-    {
-      "id": "9PHPDGTRVGGL",
-      "title": "Assassin’s Creed Syndicate",
-      "image": "https://store-images.s-microsoft.com/image/apps.39552.14232018080563337.a5ec3dd2-ddaf-47f3-8840-5c38d4178da1.e4edff1b-bef2-4b23-95c2-d21e8ddd96ea",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1447891200000,
-      "description": "London, 1868. Lead your underworld organization in the midst of the Industrial Revolution to break the corrupt stranglehold on the city in a visceral adventure filled with action, intrigue, and brutal combat.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "BXVQ8M4J9HNM",
+        "9PHPDGTRVGGL"
+      ]
     },
     {
       "id": "BRQH27C9RGXS",
       "title": "Assassin's Creed Unity",
       "image": "https://store-images.s-microsoft.com/image/apps.51396.69296710537599543.9e7afb5a-8195-4e25-bfc8-08e94d687949.fc8b8b4a-70e0-4d84-a5c8-a91fd9773feb",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1415923200000,
       "description": "Paris, 1789. In this action-adventure game, experience the French Revolution through the eyes of Arno Dorian. Become an Assassin and expose the true powers behind the Revolution for the fate of a nation. Rediscover this classic, now in 60 FPS!",
-      "developer": ""
-    },
-    {
-      "id": "9N74SVVP5FS4",
-      "title": "Assassin's Creed Unity",
-      "image": "https://store-images.s-microsoft.com/image/apps.51396.14005759684829975.f0649cdd-6631-445f-a3a5-6e75c144f071.8e13c19f-28a8-4397-a54a-89917b07e907",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1415664000000,
-      "description": "Paris, 1789. In this action-adventure game, experience the French Revolution through the eyes of Arno Dorian. Become an Assassin and expose the true powers behind the Revolution for the fate of a nation.",
-      "developer": ""
-    },
-    {
-      "id": "9P4NJFH17MRT",
-      "title": "Assassin's Creed Valhalla",
-      "image": "https://store-images.s-microsoft.com/image/apps.1547.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.75930d81-6e85-436d-9b61-1279b8dd9b31",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1604966400000,
-      "description": "Play as a Viking warrior in this action-adventure game set in England’s Dark Ages. Explore a dynamic open world, raid your enemies, and grow your settlement to earn your place among the gods in Valhalla...",
-      "developer": ""
-    },
-    {
-      "id": "BZQQ7HX8PZ05",
-      "title": "Assassin's Creed® Chronicles: China",
-      "image": "https://store-images.s-microsoft.com/image/apps.38235.63853504008037750.145dd84a-1548-4e2f-b47e-6705c5cf8f11.f009041d-d799-4c8b-b671-54befa2713ef",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1429660800000,
-      "description": "Exact Shao Jun’s vengeance on the Chinese Emperor in stunning 16th century China with fresh 2.5D stealth gameplay:\n\n• Embody a stealthy Assassin with unique combat skills and gear like the Shoe Blade and the Rope Dart\n• Discover the story of Shao Jun, the last remaining Assassin of the Chinese Brotherhood\n• Dive into a beautiful Chinese setting by travelling across the great empire of China",
-      "developer": "Climax Studios"
-    },
-    {
-      "id": "BTMS1PXLQ6P6",
-      "title": "Assassin's Creed® Chronicles: India",
-      "image": "https://store-images.s-microsoft.com/image/apps.21584.70425082533983523.ff1d078d-4642-493c-9cc6-2c51390ba69c.c7b7c9d3-1c96-4687-885e-65a550df067d",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1452556800000,
-      "description": "Embody Arbaaz in his quest for retribution through a colourful depiction of Colonial India in 2.5D stealth gameplay. \n\n• Travel across an amazing 19th Century India and its legendary landmarks. \n• Experience the thrill of a stealthy assassin with a unique set of skills and weapons such as the double kill moves and the chakram.\n• Discover a brand new mode with stealth, speed and assassination rooms",
-      "developer": "Climax Studios"
-    },
-    {
-      "id": "BXQQQQ8HRBSF",
-      "title": "Assassin's Creed® Chronicles: Russia",
-      "image": "https://store-images.s-microsoft.com/image/apps.32880.63247014866406746.df435824-51e5-4863-bbd3-185623886d0e.f2356d3a-3047-4415-a334-dd48a62abd8b",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1454976000000,
-      "description": "Experience the thrill of being a master Assassin in 2.5D. Sneak and hide to avoid detection and fool enemies using whistles and disguises.",
-      "developer": "Climax Studios"
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "BRQH27C9RGXS",
+        "9N74SVVP5FS4"
+      ]
     },
     {
       "id": "BPMJ413V6BB2",
       "title": "Assassin's Creed® III Remastered",
       "image": "https://store-images.s-microsoft.com/image/apps.7019.68640107179785665.3ff3e830-efb8-42c5-aa55-9b33b3a8192c.32387d3f-8044-4884-94ec-88928270ddee",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1553817600000,
-      "description": "Assassin's Creed® III Remastered is included for free in Assassin's Creed® Odyssey Season Pass.\nRelive the American Revolution or experience it for the first time in Assassin's Creed® III Remastered, with enhanced graphics and improved gameplay mechanics.  Also includes Assassin's Creed Liberation remastered and all solo DLC content.",
-      "developer": "Ubisoft"
-    },
-    {
-      "id": "9NKD0MLJ3Z3X",
-      "title": "Assassin's Creed® III Remastered",
-      "image": "https://store-images.s-microsoft.com/image/apps.7019.13663198691635509.d632fab1-4bb2-4655-a619-75bb8f17a360.006f7856-0202-4ab1-aa49-44d0ea21bd7a",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1553817600000,
-      "description": "Relive the American Revolution or experience it for the first time in Assassin's Creed® III Remastered!  Also includes Assassin's Creed Liberation remastered and all solo DLC content.",
-      "developer": ""
+      "description": "Assassin's Creed® III Remastered is included for free in Assassin's Creed® Odyssey Season Pass.\nRelive the American Revolution or experience it for the first time in Assassin's Creed® III Remastered, with enhanced graphics and improved gameplay mechanics.  Also includes Assassin's Creed Liberation remastered and all solo DLC content.",
+      "developer": "Ubisoft",
+      "removed": false,
+      "aliasIds": [
+        "BPMJ413V6BB2",
+        "9NKD0MLJ3Z3X"
+      ]
     },
     {
       "id": "9NZCJF5VF1NV",
       "title": "Assassin’s Creed® Mirage",
       "image": "https://store-images.s-microsoft.com/image/apps.51627.14478378080353577.d9dde1a0-41ed-4026-93ef-d3e32de2f685.3a37ac18-73a3-42f9-813e-fefef8ef07e5",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1696460400000,
       "description": "Become a deadly Master Assassin in this action-adventure game. Explore the streets of ninth-century Baghdad through the eyes of Basim. Take down your targets while seeking justice as part of the Hidden Ones.\n\nIncludes Valley of Memory, a free major update with new story content and 6 hours of gameplay.",
-      "developer": ""
-    },
-    {
-      "id": "9NTK0V6ZK6T8",
-      "title": "Assassin’s Creed® Mirage",
-      "image": "https://store-images.s-microsoft.com/image/apps.51627.14378628701982792.38d7c069-713c-4985-a73a-8768c6daf401.0a1bcfbf-f503-428d-b879-09294a38ea91",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Become a deadly Master Assassin in this action-adventure game and explore the streets of ninth-century Baghdad through the eyes of Basim. Take down your targets while seeking justice as part of the Hidden Ones.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9NZCJF5VF1NV",
+        "9NTK0V6ZK6T8"
+      ]
     },
     {
       "id": "9PDNF24PP2V2",
       "title": "Assassin's Creed® Odyssey",
       "image": "https://store-images.s-microsoft.com/image/apps.51903.71972716530068101.ccdcadf1-1d2a-49f2-9c37-0b0a27e5a53c.08e06d2d-1104-4c80-b879-91facf8348d5",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "Master your fate in Assassin's Creed® Odyssey.\nFrom outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece.",
-      "developer": "Ubisoft Quebec"
+      "developer": "Ubisoft Quebec",
+      "removed": false,
+      "aliasIds": [
+        "9PDNF24PP2V2",
+        "BW9TWC8L4JCS"
+      ]
     },
     {
       "id": "BWT5L9P3L60X",
       "title": "Assassin’s Creed® Rogue Remastered",
       "image": "https://store-images.s-microsoft.com/image/apps.64519.71737353171179027.83997f85-ff8e-44cd-826c-44098b6be332.4f637036-6dd9-4d33-ba10-125a12b13499",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1521504000000,
       "description": "Experience the darkest chapter in Assassin's Creed® lore yet, remastered for next-gen platforms. Assume the role of Shay, an Assassin during the French and Indian War, and witness the cataclysmic events that force him to betray the Brotherhood.",
-      "developer": "Ubisoft Sofia"
+      "developer": "Ubisoft Sofia",
+      "removed": false,
+      "aliasIds": [
+        "BWT5L9P3L60X",
+        "9NV01PJJLXN2"
+      ]
     },
     {
       "id": "BQ9S8ZKCT3Q7",
@@ -806,12 +704,18 @@
       "title": "Assassin's Creed® Valhalla",
       "image": "https://store-images.s-microsoft.com/image/apps.1547.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.75930d81-6e85-436d-9b61-1279b8dd9b31",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "Become a legendary Viking on a quest for glory. Raid your enemies, grow your settlement, and build your political power.",
-      "developer": "UBISOFT MONTREAL"
+      "developer": "UBISOFT MONTREAL",
+      "removed": false,
+      "aliasIds": [
+        "9NJ2SFHNCCRV",
+        "9P4NJFH17MRT"
+      ]
     },
     {
       "id": "9NBLGGH43KZB",
@@ -831,24 +735,18 @@
       "title": "Avatar: Frontiers of Pandora",
       "image": "https://store-images.s-microsoft.com/image/apps.63545.14085423200549889.cfdf6256-40bb-43be-96b3-e075b78ab817.77cc4314-dfe2-48ca-9d5e-1abb5e12b580",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "In Avatar: Frontiers of Pandora™, you’ll embark on a journey across the open world of the never-before-seen Western Frontier. Reconnect with your lost heritage and discover what it means to become Na’vi as you join other clans to protect Pandora from the formidable forces of the RDA.",
-      "developer": ""
-    },
-    {
-      "id": "9N9QJG4S82B5",
-      "title": "Avatar: Frontiers of Pandora™",
-      "image": "https://store-images.s-microsoft.com/image/apps.63545.13532281981722910.c73fcb29-e2af-4599-b241-4a8bde2d732c.76656ba3-0068-4f3f-a1da-c78cbc798b87",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1701936000000,
-      "description": "Avatar: Frontiers of Pandora™ is a third and first-person action-adventure game set in the never-before-seen Western Frontier of Pandora. Reconnect with your lost heritage and discover what it means to become Na’vi as you join other clans to protect Pandora from the formidable forces of the RDA.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9N21G14CVS5L",
+        "9N9QJG4S82B5"
+      ]
     },
     {
       "id": "9MSVPJCHHRPR",
@@ -1313,19 +1211,12 @@
       "ea": false,
       "release": 1541462400000,
       "description": "An epic platform fighter for up to 8 players online or locally. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android and Steam! Frequent updates. Over fifty Legends.",
-      "developer": "Blue Mammoth Games"
-    },
-    {
-      "id": "9NKFLWWM9CZ1",
-      "title": "Brawlhalla",
-      "image": "https://store-images.s-microsoft.com/image/apps.44169.65958767407690020.b7eeeb8d-2be6-4aa5-9679-c664440d607f.f67184bd-ddfc-4585-8bec-fa4dd3bbb530",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "An epic platform fighter for up to 8 players online or locally. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android and Steam! Frequent updates. Over fifty Legends.",
-      "developer": "Blue Mammoth Games"
+      "developer": "Blue Mammoth Games",
+      "removed": false,
+      "aliasIds": [
+        "C3B1V55CDL0C",
+        "9NKFLWWM9CZ1"
+      ]
     },
     {
       "id": "9PPR10S4JNLV",
@@ -1345,24 +1236,18 @@
       "title": "Broken Age",
       "image": "https://store-images.s-microsoft.com/image/apps.12656.69320940561073110.189571f5-bf61-4250-851f-3d627dfcdc29.695e62b5-19f8-4531-892c-a34153291adf",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1498176000000,
       "description": "Broken Age is a timeless coming-of-age story of barfing trees and talking spoons. Vella Tartine and Shay Volta are two teenagers in strangely similar situations, but radically different worlds. The player can freely switch between their stories, helping them take control of their own lives, and dealing with the unexpected adventures that follow.",
-      "developer": "Double Fine Productions"
-    },
-    {
-      "id": "9MZZNL8J2MSZ",
-      "title": "Broken Age",
-      "image": "https://store-images.s-microsoft.com/image/apps.12656.13865165192974158.d8663e1a-4fc7-48f9-8dc8-1aac98e6c023.8787dd8c-a9af-45f9-81b5-0db0b789e938",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1498251534792,
-      "description": "Broken Age is a timeless coming-of-age story of barfing trees and talking spoons. Vella Tartine and Shay Volta are two teenagers in strangely similar situations, but radically different worlds. The pl",
-      "developer": ""
+      "developer": "Double Fine Productions",
+      "removed": false,
+      "aliasIds": [
+        "BRT1K9FV4LRR",
+        "9MZZNL8J2MSZ"
+      ]
     },
     {
       "id": "9P9VNSQK1W3K",
@@ -1480,24 +1365,18 @@
       "title": "Call of Duty®: Modern Warfare® - Digital Standard Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.50528.14393996338935986.84c4ee65-c726-49ae-925f-3dca581be2df.31d66188-6781-49ce-a75a-b4247e73b89d",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1571958000000,
       "description": "Experience a visceral Campaign or assemble your team in the ultimate online playground with multiple Special Ops challenges and a mix of Multiplayer maps and modes.",
-      "developer": "Infinity Ward"
-    },
-    {
-      "id": "9NMPDV49K4TX",
-      "title": "Call of Duty®: Modern Warfare® - Digital Standard Edition (Windows)",
-      "image": "https://store-images.s-microsoft.com/image/apps.50528.13754207406549189.cd8c44dd-5d70-4cac-9ae7-2f630b4a1996.ff92f67e-8112-4555-bf44-3a89f589b98a",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1774972800000,
-      "description": "Experience a visceral Campaign or assemble your team in the ultimate online playground with multiple Special Ops challenges and a mix of Multiplayer maps and modes.",
-      "developer": ""
+      "developer": "Infinity Ward",
+      "removed": false,
+      "aliasIds": [
+        "9NVQBQ3F6W9W",
+        "9NMPDV49K4TX"
+      ]
     },
     {
       "id": "9PNGFSX7S117",
@@ -1564,24 +1443,18 @@
       "title": "Call of Duty®: Vanguard - Standard Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.19823.13769435894253706.0250f733-83d1-418c-9dda-58cd997dadf4.47eceb8b-e888-4fde-a06e-f4772c96b0b8",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1636480800000,
       "description": "Standard edition includes:\r\n\r\n- Call of Duty®: Vanguard\r\n-- Includes Xbox One version of game\r\n-- Plays on Xbox Series X|S via backward compatibility\r\n- Digital Exclusive - Frontline Weapons Pack",
-      "developer": ""
-    },
-    {
-      "id": "9N0SNSC9PK4D",
-      "title": "Call of Duty®: Vanguard - Standard Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.31712.13919092698619191.2d46d279-f52a-433a-8664-7762555e4777.d3338265-fac7-4874-87c5-c419738b627b",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1776268800000,
-      "description": "Call of Duty®: Vanguard includes a single player Campaign, a massive MP offering and an exciting Zombies experience.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9NQQ8B4PJR25",
+        "9N0SNSC9PK4D"
+      ]
     },
     {
       "id": "9NNFG8BQRCXL",
@@ -1601,24 +1474,18 @@
       "title": "Call of Duty®: WWII",
       "image": "https://store-images.s-microsoft.com/image/apps.26312.70628478259232551.a0089f3a-b3b5-4c4b-bdaf-0d97810a4816.772b3a20-259a-4178-be6f-3db7bcdc9830",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1509667200000,
       "description": "Call of Duty®: WWII - a breathtaking experience that redefines World War II.",
-      "developer": "Sledgehammer Games"
-    },
-    {
-      "id": "9P3QS4LX8BM9",
-      "title": "Call of Duty®: WWII (Windows)",
-      "image": "https://store-images.s-microsoft.com/image/apps.26312.14533307924484300.5a3a220a-5bc7-4189-a4d8-3425c0822397.5932203a-63c7-4d86-8242-8684a02a9c9c",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1734372000000,
-      "description": "Call of Duty®: WWII - a breathtaking experience that redefines World War II.",
-      "developer": ""
+      "developer": "Sledgehammer Games",
+      "removed": false,
+      "aliasIds": [
+        "BV0NSD4NN4V4",
+        "9P3QS4LX8BM9"
+      ]
     },
     {
       "id": "9PF697TG7PP7",
@@ -1664,24 +1531,18 @@
       "title": "Child of Light",
       "image": "https://store-images.s-microsoft.com/image/apps.18889.69016865837780293.9b6820fe-f7d4-4de3-9591-ae50b5b3401a.4d4a9107-6b96-429b-8a2b-03771d2eca9c",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1406851200000,
       "description": "Child of Light is an adventure inspired by fairy tales. The story is the journey of Aurora, the daughter of a duke, who is transported to the world of Lemuria.",
-      "developer": "Ubisoft Montreal"
-    },
-    {
-      "id": "9NP1LC5MX609",
-      "title": "Child of Light",
-      "image": "https://store-images.s-microsoft.com/image/apps.18889.13727944956383478.3119126b-6257-481c-b345-8d344e8e5397.cf2aa045-8681-4c4b-ab97-51bb1d994489",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1398816000000,
-      "description": "Aurora, a young girl from 1895 Austria, awakens on the lost fairytale continent of Lemuria. To return home she must fight against the dark creatures of the Queen of the Night, who have stolen the sun, the moon and the star",
-      "developer": ""
+      "developer": "Ubisoft Montreal",
+      "removed": false,
+      "aliasIds": [
+        "BQ9Q620NC614",
+        "9NP1LC5MX609"
+      ]
     },
     {
       "id": "9N7CJX93ZGWN",
@@ -1822,28 +1683,22 @@
       "developer": "Compulsion Games"
     },
     {
-      "id": "BZ6W9LRPC26W",
-      "title": "Control",
-      "image": "https://store-images.s-microsoft.com/image/apps.48174.64090029807136264.88ddb0db-cfad-423c-bb52-c5b649930fb1.18259e82-3a13-4440-ae66-031e2e818198",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1566864000000,
-      "description": "After a secretive agency in New York is invaded by an otherworldly threat, you become the new Director struggling to regain Control.\r\nFrom developer Remedy Entertainment, this supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts, and reactive environments while fighting through a deep and unpredictable world.",
-      "developer": "Remedy Entertainment Plc."
-    },
-    {
       "id": "9P7LVXNVQ6K7",
       "title": "Control Ultimate Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.3830.14105328782956010.49f773af-c1ba-43ab-a4d2-d9b330f79b47.a6dc6161-010f-47b3-b5c5-db0f5b3b7323",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1710288000000,
       "description": "A corruptive presence has invaded the Federal Bureau of Control…\r\nOnly you have the power to stop it. The world is now your weapon\r\nin an epic fight to annihilate an ominous enemy through deep and\r\nunpredictable environments. Containment has failed, humanity is\r\nat stake. Will you regain control?\r\n",
-      "developer": "Remedy Entertainment Plc."
+      "developer": "Remedy Entertainment Plc.",
+      "removed": false,
+      "aliasIds": [
+        "9P7LVXNVQ6K7",
+        "BZ6W9LRPC26W"
+      ]
     },
     {
       "id": "9P4D0K92BM7V",
@@ -1935,48 +1790,36 @@
       "title": "Crash Bandicoot™ 4: It’s About Time",
       "image": "https://store-images.s-microsoft.com/image/apps.44037.14289021587791584.b9937e17-71a6-4b7c-9b62-a2203c893d9c.8aa52a71-f9d0-4eeb-893c-7dac7774cc9f",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1601593200000,
       "description": "This game leverages Smart Delivery allowing access to both the Xbox One title and the Xbox Series X|S title*.\r\n\r\nBuy digitally and get the Totally Tubular Skins for Crash and Coco**.\r\n\r\nIt’s About Time - for a brand-wumping new Crash Bandicoot™ game!",
-      "developer": ""
-    },
-    {
-      "id": "9NMW7RJ8FP94",
-      "title": "Crash Bandicoot™ 4: It’s About Time (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.48476.13750484087977689.9e720797-3297-4042-be3e-b0fbc4362676.adf5c81a-0ff2-4291-a760-0adb9f074df3",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 253370592000000,
-      "description": "It’s About Time - for a brand-wumping new Crash Bandicoot™ game! Crash fourward into a time shattered adventure with your favourite marsupials.",
-      "developer": "Toys for Bob"
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9PMXPQ307Z5P",
+        "9NMW7RJ8FP94"
+      ]
     },
     {
       "id": "C27XPR5XDMFT",
       "title": "Crash Bandicoot™ N. Sane Trilogy",
       "image": "https://store-images.s-microsoft.com/image/apps.34545.65328483881162508.89a95049-a2dc-4b27-8f56-0a4f5a72a393.e2e2902b-cce7-4ca0-9aba-5f8615c5d9ca",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1530230400000,
       "description": "Your favorite marsupial, Crash Bandicoot™, is back! He’s enhanced, entranced and ready-to-dance with the N. Sane Trilogy. Relive all your favorite moments in Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back and Crash Bandicoot™ 3: Warped, now in fully-remastered graphical glory!",
-      "developer": "Vicarious Visions"
-    },
-    {
-      "id": "9NJ2FD5HJ7SB",
-      "title": "Crash Bandicoot™ N. Sane Trilogy",
-      "image": "https://store-images.s-microsoft.com/image/apps.34545.13619069964366497.5db0830a-5ca2-4c6f-9968-5e84b3538655.4df89f7a-275c-4f1d-8f23-c97ff2f94dd8",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1715097600000,
-      "description": "Your favorite marsupial, Crash Bandicoot™, is back! He’s enhanced, entranced and ready-to-dance with the N. Sane Trilogy. Relive all your favorite moments in Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back and Crash Bandicoot™ 3: Warped, now in fully-remastered graphical glory!",
-      "developer": ""
+      "developer": "Vicarious Visions",
+      "removed": false,
+      "aliasIds": [
+        "C27XPR5XDMFT",
+        "9NJ2FD5HJ7SB"
+      ]
     },
     {
       "id": "9NJJVQZ3BVPX",
@@ -2158,24 +2001,18 @@
       "title": "Dead Island 2",
       "image": "https://store-images.s-microsoft.com/image/apps.26610.66080721822734920.910bec42-dd7c-4bcf-9acb-d97e1b5501f0.5a916954-24f8-4f6e-95e7-74cff29199d9",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1682031600000,
       "description": "The much-loved zombie saga is back! Dead Island 2 is a thrilling First-Person Action RPG with a unique formula of horror, dark humor and over the top zombie-slaying. \r\n\r\nA deadly virus is spreading across Los Angeles, turning its inhabitants into zombies. Bitten, infected, but more than just immune, as you uncover the truth behind the outbreak, you'll discover who - or what - you are. Survive, evolve and become the ultimate Zombie Slayer.",
-      "developer": "Deep Silver Dambuster Studios"
-    },
-    {
-      "id": "9N92LSHFZ935",
-      "title": "Dead Island 2 (Windows)",
-      "image": "https://store-images.s-microsoft.com/image/apps.53931.13545593110318572.fd333505-0282-4b2a-8fb5-fc673cd7a3dc.0f4004b6-f120-467b-9920-d741db8df590",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1730390400000,
-      "description": "The much-loved zombie saga is back! Dead Island 2 is a thrilling First-Person Action RPG with a unique formula of horror, dark humor and over the top zombie-slaying. \n\nA deadly virus is spreading across Los Angeles, turning its inhabitants into zombies. Bitten, infected, but more than just immune, as you uncover the truth behind the outbreak, you'll discover who - or what - you are. Survive, evolve and become the ultimate Zombie Slayer.",
-      "developer": "Deep Silver Dambuster Studios"
+      "developer": "Deep Silver Dambuster Studios",
+      "removed": false,
+      "aliasIds": [
+        "C3L4J3H7H12R",
+        "9N92LSHFZ935"
+      ]
     },
     {
       "id": "9NLB6V0GNC9P",
@@ -2481,72 +2318,54 @@
       "title": "Dishonored 2",
       "image": "https://store-images.s-microsoft.com/image/apps.24615.70043444627144466.07c9aa2e-cabd-4198-941b-534a009f5e9b.82f0bbc8-0892-41c5-9af8-1cfec85abca1",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1478822400000,
       "description": "Reprise your role as a supernatural assassin in Dishonored 2 – the follow up to Arkane Studio's first-person action blockbuster and winner of more than 100 'Game of the Year' awards, Dishonored. Play your way in a world where mysticism and industry collide. How will you combine your character's unique set of powers, weapons and gadgets to eliminate your enemies?",
-      "developer": "Arkane Studios"
-    },
-    {
-      "id": "9MW4RJDRSF78",
-      "title": "Dishonored 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.25940.13846412966040921.9e60d32b-6c69-44a3-9f94-dcaf3d33e79c.eae2e333-c779-4063-aa07-62e6a3188fd6",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1570060800000,
-      "description": "Reprise your role as a supernatural assassin in Dishonored 2 – the next chapter in the award-winning saga by Arkane Studios. Play your way in a world where mysticism and industry collide. How will you combine your character's unique set of powers, weapons and gadgets to eliminate your enemies?",
-      "developer": "Arkane Studios"
+      "developer": "Arkane Studios",
+      "removed": false,
+      "aliasIds": [
+        "BSZM480TSWGP",
+        "9MW4RJDRSF78"
+      ]
     },
     {
       "id": "C299QVC2BSJF",
       "title": "Dishonored® Definitive Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.31289.65371894126242138.81c958b9-c96e-47c6-81fa-93c549ea1a80.d4e80794-bb66-4944-9b45-d4f6f32dde91",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1440720000000,
       "description": "Arkane Studios’ Dishonored®, winner of over 100 Game of the Year awards, and all of its additional content - Dunwall City Trials, The Knife of Dunwall, The Brigmore Witches and Void Walker’s Arsenal - come to the next generation in Dishonored® Definitive Edition!",
-      "developer": "Arkane Studios"
-    },
-    {
-      "id": "9P1N07XDL1D4",
-      "title": "Dishonored® Definitive Edition (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.31289.65371894126242138.81c958b9-c96e-47c6-81fa-93c549ea1a80.d4e80794-bb66-4944-9b45-d4f6f32dde91",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1615507200000,
-      "description": "Dishonored®, winner of over 100 Game of the Year awards is an innovative first person action game that casts you as a supernatural assassin driven by revenge. The Definitive Edition includes the award winning game and all 4 DLCs. \n",
-      "developer": "Arkane Studios"
+      "developer": "Arkane Studios",
+      "removed": false,
+      "aliasIds": [
+        "C299QVC2BSJF",
+        "9P1N07XDL1D4"
+      ]
     },
     {
       "id": "C5F2XDQPPJKZ",
       "title": "Dishonored®: Death of the Outsider™",
       "image": "https://store-images.s-microsoft.com/image/apps.44722.67180938922431908.a2c2d9ea-42a1-4ddc-bf74-8b91562769cf.b7901469-1496-48f1-8128-e353a812e51a",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1505433600000,
       "description": "From the award-winning developers at Arkane® Studios comes Dishonored®: Death of the Outsider, the first standalone adventure in the critically-acclaimed Dishonored® series. Be a badass supernatural assassin and take on the role of notorious Billie Lurk as she reunites with her mentor Daud in order to pull off the greatest assassination ever conceived.",
-      "developer": "Arkane Studios"
-    },
-    {
-      "id": "9MVF0PGV94F7",
-      "title": "Dishonored®: Death of the Outsider™ (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.44722.67180938922431908.a2c2d9ea-42a1-4ddc-bf74-8b91562769cf.b7901469-1496-48f1-8128-e353a812e51a",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1623610800000,
-      "description": "From the award-winning developers at Arkane® Studios comes Dishonored®: Death of the Outsider, the first standalone adventure in the critically-acclaimed Dishonored® series. Be a badass supernatural assassin and take on the role of notorious Billie Lurk as she reunites with her mentor Daud in order to pull off the greatest assassination ever conceived.",
-      "developer": "Arkane Studios"
+      "developer": "Arkane Studios",
+      "removed": false,
+      "aliasIds": [
+        "C5F2XDQPPJKZ",
+        "9MVF0PGV94F7"
+      ]
     },
     {
       "id": "9NSF0BGH8D86",
@@ -2656,24 +2475,18 @@
       "title": "DOOM Eternal Standard Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.33238.14607483449828807.1bf8995c-7221-490e-a6d4-8718054337ce.b335eb86-4cf4-4aca-96ec-8a1dbc19e496",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1584662400000,
       "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity.\n\nThe only thing they fear... is you.\n\nExperience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat.\n\nDiscover the Slayer’s origins and his enduring mission to RAZE HELL.",
-      "developer": "id Software"
-    },
-    {
-      "id": "9PK09BL31FK1",
-      "title": "DOOM Eternal Standard Edition (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.33238.14607483449828807.1bf8995c-7221-490e-a6d4-8718054337ce.b335eb86-4cf4-4aca-96ec-8a1dbc19e496",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1606838400000,
-      "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity.\n\nThe only thing they fear... is you.\n\nExperience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat.\n\nDiscover the Slayer’s origins and his enduring mission to RAZE HELL.",
-      "developer": "id Software"
+      "developer": "id Software",
+      "removed": false,
+      "aliasIds": [
+        "9P5S26314HWQ",
+        "9PK09BL31FK1"
+      ]
     },
     {
       "id": "9PH9X0760B0T",
@@ -3030,24 +2843,18 @@
       "title": "Evil West",
       "image": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1669075200000,
       "description": "A dark menace consumes the Old West. In solo or coop, fight with style in visceral, explosive combat against bloodthirsty monstrosities. Eradicate the vampiric hordes with your lightning-fueled gauntlet and become a Wild West Superhero.",
-      "developer": "Flying Wild Hog"
-    },
-    {
-      "id": "9PC49MD70881",
-      "title": "Evil West (Windows)",
-      "image": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1710979200000,
-      "description": "A dark menace consumes the Old West. In solo or coop, fight with style in visceral, explosive combat against bloodthirsty monstrosities. Eradicate the vampiric hordes with your lightning-fueled gauntlet and become a Wild West Superhero.",
-      "developer": "Flying Wild Hog"
+      "developer": "Flying Wild Hog",
+      "removed": false,
+      "aliasIds": [
+        "9MW581HCJPM6",
+        "9PC49MD70881"
+      ]
     },
     {
       "id": "9PLVVTDHS1P0",
@@ -3134,28 +2941,22 @@
       "developer": "Black Isle Studios"
     },
     {
-      "id": "C29HQ887KH4B",
-      "title": "Fallout 3",
-      "image": "https://store-images.s-microsoft.com/image/apps.40993.65367730044127425.992bf426-3c9a-450f-a792-7946f7138dee.bc090b3e-e51c-49eb-861b-e6093fde7cdd",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1267488000000,
-      "description": "Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Fallout 3 includes an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters. Every minute is a fight for survival against the terrors of the outside world – radiation, Super Mutants, and hostile mutated creatures.",
-      "developer": "Bethesda Game Studios"
-    },
-    {
       "id": "9NBZ9JF6TFMD",
       "title": "Fallout 3: Game of the Year Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.24357.13574127358458005.65070c14-0cf2-44ab-b4fc-c66107fdb092.94056bc4-93e4-4bf6-ab5d-41bc6b808320",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1623610800000,
       "description": "Prepare for the Future™\r\nWith Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
-      "developer": "Bethesda Game Studios"
+      "developer": "Bethesda Game Studios",
+      "removed": false,
+      "aliasIds": [
+        "9NBZ9JF6TFMD",
+        "C29HQ887KH4B"
+      ]
     },
     {
       "id": "C3KLDKZBHNCZ",
@@ -3175,24 +2976,18 @@
       "title": "Fallout 76",
       "image": "https://store-images.s-microsoft.com/image/apps.32675.70143269474194625.b0e8b744-cb24-48cd-9498-108cc064643f.8f726167-1f33-4d48-910a-2b00822b4ecc",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1542153600000,
       "description": "Twenty-five years after the bombs fall, you and your fellow Vault Dwellers emerge into post-nuclear America. Join millions of players as you explore, build, quest, and triumph in a massive open-world multiplayer adventure.  ",
-      "developer": "Bethesda Game Studios"
-    },
-    {
-      "id": "9NKGNMNK3K3Z",
-      "title": "Fallout 76 (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.32675.13657086471689364.8f674de7-1bef-4801-8dbc-109dbe27b897.6ce291f2-7d07-44e5-96ff-13d996b0c30c",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1594303200000,
-      "description": "Twenty-five years after the bombs fall, you and your fellow Vault Dwellers emerge into post-nuclear America. Join millions of players as you explore, build, quest, and triumph in a massive open-world multiplayer adventure.  ",
-      "developer": "Bethesda Game Studios"
+      "developer": "Bethesda Game Studios",
+      "removed": false,
+      "aliasIds": [
+        "BS6WJ2L56B10",
+        "9NKGNMNK3K3Z"
+      ]
     },
     {
       "id": "9NDV7FRVD7ML",
@@ -3207,28 +3002,22 @@
       "developer": "14° East"
     },
     {
-      "id": "BX3JNK07Z6QK",
-      "title": "Fallout: New Vegas",
-      "image": "https://store-images.s-microsoft.com/image/apps.1348.63413868670389858.a909f79f-bf9a-495a-9565-6895806c3525.4fb9db2d-c395-4076-9a58-6521ec1898e9",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1303171200000,
-      "description": "Experience all the sights and sounds of fabulous New Vegas, brought to you by Vault-Tec, America's First Choice in Post Nuclear Simulation. Explore the treacherous wastes of the Great Southwest from the safety and comfort of your very own vault: Meet new people, confront terrifying creatures, and arm yourself with the latest high-tech weaponry as you make a name for yourself on a thrilling new journey across the Mojave wasteland. A word of warning, however - while Vault-Tec engineers have prepa…",
-      "developer": "Obsidian Entertainment"
-    },
-    {
       "id": "9MZR11JRF7BX",
       "title": "Fallout: New Vegas Ultimate Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.17824.13869736752294987.ca050464-c72a-476d-941d-c1c814c4213d.22193914-bba5-45a2-a8ab-f772df16337d",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1623610800000,
       "description": "Welcome Back to New Vegas\r\n\r\nWith the introduction of the Ultimate Edition, Bethesda Softworks offers you the chance to double-down and get the complete package of New Vegas fun. Including the full suite of add-on content: Dead Money, Honest Hearts, Old World Blues and Lonesome Road.",
-      "developer": "Obsidian Entertainment"
+      "developer": "Obsidian Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9MZR11JRF7BX",
+        "BX3JNK07Z6QK"
+      ]
     },
     {
       "id": "9NXWKGRHT31F",
@@ -3283,144 +3072,108 @@
       "title": "FAR CRY 4",
       "image": "https://store-images.s-microsoft.com/image/apps.39188.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.e847702b-a550-4396-929e-2265837971a7",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "THE SEQUEL TO THE BEST-RATED SHOOTER OF 2012* Built from the legendary DNA of its award-winning predecessor, Far Cry® 4 delivers the most expansive and immersive Far Cry® experience ever in an entirely new and massive open world. With integrated drop-in/drop-out open world co-op play, Far Cry 4 re-imagines the cooperative experience for the next generation. You’ll now be able to discover and explore the living open world of Kyrat together. *Based on Metacritic on 12/18/2012",
-      "developer": "Ubisoft Entertainment"
+      "developer": "Ubisoft Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9MVV32Z0JPCL",
+        "C0KJ40T9QD86"
+      ]
     },
     {
       "id": "9NWX420Z2NLG",
       "title": "Far Cry New Dawn",
       "image": "https://store-images.s-microsoft.com/image/apps.64306.14362540444080020.c2f260b5-6cc7-4ec2-b90f-271c59d624ae.ab1ad504-2f2f-4f91-9b3e-89f8cfe1703a",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "Dive into a transformed vibrant post-apocalyptic Hope County, Montana, 17 years after a global nuclear catastrophe.\nLead the fight against the Highwaymen, as they seek to take over the last remaining resources\n",
-      "developer": "Ubisoft Montréal"
-    },
-    {
-      "id": "BV6BRSLFJW3W",
-      "title": "FAR CRY PRIMAL",
-      "image": "https://store-images.s-microsoft.com/image/apps.64306.14079505688681780.9ec50825-311f-45ea-ad4f-9e9011ea0aaa.473ceee0-ea6e-4be1-bbd8-a21e0adbaaf7",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1456185600000,
-      "description": "The award-winning Far Cry franchise returns with its innovative open world gameplay, bringing together massive beasts, breathtaking environments, and unpredictable savage encounters.\nWelcome to the Stone Age, a time of danger and adventure, when giant mammoths and sabretooth tigers ruled the Earth. As the last survivor of your hunting group, rise above extinction and unite your tribe.",
-      "developer": ""
+      "developer": "Ubisoft Montréal",
+      "removed": false,
+      "aliasIds": [
+        "9NWX420Z2NLG",
+        "C1DDW4PRF6K5"
+      ]
     },
     {
       "id": "9P1HX8TFF3VW",
       "title": "FAR CRY PRIMAL",
       "image": "https://store-images.s-microsoft.com/image/apps.64306.14079505688681780.9ec50825-311f-45ea-ad4f-9e9011ea0aaa.473ceee0-ea6e-4be1-bbd8-a21e0adbaaf7",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "The award-winning Far Cry franchise returns with its innovative open world gameplay, bringing together massive beasts, breathtaking environments, and unpredictable savage encounters.\nWelcome to the Stone Age, a time of danger and adventure, when giant mammoths and saber-toothed tigers ruled the Earth, and humanity is struggling to climb the food chain. As the last survivor of your hunting group, you will have to rise above extinction and unite your tribe.\n",
-      "developer": "Ubisoft Montreal"
-    },
-    {
-      "id": "C0KJ40T9QD86",
-      "title": "Far Cry® 4",
-      "image": "https://store-images.s-microsoft.com/image/apps.39188.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.e847702b-a550-4396-929e-2265837971a7",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1416268800000,
-      "description": "Fight to liberate a war-torn Himalayan region in this open world first-person shooter. Wield a deadly arsenal, dominate land and sky with gyrocopters and war elephants, and take on enemy territory solo or in co-op.",
-      "developer": "Ubisoft Entertainment"
+      "developer": "Ubisoft Montreal",
+      "removed": false,
+      "aliasIds": [
+        "9P1HX8TFF3VW",
+        "BV6BRSLFJW3W"
+      ]
     },
     {
       "id": "BR7X7MVBBQKM",
       "title": "Far Cry® 5",
       "image": "https://store-images.s-microsoft.com/image/apps.11227.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.38d7bb7c-3e33-471b-b22d-0f0a635832ad",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1522108800000,
       "description": "Fight a fanatical cult in this open world first-person shooter. Engage in intense combat, free hostile territory, recruit loyal followers and animal allies, and liberate Hope County solo or in full 2-player co-op.",
-      "developer": "Ubisoft Montreal"
-    },
-    {
-      "id": "9NG3KNWZ7RZ7",
-      "title": "Far Cry® 5",
-      "image": "https://store-images.s-microsoft.com/image/apps.11227.13854064794267441.94759370-3bae-49be-8744-70f1fe6538cc.c9b8cbca-7e22-4876-af9a-51e62fcb1ddb",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Discover the open world of Hope County, Montana, besieged by a fanatical doomsday cult. Dive into the action solo or two-player co-op in the story campaign, use a vast arsenal of weapons and allies, and free Hope County from Joseph Seed and his cult.",
-      "developer": ""
+      "developer": "Ubisoft Montreal",
+      "removed": false,
+      "aliasIds": [
+        "BR7X7MVBBQKM",
+        "9NG3KNWZ7RZ7"
+      ]
     },
     {
       "id": "9PJ45NJCHSFS",
       "title": "Far Cry® 6",
       "image": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "Enter the adrenaline-filled world of a modern-day guerrilla revolution. With stunning vistas, visceral gunplay, and a huge variety of gameplay experiences, there's never been a better time to join the fight. \n\nPlay the Far Cry® 6 FREE TRIAL and discover why GAME INFORMER calls it \"A nonstop thrill ride from start to finish.\" And, when you buy the full game, all of your progression will be saved.",
-      "developer": "UBISOFT TORONTO"
-    },
-    {
-      "id": "C1DDW4PRF6K5",
-      "title": "Far Cry® New Dawn",
-      "image": "https://store-images.s-microsoft.com/image/apps.64306.64841033704503268.bc0de57e-6dcd-40b5-b35e-f9f46b4ec1ae.f10b3597-c0ec-428e-9266-d457abfd1d56",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1550188800000,
-      "description": "Dive into a transformed vibrant post apocalyptic Hope County, Montana, 17 years after a global nuclear catastrophe\nJoin fellow survivors from Hope County and lead the fight against the dangerous new threat known as the Highwaymen, and their ruthless leaders The Twins, as they seek to destroy and take over the last remaining resources by any means necessary",
-      "developer": "Ubisoft"
-    },
-    {
-      "id": "9PBNGCVBGML0",
-      "title": "FARCRY 6",
-      "image": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1633564800000,
-      "description": "Lead the revolution alone or with a friend in this first-person open world guerrilla shooter. Fight with improvised weapons, travel however you can, and build your rebel network to take down Castillo's regime.",
-      "developer": ""
+      "developer": "UBISOFT TORONTO",
+      "removed": false,
+      "aliasIds": [
+        "9PJ45NJCHSFS",
+        "9PBNGCVBGML0"
+      ]
     },
     {
       "id": "9NMCDQ6RCJKH",
       "title": "Farming Simulator 25",
       "image": "https://store-images.s-microsoft.com/image/apps.10230.14299110548313627.7e916051-145b-467d-9222-536b54bd914d.dc5e8877-ad6a-4363-a2c2-691cac6a8715",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1731416400000,
-      "description": "Farming Simulator 25 invites you to join the rewarding farm life. Whether you build your legacy single-handedly or cooperatively in multiplayer - you decide: This Farm is Your Farm!\n\nNew features incl",
-      "developer": "GIANTS Software"
-    },
-    {
-      "id": "9PM709J61828",
-      "title": "Farming Simulator 25 (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.10230.14299110548313627.7e916051-145b-467d-9222-536b54bd914d.dc5e8877-ad6a-4363-a2c2-691cac6a8715",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1731416400000,
       "description": "Farming Simulator 25 invites you to join the rewarding farm life. Whether you build your legacy single-handedly or cooperatively in multiplayer - you decide: This Farm is Your Farm!\n\nNew features incl",
-      "developer": "GIANTS Software"
+      "developer": "GIANTS Software",
+      "removed": false,
+      "aliasIds": [
+        "9NMCDQ6RCJKH",
+        "9PM709J61828"
+      ]
     },
     {
       "id": "9PDCN8Z4HKRN",
@@ -3804,18 +3557,6 @@
       "developer": "The Coalition"
     },
     {
-      "id": "BPN08ZDRPSFK",
-      "title": "Gears of War",
-      "image": "https://store-images.s-microsoft.com/image/apps.39791.68631123789499032.6299bbb9-6778-40d5-965f-080b552baa15.c327f5b7-91e3-410e-82c2-fa853abddf3a",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1262044800000,
-      "description": "A Nightmare from Below. A Hero from Within.The planet lies in ruin - cities crumbling, Man’s greatest works fallen. Humanity is cornered, nowhere to run. The Locust Horde has risen, and they won’t stop coming. They won’t stop killing.The Coalition is desperate for soldiers. The sick, the wounded, the imprisoned are all that remain. An inmate named Marcus Fenix, once left to die, is now charged with keeping humanity alive. He can take comfort in but one fact: The human race isn’t extinct. Yet",
-      "developer": "Epic Games, Inc."
-    },
-    {
       "id": "C1SDBNRFXT1D",
       "title": "Gears of War 2",
       "image": "https://store-images.s-microsoft.com/image/apps.45516.65595136073047161.857e51a5-2b52-4c0e-8ac2-92b6b4609fc2.d6aede50-9d8f-4813-9417-fab3a1d88e74",
@@ -3895,24 +3636,19 @@
       "title": "Gears of War: Ultimate Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.16874.68785176255228170.152a1029-d0c3-4d27-a42d-ecccb32aa4ca.ae64277d-82d7-4a9a-a292-646d7752a36d",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1440720000000,
       "description": "This version is only available in Xbox Game Pass. Purchase the Deluxe Version of Gears of War: Ultimate Edition for the equivalent price. See it in the “Included in” section below.\r\n\r\nThe landmark original Gears of War returns, stunningly remastered and modernized for Xbox One. ",
-      "developer": "The Coalition"
-    },
-    {
-      "id": "9NBLGGH3SHM5",
-      "title": "Gears of War: Ultimate Edition for Windows 10",
-      "image": "https://store-images.s-microsoft.com/image/apps.2678.13510798884671596.04227bb2-4efd-4b7d-9781-e52626ebb47f.6187888f-814a-4442-bb7b-859746425162",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1454297314190,
-      "description": "Gears of War returns, stunningly remastered and modernized for Windows 10 with up to 4K resolution and unlocked refresh rates. Gears of War: Ultimate Edition for Windows 10 is loaded with content including five campaign chapters not on the Xbox 360 version.",
-      "developer": ""
+      "developer": "The Coalition",
+      "removed": false,
+      "aliasIds": [
+        "BQT21VXFS52F",
+        "9NBLGGH3SHM5",
+        "BPN08ZDRPSFK"
+      ]
     },
     {
       "id": "9NN3HCKW5TPC",
@@ -4184,48 +3920,36 @@
       "title": "Halo Wars 2: Standard Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.53461.66922732424733865.effc282c-0a95-45c2-8069-86e7e083b3aa.a6e0c6a7-34c8-410b-871a-b1e6d650871a",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1487635200000,
-      "description": "Real-time strategy makes an explosive return to the Halo universe in Halo Wars 2. Lead Spartans, Warthogs and other classic Halo fighting forces in a brutal war against a terrifying new enemy on the biggest Halo battlefield ever.\r\n\r\n*Online multiplayer features require Xbox Live Gold membership (sold separately).",
-      "developer": "343 Industries / Creative Assembly"
-    },
-    {
-      "id": "9NBLGGH515BD",
-      "title": "Halo Wars 2: Standard Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.53461.13510798887619155.1152921504738972017.5326d79a-5563-43b1-9249-9ae75fd10bd2",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1487635200000,
-      "description": "Halo Wars 2 delivers real-time strategy at the speed of Halo combat. Get ready to lead Spartans, Warthogs and other classic Halo fighting forces in a brutal war against a terrifying new enemy on the biggest Halo battlefield ever.*\r\n\r\n*Online multiplayer features require Game Pass Core membership (sold separately).",
-      "developer": "343 Industries / Creative Assembly"
+      "description": "Real-time strategy makes an explosive return to the Halo universe in Halo Wars 2. Lead Spartans, Warthogs and other classic Halo fighting forces in a brutal war against a terrifying new enemy on the biggest Halo battlefield ever.\r\n\r\n*Online multiplayer features require Xbox Live Gold membership (sold separately).",
+      "developer": "343 Industries / Creative Assembly",
+      "removed": false,
+      "aliasIds": [
+        "C42KCJCLX6MX",
+        "9NBLGGH515BD"
+      ]
     },
     {
       "id": "BPRPQSKXTD1L",
       "title": "Halo Wars: Definitive Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.54072.68131417927341023.6f4f8f73-402d-42d7-8fff-a37b68438b32.3177700b-acd5-42f3-b2bc-9bd10bfbf465",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1482192000000,
       "description": "Halo Wars Definitive Edition is an enhanced version of the original Halo Wars that runs natively on Xbox One and Windows 10. Halo Wars: Definitive Edition includes improved graphics, new achievements and all the DLC from the landmark game.",
-      "developer": "343 Industries / Behaviour Interactive"
-    },
-    {
-      "id": "9NBLGGH5WLR0",
-      "title": "Halo Wars: Definitive Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.54072.13510798886375925.a3c39459-7c74-42c8-97c9-13df3fdc58ac.10fbc36f-0f9c-4191-9977-093f1ed47e2f",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1492707600000,
-      "description": "Halo Wars: Definitive Edition is an enhanced version of the real-time strategy classic, Halo Wars, updated to run natively on Xbox One and Windows 10. Halo Wars: Definitive Edition includes improved graphics, new achievements and all of the DLC created for the landmark strategy game.",
-      "developer": "343 Industries / Behaviour Interactive"
+      "developer": "343 Industries / Behaviour Interactive",
+      "removed": false,
+      "aliasIds": [
+        "BPRPQSKXTD1L",
+        "9NBLGGH5WLR0"
+      ]
     },
     {
       "id": "9N6J4RNFPKKL",
@@ -4245,24 +3969,18 @@
       "title": "Halo: Spartan Assault",
       "image": "https://store-images.s-microsoft.com/image/apps.20431.70634858521726340.aed5ca97-d1dc-4d71-ae1f-b3f94bf8b727.1e47fef5-905e-40b4-8765-f294f6bbff1f",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1387756800000,
       "description": "Halo: Spartan Assault is a fast paced top-down shooter set during the timeline between “Halo 3” and “Halo 4,” progress your Spartan career as you engage in over 30 exciting Campaign missions using many  of favorite Halo weapons, vehicles and armor abilities.\r\n\r\nTeam-up on Xbox Live and fight with a friend against waves of the nightmarish Flood in the all-new online co-op multiplayer mode.",
-      "developer": "Vanguard Games"
-    },
-    {
-      "id": "9WZDNCRFHWFH",
-      "title": "Halo: Spartan Assault",
-      "image": "https://store-images.s-microsoft.com/image/apps.10757.9007199266246750.f909a15b-19f6-4a02-b196-304ded2b15b6.1bd2e5b0-7d26-471d-9e58-182326f2dd9a",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1373326419769,
-      "description": "Halo: Spartan Assault brings the excitement of Halo combat to touch-based devices for the very first time. Battle your way through 30 action-packed missions against the Covenant as you explore the ori",
-      "developer": ""
+      "developer": "Vanguard Games",
+      "removed": false,
+      "aliasIds": [
+        "BV0K9LMLQ9W5",
+        "9WZDNCRFHWFH"
+      ]
     },
     {
       "id": "9WZDNCRFJBFJ",
@@ -4281,24 +3999,18 @@
       "title": "Halo: The Master Chief Collection",
       "image": "https://store-images.s-microsoft.com/image/apps.13367.14415742612829493.1297136a-f273-41f1-947f-59044c848c55.5b67a38e-b742-4dce-a884-4e2878d50c54",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1573765200000,
       "description": "Six games, one epic saga. The Master Chief's entire story is brought together and optimized for Xbox Series X|S. : Featuring Halo: Reach, Halo: Combat Evolved Anniversary, Halo 2: Anniversary, Halo 3, Halo 3: ODST Campaign, and Halo 4, this is the definitive Halo experience. ",
-      "developer": "343 Industries"
-    },
-    {
-      "id": "9NTM9HXNLSZX",
-      "title": "Halo: The Master Chief Collection",
-      "image": "https://store-images.s-microsoft.com/image/apps.15328.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.516eb47c-697b-46db-8ba6-f44da2e5592d",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1575396000000,
-      "description": "The Master Chief’s iconic journey includes six games, built for PC and collected in a single integrated experience. Whether you’re a long-time fan or meeting Spartan 117 for the first time, The Master Chief Collection is the definitive Halo gaming experience.",
-      "developer": "343 Industries"
+      "developer": "343 Industries",
+      "removed": false,
+      "aliasIds": [
+        "9MT8PTGVHX2P",
+        "9NTM9HXNLSZX"
+      ]
     },
     {
       "id": "BZ910SG8ML8X",
@@ -4343,24 +4055,18 @@
       "title": "Hellblade: Senua's Sacrifice",
       "image": "https://store-images.s-microsoft.com/image/apps.28362.67453348098260763.a9f96429-c651-425e-97d2-e8861561f15f.f7b26f7f-73d8-4f53-9f3b-4d9e4e4d23f0",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1523404800000,
       "description": "From the makers of Heavenly Sword, Enslaved: Odyssey to the West, and DmC: Devil May Cry, comes a warrior’s brutal journey into myth and madness.\r\n\r\nSet in the Viking age, a broken Celtic warrior embarks on a haunting vision quest into Viking Hell to fight for the soul of her dead lover. \r\n\r\nCreated in collaboration with neuroscientists and people who experience psychosis, Hellblade: Senua’s Sacrifice will pull you deep into Senua’s mind.",
-      "developer": "Ninja Theory Ltd"
-    },
-    {
-      "id": "9NCLP4LV5K7Z",
-      "title": "Hellblade: Senua's Sacrifice",
-      "image": "https://store-images.s-microsoft.com/image/apps.28362.13565840937352332.c2117327-dc52-4f1e-bf4a-9beb5fedd166.78951c7f-52a4-45b5-b874-ddca18877849",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1523401200000,
-      "description": "From the makers of Heavenly Sword, Enslaved: Odyssey to the West, and DmC: Devil May Cry, comes a warrior’s brutal journey into myth and madness.\r\n\r\nSet in the Viking age, a broken Celtic warrior embarks on a haunting vision quest into Viking Hell to fight for the soul of her dead lover. \r\n\r\nCreated in collaboration with neuroscientists and people who experience psychosis, Hellblade: Senua’s Sacrifice will pull you deep into Senua’s mind. ",
-      "developer": "Ninja Theory Ltd"
+      "developer": "Ninja Theory Ltd",
+      "removed": false,
+      "aliasIds": [
+        "C4Z7QM8FSXM2",
+        "9NCLP4LV5K7Z"
+      ]
     },
     {
       "id": "9NNHK7K8RV9C",
@@ -4553,52 +4259,40 @@
       "developer": "No Brakes Games"
     },
     {
-      "id": "9P57SQHVWND7",
-      "title": "Hungry Shark World",
-      "image": "https://store-images.s-microsoft.com/image/apps.24951.14578227968111296.1e769f08-4f00-4195-837d-69681da2fa01.d356260c-b409-4e85-ab3b-2e95eb1a52ed",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1531785600000,
-      "description": "Become a shark and spread terror on the beach! \n",
-      "developer": "Future Games of London, Ubisoft Da Nang"
-    },
-    {
       "id": "C3NHWKLR94M9",
       "title": "Hungry Shark® World",
       "image": "https://store-images.s-microsoft.com/image/apps.27926.66737642935896860.41884042-7fd3-4645-a679-7e762962b532.d8432a87-b165-4216-b6fa-625c829e801f",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1531785600000,
       "description": "The latest installment of the award-winning Hungry Shark® series now on console!\r\nBecome a shark and spread terror on the beach! \r\nExperience life as a shark in full HD with redefined, and fully optimized, gamepad controls.",
-      "developer": "Future Games of London – A Ubisoft Studio"
+      "developer": "Future Games of London – A Ubisoft Studio",
+      "removed": false,
+      "aliasIds": [
+        "C3NHWKLR94M9",
+        "9P57SQHVWND7"
+      ]
     },
     {
       "id": "C07KJZRH0L7S",
       "title": "Immortals Fenyx Rising™",
       "image": "https://store-images.s-microsoft.com/image/apps.24779.64682799204913125.f407971c-f15c-4acc-99e1-682aec54019d.985e964e-48ec-4ebe-959d-58fdbe158f01",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1606953600000,
       "description": "Immortals Fenyx Rising brings grand mythological adventure to life. Play as Fenyx, on a quest to save the Greek gods from a dark curse. \r\n\r\nWield the powers of the gods to battle powerful mythological beasts in the air or on the ground, and solve ancient puzzles. \r\n\r\nThe fate of the world is at stake – you are the gods’ last hope.",
-      "developer": "UBISOFT Quebec"
-    },
-    {
-      "id": "9NV0Q705NQ2N",
-      "title": "Immortals Fenyx Rising™",
-      "image": "https://store-images.s-microsoft.com/image/apps.24779.64682799204913125.f407971c-f15c-4acc-99e1-682aec54019d.985e964e-48ec-4ebe-959d-58fdbe158f01",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Immortals Fenyx Rising brings grand mythological adventure to life. Play as Fenyx, on a quest to save the Greek gods from a dark curse. \n\nWield the powers of the gods to battle powerful mythological beasts in the air or on the ground, and solve ancient puzzles. \n\nThe fate of the world is at stake – you are the gods’ last hope.",
-      "developer": "UBISOFT Quebec"
+      "developer": "UBISOFT Quebec",
+      "removed": false,
+      "aliasIds": [
+        "C07KJZRH0L7S",
+        "9NV0Q705NQ2N"
+      ]
     },
     {
       "id": "9NSD4HTWM8HT",
@@ -4844,24 +4538,18 @@
       "title": "Killer Instinct: Anniversary Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.34467.13952178927417910.ff893240-27f8-4a82-baab-c24dbb3d822c.b40ba073-6338-4b43-a77c-4ff011e4f47d",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1701187200000,
-      "description": "Killer Instinct Anniversary Edition is the ultimate fighting game for Xbox Series X|S.  Includes all 29 Fighters and all premium content ever released for Killer Instinct. Fight in 4K resolution and 60 FPS on Xbox Series X and Compatible PCs. Enjoy improved matchmaking, balance updates, and cross-play with Windows 11 PC. Join the fight club and unleash your killer instinct!\r\n",
-      "developer": "Iron Galaxy"
-    },
-    {
-      "id": "9N04NS8TP202",
-      "title": "Killer Instinct: Anniversary Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.34467.13932214703798037.01f4a336-1152-4028-a595-8468f5ffb4a1.fea5da3c-49fb-4a98-a0c6-5a14ce874384",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1701187200000,
-      "description": "Killer Instinct is the ultimate fighting game for Xbox!  Experience 4K visuals and 60 FPS on Xbox Series X and Compatible PCs. Enjoy improved matchmaking and cross-play with Windows 11 PC. Fight on!",
-      "developer": "Iron Galaxy"
+      "description": "Killer Instinct Anniversary Edition is the ultimate fighting game for Xbox Series X|S.  Includes all 29 Fighters and all premium content ever released for Killer Instinct. Fight in 4K resolution and 60 FPS on Xbox Series X and Compatible PCs. Enjoy improved matchmaking, balance updates, and cross-play with Windows 11 PC. Join the fight club and unleash your killer instinct!\r\n",
+      "developer": "Iron Galaxy",
+      "removed": false,
+      "aliasIds": [
+        "9N2HB4MWG7HM",
+        "9N04NS8TP202"
+      ]
     },
     {
       "id": "9MW53ZKZH168",
@@ -4881,24 +4569,18 @@
       "title": "Kingdom Come: Deliverance",
       "image": "https://store-images.s-microsoft.com/image/apps.41462.67852277315147388.d5a39ed0-009d-48ff-b846-7571463e338c.14d7551c-83ad-4629-ab3e-3774d12a4ae1",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1518480000000,
       "description": "(Re)discover Henry’s saga, from the start! Experience Kingdom Come: Deliverance, the iconic story-driven open-world RPG set in medieval Bohemia. \n",
-      "developer": "Warhorse Studios"
-    },
-    {
-      "id": "9P3T7HVKM6D0",
-      "title": "Kingdom Come: Deliverance",
-      "image": "https://store-images.s-microsoft.com/image/apps.40171.14531461635142175.a52f54b0-3b79-489a-a2c3-d2c875b56013.d64005e7-c8fa-4b5f-aa62-f11a974115ee",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1566432000000,
-      "description": "Kingdom Come: Deliverance is a story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. Explore majestic castles, deep forests, thriving villages and countless other realistic settings in medieval Bohemia!",
-      "developer": "Warhorse Studios"
+      "developer": "Warhorse Studios",
+      "removed": false,
+      "aliasIds": [
+        "BNBWFH89FCF1",
+        "9P3T7HVKM6D0"
+      ]
     },
     {
       "id": "9N4W31HSMVVD",
@@ -5016,28 +4698,22 @@
       "developer": "Ryu Ga Gotoku Studio"
     },
     {
-      "id": "BTQMHK78ZPF9",
-      "title": "LIMBO",
-      "image": "https://store-images.s-microsoft.com/image/apps.2136.70505351891869244.31919849-717c-43fc-978a-de5dbc419999.b6931d7c-7172-411c-92bc-afed5e624463",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1417737600000,
-      "description": "Uncertain of his sister's fate, a boy enters LIMBO",
-      "developer": "Playdead, Double Eleven"
-    },
-    {
       "id": "9PNG83MDD6SH",
       "title": "LIMBO",
       "image": "https://store-images.s-microsoft.com/image/apps.26565.14349397584144848.e2ddb78a-7e1b-4739-8df1-9ccec4985c50.017b0436-d3f6-4dc9-99d5-8e9cdc0aab7f",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1625097600000,
       "description": "Uncertain of his sister's fate, a boy enters LIMBO.",
-      "developer": "Playdead"
+      "developer": "Playdead",
+      "removed": false,
+      "aliasIds": [
+        "9PNG83MDD6SH",
+        "BTQMHK78ZPF9"
+      ]
     },
     {
       "id": "9NF5S7MLM8XT",
@@ -5311,19 +4987,12 @@
       "ea": false,
       "release": 1665079200000,
       "description": "Hunt, survive, build and lead in the harsh Middle Ages: Create your own Medieval Dynasty and ensure its long-lasting prosperity or die trying!",
-      "developer": "Render Cube"
-    },
-    {
-      "id": "9N2PS831S84N",
-      "title": "Medieval Dynasty (Xbox One)",
-      "image": "https://store-images.s-microsoft.com/image/apps.30751.13947624431918587.6348864b-b823-4363-9d17-7672333870b8.0814e975-f52f-4570-a244-2164e64c09d9",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1682002800000,
-      "description": "Hunt, survive, build and lead in the harsh Middle Ages: Create your own Medieval Dynasty and ensure its long-lasting prosperity or die trying!",
-      "developer": "Render Cube"
+      "developer": "Render Cube",
+      "removed": false,
+      "aliasIds": [
+        "9PDDP6ML6XHF",
+        "9N2PS831S84N"
+      ]
     },
     {
       "id": "9NM8GHT6CXN4",
@@ -5477,24 +5146,18 @@
       "title": "Minecraft Preview",
       "image": "https://store-images.s-microsoft.com/image/apps.27876.13783157071567687.ff7d68e1-4f0d-4876-b0f7-2bb5d9c0fdea.73450068-a76d-459f-9887-a24f7e805097",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 253370592000000,
       "description": "Minecraft Preview is only available to players who own Minecraft. Preview allows you to experience unreleased Minecraft features, fresh from the development team at Mojang Studios! ",
-      "developer": "Mojang/Microsoft Studios"
-    },
-    {
-      "id": "9P5X4QVLC2XR",
-      "title": "Minecraft Preview for Windows",
-      "image": "https://store-images.s-microsoft.com/image/apps.27876.14635563885955208.3111e5ec-659e-41be-beec-f0dfb16dd9f1.7820bcd5-07aa-405e-94c1-c9474a9029f3",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1644397200000,
-      "description": "Minecraft Preview is only available to players who own Minecraft. Preview allows you to experience unreleased Minecraft features, fresh from the development team at Mojang Studios! ",
-      "developer": "Mojang/Microsoft Studios"
+      "developer": "Mojang/Microsoft Studios",
+      "removed": false,
+      "aliasIds": [
+        "9NQ19C36R0VD",
+        "9P5X4QVLC2XR"
+      ]
     },
     {
       "id": "9NXP44L49SHJ",
@@ -5585,28 +5248,22 @@
       "developer": "Beethoven & Dinosaur"
     },
     {
-      "id": "9P0RGJND5SR0",
-      "title": "Monopoly Madness",
-      "image": "https://store-images.s-microsoft.com/image/apps.35409.14525699525425613.9329bf2d-2490-4f7b-bf0f-cdbaa75d45b4.addb5bfa-936f-4cb1-a823-87d71ecfebb6",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1639008000000,
-      "description": "Rediscover the MONOPOLY you love in a way you’ve never seen before. With shorter rounds, race other players across the chaotic streets of Monopoly City, collect resources, buy and upgrade properties, mess with your opponents and avoid their tricks to win the race for riches. This is Madness!",
-      "developer": ""
-    },
-    {
       "id": "9MTP0GJ0Q3MG",
       "title": "MONOPOLY Madness",
       "image": "https://store-images.s-microsoft.com/image/apps.35409.13808779927576771.54f3b0bb-d5c4-4718-83d8-f32cd140e1c8.da81a781-0861-4998-8268-e4b97aeac80e",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1631145600000,
       "description": "Rediscover the MONOPOLY you love in a way you’ve never seen before. This is Madness!",
-      "developer": "Engine Software, Asobo"
+      "developer": "Engine Software, Asobo",
+      "removed": false,
+      "aliasIds": [
+        "9MTP0GJ0Q3MG",
+        "9P0RGJND5SR0"
+      ]
     },
     {
       "id": "9MZNS9NZ97PF",
@@ -5826,24 +5483,18 @@
       "title": "New MONOPOLY®",
       "image": "https://store-images.s-microsoft.com/image/apps.64235.14087884600963538.c4b454e8-46a3-41fd-988e-e14516455c66.70a85c96-4793-4ebb-b9aa-9415250569e2",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1727305200000,
       "description": "NEW MONOPOLY® is back with a fresh look and an improved game experience. Buy, sell, trade properties, and grow your empire in a fully animated 3D city that transforms from sunlit days to stormy nights as you play.",
-      "developer": ""
-    },
-    {
-      "id": "9NVH8SJNX20S",
-      "title": "NEW MONOPOLY®",
-      "image": "https://store-images.s-microsoft.com/image/apps.64235.14413018653132681.2d76bec8-c25a-469e-9cf1-eaaa965332ec.caaf0b02-181d-4f13-b640-5e572719e02c",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "MONOPOLY® is back with a fresh look and improved game experience. Buy, sell, trade properties, and grow your empire in a fully animated 3D city that transforms from sunlit days to stormy nights as you play.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9P8H220G3S4P",
+        "9NVH8SJNX20S"
+      ]
     },
     {
       "id": "9MZN3SMXN824",
@@ -6015,24 +5666,18 @@
       "title": "OddBallers",
       "image": "https://store-images.s-microsoft.com/image/apps.2153.14285324483181019.341ded0c-fb1a-4150-aca3-e692fe6f9620.4a730957-e331-44a5-a666-448fe037a4c7",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1674691200000,
-      "description": "OddBallers™ is a hilariously charming and totally bonkers multiplayer party game where each round is a new, absurd type of dodgeball.",
-      "developer": "Game Swing, Ubisoft Mumbai."
-    },
-    {
-      "id": "9N4WHFF9HJ7H",
-      "title": "OddBallers™",
-      "image": "https://store-images.s-microsoft.com/image/apps.2153.13979315922329534.cd56ff15-6cdc-4216-8ade-9004a01f67be.d9d40b14-be9d-4786-8a7e-af6c76412285",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1674691200000,
-      "description": "OddBallers™ is a totally bonkers multiplayer party game where each round is a new, absurd type of dodgeball.",
-      "developer": ""
+      "description": "OddBallers™ is a hilariously charming and totally bonkers multiplayer party game where each round is a new, absurd type of dodgeball.",
+      "developer": "Game Swing, Ubisoft Mumbai.",
+      "removed": false,
+      "aliasIds": [
+        "9PMX3SK2RMG4",
+        "9N4WHFF9HJ7H"
+      ]
     },
     {
       "id": "9N0QWXC09MPT",
@@ -6052,24 +5697,18 @@
       "title": "Ori and the Blind Forest: Definitive Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.4128.71930896676716842.b6740fa4-0359-4ca8-9e17-5d4e45c2d497.ffa292b1-579d-4a08-99ef-308ab7791f79",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1457654400000,
       "description": "The forest of Nibel is dying. After a powerful storm sets a series of devastating events in motion, Ori must journey to find courage and confront a dark nemesis to save the forest of Nibel. Experience a visually stunning, hand-crafted adventure with a deeply emotional story in the Definitive Edition of Ori and the Blind Forest from Moon Studios.",
-      "developer": "Moon Studios"
-    },
-    {
-      "id": "9NBLGGH1Z6FB",
-      "title": "Ori and the Blind Forest: Definitive Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.4128.13510798886186647.8c0ab761-dafd-44d5-ba8a-f32d95f7f9d6.48252971-733f-480c-b261-787206b064c1",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1459301628716,
-      "description": "Ori and the Blind Forest is a must-play, award winning franchise that tells the tale of a young orphan destined for heroics, through a visually stunning Action-Platformer crafted by Moon Studios. Featuring hand-painted artwork, meticulously animated character performance, a fully orchestrated score and dozens of new features in the Definitive Edition, “Ori and the Blind Forest” explores a deeply emotional story about love and sacrifice, and the hope that exists in us all.",
-      "developer": "Moon Studios"
+      "developer": "Moon Studios",
+      "removed": false,
+      "aliasIds": [
+        "BW85KQB8Q31M",
+        "9NBLGGH1Z6FB"
+      ]
     },
     {
       "id": "9N8CD0XZKLP4",
@@ -6102,24 +5741,18 @@
       "title": "Overcooked! 2",
       "image": "https://store-images.s-microsoft.com/image/apps.12517.70952388438497888.9a8a7127-1933-427d-b864-f4857d4c02fd.9d22a7c8-4ffb-4fd0-bf14-26df979de579",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1533600000000,
       "description": "Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons … it’s time to save the world (again!)",
-      "developer": "Ghost Town Games and Team17 Digital Ltd"
-    },
-    {
-      "id": "9PGB72NFG5JN",
-      "title": "Overcooked! 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.12517.70952388438497888.9a8a7127-1933-427d-b864-f4857d4c02fd.9d22a7c8-4ffb-4fd0-bf14-26df979de579",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1585785600000,
-      "description": "Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons … it’s time to save the world (again!)",
-      "developer": "Ghost Town Games and Team17 Digital Ltd"
+      "developer": "Ghost Town Games and Team17 Digital Ltd",
+      "removed": false,
+      "aliasIds": [
+        "BVJLKDG2TX8H",
+        "9PGB72NFG5JN"
+      ]
     },
     {
       "id": "9MT5KSV3RCWD",
@@ -6339,24 +5972,18 @@
       "title": "Pillars of Eternity: Complete Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.55121.69508748727770428.7ce00ad4-485c-4664-819a-1d17af316267.d92d72fb-1a52-492f-96ea-2229c4c4eb9b",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1503964800000,
       "description": "Paradox Arctic has adapted this unmissable RPG for an entirely new audience on major consoles -- bringing Pillars' fantastical world, tactical combat, and unforgettable story to fans on a whole new platform. Pillars of Eternity: Complete Edition includes all previously released additional content from the PC version, including all DLC and expansions in a single package.",
-      "developer": "Paradox Arctic / Obsidian Entertainment"
-    },
-    {
-      "id": "9N1P6T7ZQ2KF",
-      "title": "Pillars of Eternity: Definitive Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.34851.13901718808565748.bd4d392b-4244-482f-a55e-94b9251f086f.f7b98e95-65fd-445b-992a-af4e5edcc45c",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1583848800000,
-      "description": "Experience the RPG renaissance like never before with Pillars of Eternity: Definitive Edition. Obsidian Entertainment and Paradox Interactive bring you a rich, enchanting world where the choices you make will shape your destiny, now complete with all expansions and bonus content in one definitive package.",
-      "developer": "Obsidian Entertainment"
+      "developer": "Paradox Arctic / Obsidian Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "BS34VNW7H61F",
+        "9N1P6T7ZQ2KF"
+      ]
     },
     {
       "id": "9PK5WS0HXQKQ",
@@ -6476,72 +6103,54 @@
       "title": "Prey",
       "image": "https://store-images.s-microsoft.com/image/apps.27543.69234794984509140.ef3477c5-d6c7-4bd4-b5c7-7664d0e9e1be.77ffed61-812f-4b16-8942-868b796f45d4",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1493942400000,
       "description": "In Prey, you are the subject of an experiment but things have gone terribly wrong. Your ability to survive a hostile alien onslaught will depend on your wits, weapons, and newfound abilities.",
-      "developer": "Arkane Studios"
-    },
-    {
-      "id": "9PBC1QFBW563",
-      "title": "Prey",
-      "image": "https://store-images.s-microsoft.com/image/apps.27543.14126121726701460.448f0d1c-b127-4b9d-b41d-b4025f0487ad.3e790208-c9f4-4850-a5c7-2e4f54b7ba2c",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1560466800000,
-      "description": "In Prey, you are the subject of an experiment but things have gone terribly wrong. Your ability to survive a hostile alien onslaught will depend on your wits, weapons, and newfound abilities.",
-      "developer": "Arkane Studios"
+      "developer": "Arkane Studios",
+      "removed": false,
+      "aliasIds": [
+        "BQMVWCMB8P59",
+        "9PBC1QFBW563"
+      ]
     },
     {
       "id": "9P4LSLG7B8CT",
       "title": "Prince of Persia The Lost Crown",
       "image": "https://store-images.s-microsoft.com/image/apps.30864.14591039489735684.88f11d51-d109-4301-a716-65d25343b737.87ebfb11-f8fe-49bd-8049-bc0397dc93da",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1705536000000,
       "description": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate. Play as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities.",
-      "developer": ""
-    },
-    {
-      "id": "9PDCBPJ8C47K",
-      "title": "Prince of Persia The Lost Crown",
-      "image": "https://store-images.s-microsoft.com/image/apps.30864.14216211347341818.1e4ac427-e1a5-47bd-9a8e-a8f9d9a0fc8d.940cd209-f786-4265-9038-7e59468095a7",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate. Play as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9P4LSLG7B8CT",
+        "9PDCBPJ8C47K"
+      ]
     },
     {
       "id": "C5HHPG1TXDNG",
       "title": "Psychonauts",
       "image": "https://store-images.s-microsoft.com/image/apps.22363.67203256484290113.fa47f972-08bc-4a6e-a86b-1114b30416e6.b6815ddd-c498-4b85-bd1d-0b315250bf00",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1131062400000,
       "description": "A PSYCHIC ODYSSEY THROUGH THE MINDS OF MISFITS, MONSTERS, AND MADMEN",
-      "developer": "Double Fine Productions"
-    },
-    {
-      "id": "9NCT87FKQ4GM",
-      "title": "Psychonauts (Windows 10)",
-      "image": "https://store-images.s-microsoft.com/image/apps.59711.13561496157760288.f7bf4326-45d3-4a39-8977-2f5f5ce39a58.1565d463-b13f-4078-8fc4-9c0688d2fb21",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1620864000000,
-      "description": "A PSYCHIC ODYSSEY THROUGH THE MINDS OF MISFITS, MONSTERS, AND MADMEN",
-      "developer": "Double Fine Productions"
+      "developer": "Double Fine Productions",
+      "removed": false,
+      "aliasIds": [
+        "C5HHPG1TXDNG",
+        "9NCT87FKQ4GM"
+      ]
     },
     {
       "id": "9NBR2VXT87SJ",
@@ -6611,24 +6220,18 @@
       "title": "Quantum Break",
       "image": "https://store-images.s-microsoft.com/image/apps.58202.68618454610217617.0bf16429-e940-40f4-b483-920166ef2ce1.4eff9aca-cf9d-4807-9477-1dec43be2726",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1459814400000,
-      "description": "A blockbuster game with time-amplified action and a suspenseful storyline brought to life in a way never done before by fusing gameplay and a gripping live action show. Time itself becomes fractured in a time travel experiment, Jack Joyce fights the secretive Monarch Solutions to put things right before it’s too late. The actions you take and choices you make shape your experience in the show, creating a new and unique entertainment experience.",
-      "developer": "Remedy Entertainment"
-    },
-    {
-      "id": "9NBLGGH6H0RV",
-      "title": "Quantum Break",
-      "image": "https://store-images.s-microsoft.com/image/apps.26194.13510798886714035.0b51a19f-866e-44f7-94be-7e98ab394a00.abee63ab-f99b-4610-b6f9-9a463aca8ec9",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1459814400000,
-      "description": "From Remedy Entertainment, the masters of cinematic action games such as Max Payne and Alan Wake, comes Quantum Break, a time-amplified suspenseful blockbuster. The Quantum Break experience is part game, part live action show—where decisions in one dramatically affect the other. ",
-      "developer": "Remedy Entertainment"
+      "description": "A blockbuster game with time-amplified action and a suspenseful storyline brought to life in a way never done before by fusing gameplay and a gripping live action show. Time itself becomes fractured in a time travel experiment, Jack Joyce fights the secretive Monarch Solutions to put things right before it’s too late. The actions you take and choices you make shape your experience in the show, creating a new and unique entertainment experience.",
+      "developer": "Remedy Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "BPNDKQN84N6L",
+        "9NBLGGH6H0RV"
+      ]
     },
     {
       "id": "9P9446P7D9TZ",
@@ -6660,24 +6263,18 @@
       "title": "Rabbids: Party of Legends",
       "image": "https://store-images.s-microsoft.com/image/apps.36868.14319107143201791.8ec7a133-e1d8-41cb-8df7-798edc8ddb88.63931db0-38bd-40aa-b3d0-f3e2d1c12098",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1656547200000,
-      "description": "Embark on a legendary journey with the Rabbids in this hilarious party game! Join them on an incredible quest, filled with hilarious moments and colorful characters. Gather up with friends and family and enjoy a multitude of ridiculously fun mini-games in the most epic Rabbids' party yet.",
-      "developer": "UBISOFT CHENGDU"
-    },
-    {
-      "id": "9PJLNG7448C6",
-      "title": "Rabbids: Party of Legends",
-      "image": "https://store-images.s-microsoft.com/image/apps.36868.14284530900751703.39e0a423-f192-40aa-b526-327d868aee6b.72c80704-34e6-4b42-b421-7f6397125c1d",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1656547200000,
       "description": "Embark on a legendary journey with the Rabbids in this hilarious party game! Join them on an incredible quest, filled with hilarious moments and colorful characters. Gather up with friends and family and enjoy a multitude of ridiculously fun mini-games in the most epic Rabbids' party yet.",
-      "developer": "UBISOFT CHENGDU"
+      "developer": "UBISOFT CHENGDU",
+      "removed": false,
+      "aliasIds": [
+        "9PLF73SS7M6J",
+        "9PJLNG7448C6"
+      ]
     },
     {
       "id": "BR27BSZ2M3SR",
@@ -6696,24 +6293,18 @@
       "title": "RAGE 2",
       "image": "https://store-images.s-microsoft.com/image/apps.35410.65377716030309997.4ce8fd57-e617-46e7-9d4f-e8b49f4d07ef.df98cfd9-7020-4aca-8705-7addaccf3c2c",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1557792000000,
       "description": "Dive headfirst into a dystopian world devoid of society, law, and order. RAGE 2 brings together two studio powerhouses – Avalanche Studios, masters of open world insanity, and id Software, creators of the first-person shooter – to deliver a carnival of carnage where you can go anywhere, shoot anything, and explode everything.",
-      "developer": "Avalanche Studios / id Software"
-    },
-    {
-      "id": "9P2J7WHV0K4N",
-      "title": "RAGE 2 (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.35410.65377716030309997.4ce8fd57-e617-46e7-9d4f-e8b49f4d07ef.df98cfd9-7020-4aca-8705-7addaccf3c2c",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1573765200000,
-      "description": "Dive headfirst into a dystopian world devoid of society, law, and order. RAGE 2 brings together two studio powerhouses – Avalanche Studios, masters of open world insanity, and id Software, creators of the first-person shooter – to deliver a carnival of carnage where you can go anywhere, shoot anything, and explode everything.",
-      "developer": "Avalanche Studios / id Software"
+      "developer": "Avalanche Studios / id Software",
+      "removed": false,
+      "aliasIds": [
+        "C2DCJ95ZXBMS",
+        "9P2J7WHV0K4N"
+      ]
     },
     {
       "id": "C22T53SQ7FLM",
@@ -6732,24 +6323,18 @@
       "title": "Rayman Legends",
       "image": "https://store-images.s-microsoft.com/image/apps.25053.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.c8e55bec-d1f6-4fe4-b3fa-13ac1e79814f",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1392854400000,
       "description": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
-      "developer": "Ubisoft Montpellier"
-    },
-    {
-      "id": "9NQ4M2DG11L0",
-      "title": "RAYMAN LEGENDS",
-      "image": "https://store-images.s-microsoft.com/image/apps.25053.13776543858944031.b134cb3d-04d0-47b3-b930-c3a6869a74eb.6f85a950-b67c-4edb-aeab-9e6bb3840192",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1377734400000,
-      "description": "The Glade of Dreams is in trouble once again! During a 100-year nap, the nightmares multiplied and spread, creating new monsters even more terrifying than before! These creatures are the stuff of legend… Dragons, giant toads, sea monsters, and even evil luchadores. With the help of Murfy, Rayman and Globox awake and must now help fight these nightmares and save the Teensies! ",
-      "developer": "Ubisoft Entertainment"
+      "developer": "Ubisoft Montpellier",
+      "removed": false,
+      "aliasIds": [
+        "C26K4DVGR45B",
+        "9NQ4M2DG11L0"
+      ]
     },
     {
       "id": "9NBLGGH1Z6FQ",
@@ -6884,24 +6469,18 @@
       "title": "RESIDENT EVIL 7 biohazard",
       "image": "https://store-images.s-microsoft.com/image/apps.38644.71433286839923669.1250138a-286b-4b3f-8367-3d201ae45ae9.a08b2cbe-68eb-4c9e-a196-78097193172f",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1485216000000,
-      "description": "Menace and isolation seethe through the rotting walls of an abandoned farmhouse in the American South. \"7\" marks a new beginning for survival horror, and a change to the frightening \"Isolated View\" player perspective. Powered by the RE Engine, horror reaches new overwhelming heights of photorealism. Enter a terrifyingly new world of horror and survive.",
-      "developer": "CAPCOM CO., LTD."
-    },
-    {
-      "id": "9NBLGGH4SPK6",
-      "title": "RESIDENT EVIL 7 biohazard",
-      "image": "https://store-images.s-microsoft.com/image/apps.38644.13510798887575711.33864e3a-d5f7-4c9e-85f6-6baf85bc61e0.b94a0c5b-fc10-4321-afe8-c864c71755e6",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1485216000000,
-      "description": "Fear and isolation seep through the walls of an abandoned southern farmhouse. \"7\" marks a new beginning for survival horror with the “Isolated View” of the visceral new first-person perspective. Powered by the RE Engine, horror reaches incredible heights of immersion as players enter a terrifyingly new world of fear as they fight to survive.",
-      "developer": "CAPCOM CO., LTD."
+      "description": "Menace and isolation seethe through the rotting walls of an abandoned farmhouse in the American South. \"7\" marks a new beginning for survival horror, and a change to the frightening \"Isolated View\" player perspective. Powered by the RE Engine, horror reaches new overwhelming heights of photorealism. Enter a terrifyingly new world of horror and survive.",
+      "developer": "CAPCOM CO., LTD.",
+      "removed": false,
+      "aliasIds": [
+        "BVFDTJ1XF6CS",
+        "9NBLGGH4SPK6"
+      ]
     },
     {
       "id": "9N2S04LGXXH4",
@@ -6955,28 +6534,22 @@
       "developer": "Gray Matter Interactive, Nerve Software, Splash Damage"
     },
     {
-      "id": "9NZ4T5RFD7KF",
-      "title": "Riders Republic Standard Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.34939.14501696194323418.a10bcd38-e545-4ad0-af0a-a77518bae589.658675e4-0cc9-49d2-ad7e-36806273c18b",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Jump into a massive multiplayer playground! Bike, ski, snowboard, or wingsuit across an open world sports paradise where the rules are yours to make or break.",
-      "developer": ""
-    },
-    {
       "id": "9P1RPXHWZ1C7",
       "title": "Riders Republic™",
       "image": "https://store-images.s-microsoft.com/image/apps.34939.14501696194323418.a10bcd38-e545-4ad0-af0a-a77518bae589.658675e4-0cc9-49d2-ad7e-36806273c18b",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1635375600000,
       "description": "Jump into a massive multiplayer playground! Bike, ski, snowboard, or wingsuit across an open world sports paradise where the rules are yours to make or break.",
-      "developer": "UBISOFT ANNECY"
+      "developer": "UBISOFT ANNECY",
+      "removed": false,
+      "aliasIds": [
+        "9P1RPXHWZ1C7",
+        "9NZ4T5RFD7KF"
+      ]
     },
     {
       "id": "9NS84HCWZD8B",
@@ -7320,24 +6893,18 @@
       "title": "Skull and Bones",
       "image": "https://store-images.s-microsoft.com/image/apps.4835.63081064281400272.9b0f0eaf-a998-4bb1-8993-58e590d94272.27c9e9e2-339f-40b4-9742-459a10d0da86",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1708560000000,
       "description": "Skull and Bones is an open world naval action RPG where ship combat, build choice, and sailing skill define your pirate legend. Play solo or team up with two friends to conquer rival ships and mythical beasts in a vast ocean of up to 20 players. No one rules the seas.",
-      "developer": ""
-    },
-    {
-      "id": "9PG0S835V6J5",
-      "title": "Skull and Bones",
-      "image": "https://store-images.s-microsoft.com/image/apps.4282.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.718dae96-63c6-4795-be26-ea0a395fdd73",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Set sail into the vibrant open world of Skull and Bones, a naval online action RPG where you rise to become the most fearsome pirate kingpin.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "BXF9VWKCD6QW",
+        "9PG0S835V6J5"
+      ]
     },
     {
       "id": "9N9C1TB18R3B",
@@ -7370,24 +6937,18 @@
       "title": "SnowRunner",
       "image": "https://store-images.s-microsoft.com/image/apps.25998.13728552621924096.0f7a693b-b178-499b-ac11-0ea8578f8480.88e6f480-29a4-44c0-8a97-cece69dc489e",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1621296000000,
-      "description": "Get ready for the next-generation off-road experience! \r\nSnowRunner puts you in the driver’s seat of powerful vehicles as you conquer extreme open environments with the most advanced terrain simulation ever. Drive 40 vehicles from brands such as Ford, Chevrolet, and Freightliner as you leave your mark on an untamed open world.",
-      "developer": "Saber Interactive"
-    },
-    {
-      "id": "9NP6WL1XQDBW",
-      "title": "SnowRunner - Windows",
-      "image": "https://store-images.s-microsoft.com/image/apps.25998.13728552621924096.0f7a693b-b178-499b-ac11-0ea8578f8480.88e6f480-29a4-44c0-8a97-cece69dc489e",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1621296000000,
       "description": "Get ready for the next-generation off-road experience! \r\nSnowRunner puts you in the driver’s seat of powerful vehicles as you conquer extreme open environments with the most advanced terrain simulation ever. Drive 40 vehicles from brands such as Ford, Chevrolet, and Freightliner as you leave your mark on an untamed open world.",
-      "developer": "Saber Interactive"
+      "developer": "Saber Interactive",
+      "removed": false,
+      "aliasIds": [
+        "9PNRSC0J6DT8",
+        "9NP6WL1XQDBW"
+      ]
     },
     {
       "id": "9N8BRH7PGJMJ",
@@ -7420,48 +6981,36 @@
       "title": "South Park: The Stick of Truth",
       "image": "https://store-images.s-microsoft.com/image/apps.34768.13782532772171958.8f3c8098-8bdc-46a4-ad91-81f964c170ce.c884351e-42f3-4fe2-9bee-1dcd8297e09f",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1393891200000,
       "description": "Discover the lost Stick of Truth and earn your place at the side of Stan, Kyle, Cartman and Kenny as their new friend in a hilarious and outrageous RPG adventure.  ",
-      "developer": "Obsidian Entertainment"
+      "developer": "Obsidian Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9NQ26CN8MZ1R",
+        "C0QDQ0KX4HDV"
+      ]
     },
     {
       "id": "C4VLMWJWM7BG",
       "title": "South Park™: The Fractured but Whole™",
       "image": "https://store-images.s-microsoft.com/image/apps.36209.67439233347281353.312c5ca8-59b5-4ba8-88de-4df24412a885.0fa53054-edfe-4220-b64a-274afb4fd958",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1508198400000,
       "description": "From the creators of South Park, Trey Parker and Matt Stone, comes South Park: The Fractured but Whole, a sequel to 2014's award-winning South Park: The Stick of Truth. Players will once again assume the role of the New Kid and join South Park favorites Stan, Kyle, Kenny and Cartman in a new hilarious and outrageous RPG adventure.",
-      "developer": "Ubisoft Studio SF / South Park Studios"
-    },
-    {
-      "id": "9PJNXM82ZX47",
-      "title": "South Park™: The Fractured but Whole™",
-      "image": "https://store-images.s-microsoft.com/image/apps.36209.13614170963517427.58a3fd51-cd1e-499a-a5dc-fbf13cf861e3.f8f17bf3-8c44-4960-9cd3-38b6788e7381",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "In this new opus, from the creators of South Park, assume the role of the New Kid and join Stan, Kyle, Kenny and Cartman in a hilarious and outrageous RPG adventure.",
-      "developer": "Ubisoft Studio SF / South Park Studios"
-    },
-    {
-      "id": "C0QDQ0KX4HDV",
-      "title": "South Park™: The Stick of Truth ™",
-      "image": "https://store-images.s-microsoft.com/image/apps.34768.64394882138437593.772185c5-50e8-4003-ad76-1f056f2fe454.bf25143c-c2f0-4a1c-84f6-cc4256d384d2",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1518480000000,
-      "description": "Discover the lost Stick of Truth and earn your place at the side of Stan, Kyle, Cartman and Kenny as their new friend in a hilarious and outrageous RPG adventure.",
-      "developer": "Obsidian Entertainment"
+      "developer": "Ubisoft Studio SF / South Park Studios",
+      "removed": false,
+      "aliasIds": [
+        "C4VLMWJWM7BG",
+        "9PJNXM82ZX47"
+      ]
     },
     {
       "id": "9PPKR9N31BW6",
@@ -7494,24 +7043,18 @@
       "title": "Spyro™ Reignited Trilogy",
       "image": "https://store-images.s-microsoft.com/image/apps.7878.71510837884329922.e091ebfc-ee9a-468a-b6e5-327d0f0d0974.ad149242-54a5-4f51-ab66-14ecde79d7d8",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1542067200000,
       "description": "Same sick burns, same smoldering attitude, now all scaled up in stunning HD, Spyro is back in the Spyro™ Reignited Trilogy! Rekindle the fire with the original three games, Spyro™ the Dragon, Spyro™ 2: Ripto's Rage! and Spyro™: Year of the Dragon, all in fully-remastered glory.",
-      "developer": "Toys For Bob"
-    },
-    {
-      "id": "9NLD3ZRWF8DT",
-      "title": "Spyro™ Reignited Trilogy",
-      "image": "https://store-images.s-microsoft.com/image/apps.7878.13709344681304622.947598b8-f8f2-4612-a37c-b93b58e6b6fa.ac19a921-be84-4948-83c6-102abd570614",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1712851200000,
-      "description": "Same sick burns, same smoldering attitude, now all scaled up in stunning HD, Spyro is back in the Spyro™ Reignited Trilogy! Rekindle the fire with the original three games, Spyro™ the Dragon, Spyro™ 2: Ripto's Rage! and Spyro™: Year of the Dragon, all in fully-remastered glory.",
-      "developer": ""
+      "developer": "Toys For Bob",
+      "removed": false,
+      "aliasIds": [
+        "BWHFZNSL0PB5",
+        "9NLD3ZRWF8DT"
+      ]
     },
     {
       "id": "BWK0Q0RQMH7V",
@@ -7591,24 +7134,18 @@
       "title": "Star Wars Outlaws",
       "image": "https://store-images.s-microsoft.com/image/apps.61387.13711651873119158.1a058dbc-68af-4f81-9ab6-0a2eca979392.82552dc2-86e7-4009-8fcc-3a2e12cc12f6",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1724972400000,
       "description": "Experience the first-ever open world Star Wars™ game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted.\n\nIf you’re willing to take the risk, the galaxy is full of opportunity.",
-      "developer": "MASSIVE ENTERTAINMENT"
-    },
-    {
-      "id": "9P1P7DWHBDBD",
-      "title": "Star Wars Outlaws",
-      "image": "https://store-images.s-microsoft.com/image/apps.61387.13971727707799327.bcd7e3d8-36c8-49ba-a85a-1fc0f1fd6ad0.c9a243fc-a2dc-4816-8c81-a2c39adda241",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Experience the first-ever open world Star Wars™ game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted.\n\nIf you’re willing to take the risk, the galaxy is full of opportunity.",
-      "developer": ""
+      "developer": "MASSIVE ENTERTAINMENT",
+      "removed": false,
+      "aliasIds": [
+        "9NLHVWSFB0FC",
+        "9P1P7DWHBDBD"
+      ]
     },
     {
       "id": "BRXTM276DLPR",
@@ -7675,24 +7212,18 @@
       "title": "Stardew Valley",
       "image": "https://store-images.s-microsoft.com/image/apps.44413.65985311967005000.4f51b5e9-febf-4990-8951-33ba59b634c9.924253ef-36b2-4cc0-8bb1-9a97c88d4828",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1481673600000,
       "description": "You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
-      "developer": "ConcernedApe"
-    },
-    {
-      "id": "9MWR1NC6VQ6L",
-      "title": "Stardew Valley",
-      "image": "https://store-images.s-microsoft.com/image/apps.51447.13838479673159593.08fca22c-85fe-467d-8f34-cca2715208c0.8a757252-51c8-488e-8a07-044e835983b2",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1638403200000,
-      "description": "You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
-      "developer": "ConcernedApe"
+      "developer": "ConcernedApe",
+      "removed": false,
+      "aliasIds": [
+        "C3D891Z6TNQM",
+        "9MWR1NC6VQ6L"
+      ]
     },
     {
       "id": "9NCJSXWZTP88",
@@ -7712,24 +7243,18 @@
       "title": "Starlink: Battle for Atlas™",
       "image": "https://store-images.s-microsoft.com/image/apps.48946.70669386936987918.cc1eac8f-dd1c-4f9f-99a3-197d14f2c168.cef9174a-11fd-4dbb-b2f4-785f83ee38ac",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1539648000000,
       "description": "In Starlink: Battle for Atlas, lead a group of interstellar pilots as you build your own starship, explore the Atlas star system, and battle the vile Grax and his Forgotten Legion.",
-      "developer": "Ubisoft Toronto"
-    },
-    {
-      "id": "9PL427M642BV",
-      "title": "Starlink: Battle for Atlas™",
-      "image": "https://store-images.s-microsoft.com/image/apps.48946.14250419484627849.4a8ba6d6-38d2-4040-89bd-b8e169f57535.d84e4d2e-5a91-4258-9a87-8589243c7744",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1556582400000,
-      "description": "In Starlink: Battle for Atlas, lead a group of interstellar pilots as you build your own starship, explore the Atlas star system, and battle the vile Grax and his Forgotten Legion.",
-      "developer": "Ubisoft Toronto "
+      "developer": "Ubisoft Toronto",
+      "removed": false,
+      "aliasIds": [
+        "BT3KQ8HLLZ6K",
+        "9PL427M642BV"
+      ]
     },
     {
       "id": "9P86LLDCL5CC",
@@ -7787,24 +7312,18 @@
       "title": "STEEP",
       "image": "https://store-images.s-microsoft.com/image/apps.12167.66413836855496638.93b02bdd-ae92-406f-bbed-442e800bb4ce.4d51f3f9-8ed3-464d-93b6-9f447ca86201",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1480636800000,
       "description": "Ride the massive open world of the Alps, where the powder is always fresh and the run never ends. \r\nDefy and master the mountain alone or with friends on skis, wingsuits, snowboards and paragliders. Record and share your best stunts.",
-      "developer": "Ubisoft Annecy"
-    },
-    {
-      "id": "9P2RT7TNT37T",
-      "title": "STEEP",
-      "image": "https://store-images.s-microsoft.com/image/apps.12167.14451369249544010.92785d89-da13-4fcb-b0eb-bd80a391e663.f66760d3-a1fb-4761-aea7-3b4c59f09f43",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Ride a massive open world across the Alps, where the powder is always fresh and the run never ends. \nDefy and master the mountain alone or with friends on skis, wingsuits, snowboards and paragliders. Record and share your best stunts.\n  \n  ",
-      "developer": "Ubisoft Entertainment"
+      "developer": "Ubisoft Annecy",
+      "removed": false,
+      "aliasIds": [
+        "C350VBGGCL6P",
+        "9P2RT7TNT37T"
+      ]
     },
     {
       "id": "9PJPCB188SVG",
@@ -7824,24 +7343,18 @@
       "title": "Sunset Overdrive",
       "image": "https://store-images.s-microsoft.com/image/apps.55060.69444514893807971.ab5f1b93-5a0c-4e23-9a17-465a62377bd1.86d16ce8-75fe-48c6-8947-9a7071cbc9a2",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1414713600000,
       "description": "Sunset Overdrive transforms an open-world apocalypse into your tactical playground. Zip, grind and wall-run across Sunset City while using a devastating, unconventional arsenal. With hyper-agility, unique weapons, and customizable special abilities, Sunset Overdrive rewrites the rules of traditional shooters and delivers an explosive and irreverent adventure in the end times.",
-      "developer": "Insomniac Games"
-    },
-    {
-      "id": "9NNLBL0T2Z43",
-      "title": "Sunset Overdrive",
-      "image": "https://store-images.s-microsoft.com/image/apps.55060.13736301732248840.30b1b0f6-6f7d-4bab-b6db-4838b855187c.adf08abd-e5db-4ac3-a1b1-24688a387df9",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1542387600000,
-      "description": "Sunset Overdrive transforms an open-world apocalypse into your tactical playground. Zip, grind and wall-run across Sunset City while using a devastating, unconventional arsenal. With hyper-agility, unique weapons, and customizable special abilities, Sunset Overdrive rewrites the rules of traditional shooters and delivers an explosive and irreverent adventure in the end times.",
-      "developer": "Insomniac Games |  Blind Squirrel Games"
+      "developer": "Insomniac Games",
+      "removed": false,
+      "aliasIds": [
+        "BRZHFR5XBLQS",
+        "9NNLBL0T2Z43"
+      ]
     },
     {
       "id": "9PLMGFWCFZ9G",
@@ -8176,24 +7689,18 @@
       "title": "The Crew® 2",
       "image": "https://store-images.s-microsoft.com/image/apps.49945.14489278278993944.0867f455-80a1-4c6c-bc96-2f183089f7bc.87d20edc-ff0e-476c-829c-e936e2de79fc",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "JOIN A COMMUNITY OF 30 MILLION PLAYERS! Take on the American motorsports scene as you explore and dominate the land, air, and sea across the USA. Pick your favorite vehicles and test your skills in a wide range of driving disciplines.",
-      "developer": ""
-    },
-    {
-      "id": "BV05F8VT7JJ4",
-      "title": "The Crew® 2 Standard Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.49945.70638597071363675.c7ca6c50-a746-4b87-a309-c4317452a9a7.be837ebf-48a4-4cc4-8cf0-c50b9788c76e",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1530230400000,
-      "description": "JOIN A COMMUNITY OF 30 MILLION PLAYERS! Take on the American motorsports scene as you explore and dominate the land, air, and sea across the USA. Pick your favorite vehicles and test your skills in a wide range of driving disciplines.\n\nNew: play The Crew 2 offline or online with the new Hybrid mode, available now! Enjoy both the original online experience and a new way to play solo.",
-      "developer": "Ivory Tower"
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9NP6CV98V8M7",
+        "BV05F8VT7JJ4"
+      ]
     },
     {
       "id": "9PFXKRLVWJ0B",
@@ -8208,40 +7715,22 @@
       "developer": "Bethesda Game Studios"
     },
     {
-      "id": "BZ4WD43D8DTS",
-      "title": "The Elder Scrolls III: Morrowind",
-      "image": "https://store-images.s-microsoft.com/image/apps.42981.64058972034305073.b87da33f-b9c2-4c9d-b9fa-46986dbd7e0b.40f58cd1-d126-4194-b732-c48649121908",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1523923200000,
-      "description": "The Elder Scrolls III: Morrowind is an epic, open-ended single-player game where you create and play any kind of character you can imagine. Your actions define your character, and your gameplay changes and evolves in response to your actions.",
-      "developer": "Bethesda Game Studios"
-    },
-    {
       "id": "9PP7XSG5LDH1",
       "title": "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
       "image": "https://store-images.s-microsoft.com/image/apps.59595.14329181907474580.fffa1d70-f0e3-45ee-b468-096880ec659e.6ae43892-4027-4344-8379-19b408200a92",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1615507200000,
       "description": "The Elder Scrolls III: Morrowind Game of the Year Edition includes Morrowind plus all of the content from the Bloodmoon and Tribunal expansions. ",
-      "developer": "Bethesda Game Studios"
-    },
-    {
-      "id": "C5K89TFLSV19",
-      "title": "The Elder Scrolls IV: Oblivion",
-      "image": "https://store-images.s-microsoft.com/image/apps.315.67239414110062952.96aaa173-4598-4591-add8-4e72f4c963c7.9b47d169-12bd-4000-a162-66c0ad7099a0",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1275350400000,
-      "description": "Step inside the most richly detailed and vibrant game-world ever created. Oblivion is the latest chapter in the epic Elder Scrolls saga. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges.",
-      "developer": "Bethesda Game Studios"
+      "developer": "Bethesda Game Studios",
+      "removed": false,
+      "aliasIds": [
+        "9PP7XSG5LDH1",
+        "BZ4WD43D8DTS"
+      ]
     },
     {
       "id": "9P2J5D12GJL5",
@@ -8266,7 +7755,12 @@
       "ea": false,
       "release": 1745334000000,
       "description": "Explore Cyrodiil like never before with stunning new visuals and refined gameplay in The Elder Scrolls IV: Oblivion™ Remastered. ",
-      "developer": "Bethesda Game Studios, Virtuos"
+      "developer": "Bethesda Game Studios, Virtuos",
+      "removed": false,
+      "aliasIds": [
+        "9NQR437K7PQH",
+        "C5K89TFLSV19"
+      ]
     },
     {
       "id": "BRKX5CRMRTC2",
@@ -8286,72 +7780,54 @@
       "title": "The Elder Scrolls V: Skyrim Special Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.64810.68326442227858632.03782b23-7f26-4a8e-ba87-177bdf2c3c90.fdefe49f-270c-44e5-b660-6d7764b37f0f",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1477612800000,
       "description": "Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space reflections, and more. \r\n\r\nSkyrim Special Edition also brings the power of Bethesda Game Studios Creations to consoles. New quests, environments, characters, dialogue, armor, weapons and more – with Creations, there are no limits to what you can experience.",
-      "developer": "Bethesda Game Studios"
-    },
-    {
-      "id": "9P03JGQ4S1GC",
-      "title": "The Elder Scrolls V: Skyrim Special Edition (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.64810.14468615562328340.fdd2a6d3-ed01-4e8e-805a-630a8e7dcd61.315b57ba-4b6c-43ee-9535-dff8ad090355",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1615492800000,
-      "description": "Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space reflections, and more. \r\n\r\nSkyrim Special Edition also brings the power of Bethesda Game Studios Creations to consoles. New quests, environments, characters, dialogue, armor, weapons and more – with Creations, there are no limits to what you can experience.",
-      "developer": "Bethesda Game Studios"
+      "developer": "Bethesda Game Studios",
+      "removed": false,
+      "aliasIds": [
+        "BQ1W1T1FC14W",
+        "9P03JGQ4S1GC"
+      ]
     },
     {
       "id": "C2M8HBNVPT1T",
       "title": "The Evil Within",
       "image": "https://store-images.s-microsoft.com/image/apps.41543.65523398993639028.2c280ccc-7f03-4d25-8060-07f62a42af2f.6d66b18d-3dde-4ccf-8703-824fc30c3a23",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1413244800000,
       "description": "Developed by Shinji Mikami, The Evil Within embodies the meaning of pure survival horror. Highly-crafted environments and an intricate story are combined to create an immersive world that will bring you to the height of tension. With limited resources at your disposal, you’ll fight for survival in this perfect blend of horror and action.",
-      "developer": "Tango Gameworks"
-    },
-    {
-      "id": "9MX8R81JW1B5",
-      "title": "The Evil Within (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.41543.65523398993639028.2c280ccc-7f03-4d25-8060-07f62a42af2f.6d66b18d-3dde-4ccf-8703-824fc30c3a23",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1615507200000,
-      "description": "This bundle includes The Evil Within and all season pass content: The Assignment, The Consequence, and The Executioner packs.",
-      "developer": "Tango Gameworks"
+      "developer": "Tango Gameworks",
+      "removed": false,
+      "aliasIds": [
+        "C2M8HBNVPT1T",
+        "9MX8R81JW1B5"
+      ]
     },
     {
       "id": "C40860J5R2MP",
       "title": "The Evil Within® 2",
       "image": "https://store-images.s-microsoft.com/image/apps.39348.66902085872217864.df676289-5ef8-4c7c-8533-965928392024.f6416b31-6307-4580-b835-d86d695f532d",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1507852800000,
       "description": "Detective Sebastian Castellanos has lost everything, including his daughter, Lily. To save her, he must descend into the nightmarish world of STEM. Horrifying threats emerge from every corner, and he must rely on his wits to survive. For his one chance at redemption, the only way out is in.",
-      "developer": "Tango Gameworks"
-    },
-    {
-      "id": "9NT0NT8JQMQN",
-      "title": "The Evil Within® 2 (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.39348.66902085872217864.df676289-5ef8-4c7c-8533-965928392024.f6416b31-6307-4580-b835-d86d695f532d",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1623610800000,
-      "description": "Detective Sebastian Castellanos has lost everything, including his daughter, Lily. To save her, he must descend into the nightmarish world of STEM. Horrifying threats emerge from every corner, and he must rely on his wits to survive. For his one chance at redemption, the only way out is in.",
-      "developer": "Tango Gameworks"
+      "developer": "Tango Gameworks",
+      "removed": false,
+      "aliasIds": [
+        "C40860J5R2MP",
+        "9NT0NT8JQMQN"
+      ]
     },
     {
       "id": "9PGD71CMDS0Z",
@@ -8397,24 +7873,18 @@
       "title": "The Long Dark",
       "image": "https://store-images.s-microsoft.com/image/apps.28995.66934420265726607.97919c5c-edc3-4ec4-a441-ca3d129949d8.c25d9682-7a67-449e-9f24-fba0216ba0d9",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1501545600000,
       "description": "The Long Dark is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies -- only you, the cold, and all the threats Mother Nature can muster.",
-      "developer": "Hinterland Studio Inc."
-    },
-    {
-      "id": "9NFKN56ZBMR0",
-      "title": "The Long Dark",
-      "image": "https://store-images.s-microsoft.com/image/apps.29824.13597521366015513.fe820bcf-9c60-4f57-a3a7-7cf9ca9f1fc1.2d8ba7ec-aee2-4217-b504-3feb93b84f1d",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1509613200000,
-      "description": "The Long Dark is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies -- only you, the cold, and all the threats Mother Nature can muster.",
-      "developer": "Hinterland Studio Inc"
+      "developer": "Hinterland Studio Inc.",
+      "removed": false,
+      "aliasIds": [
+        "C41ZDFQ82M1G",
+        "9NFKN56ZBMR0"
+      ]
     },
     {
       "id": "BVTKN6CQ8W5F",
@@ -8446,24 +7916,18 @@
       "title": "The Outer Worlds: Spacer's Choice Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.63712.13699070337568110.f83f9fb9-d1c0-4826-92a0-54943043432e.95cce0d7-6756-4f9d-8411-4bcd00fb8dab",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1678204800000,
-      "description": "The Outer Worlds: Spacer’s Choice Edition is the ultimate way to play the award-winning RPG from Obsidian Entertainment and Private Division. Including the base game and all DLC, this remastered masterpiece is the absolute best version of The Outer Worlds.",
-      "developer": "Obsidian Entertainment"
-    },
-    {
-      "id": "9NG2F1Q062VV",
-      "title": "The Outer Worlds: Spacer’s Choice Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.63712.13587801151706777.04cf3109-a533-4a54-bbce-d2ffebd01b85.eca5ef6f-8320-42ac-b134-049af719cb24",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1678204800000,
       "description": "The Outer Worlds: Spacer’s Choice Edition is the ultimate way to play the award-winning RPG from Obsidian Entertainment and Private Division. Including the base game and all DLC, this remastered masterpiece is the absolute best version of The Outer Worlds.",
-      "developer": "Obsidian Entertainment"
+      "developer": "Obsidian Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9NM50L0DXX1W",
+        "9NG2F1Q062VV"
+      ]
     },
     {
       "id": "9N072VV7MFK7",
@@ -8483,24 +7947,18 @@
       "title": "The Rogue Prince of Persia™",
       "image": "https://store-images.s-microsoft.com/image/apps.44243.14104912943733679.5b0de357-ef0f-4d82-a120-7694f677050b.5e21b586-6445-4980-8b28-f19d3ff63f31",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1755698400000,
       "description": "In this challenging, fast-paced roguelite, every death is a unique chance to rewrite fate, save Persia – or die trying. Master fluid, acrobatic combat and parkour as you explore your kingdom to right your wrongs!",
-      "developer": ""
-    },
-    {
-      "id": "9P1WJCK9B8S6",
-      "title": "The Rogue Prince of Persia™",
-      "image": "https://store-images.s-microsoft.com/image/apps.44243.14503626044492977.7208f0d9-85c4-4e8b-ae05-bd4b875bf1b3.2f032f23-1ee7-4b0c-9709-c9a11ca6de6f",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1755648000000,
-      "description": "In this challenging, fast-paced roguelite, every death is a unique chance to rewrite fate, save Persia – or die trying. Master fluid, acrobatic combat and parkour as you explore your kingdom to right your wrongs!",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9P7M1VCXKQVD",
+        "9P1WJCK9B8S6"
+      ]
     },
     {
       "id": "9N034X5G08B7",
@@ -8520,24 +7978,18 @@
       "title": "The Settlers: New Allies",
       "image": "https://store-images.s-microsoft.com/image/apps.42926.13911218403200220.38c225dc-b069-4b42-bcf8-d9b6ddb0e7e1.2dfcbe0a-447a-4a8d-b0e4-eb5577c29b33",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1688428800000,
       "description": "Buy The Settlers: New Allies and get the Pioneer Pack for free.\nThe Pioneer Pack includes three tower skins, a title, and a one-day in-game currency booster.",
-      "developer": "Blue Byte"
-    },
-    {
-      "id": "9NPGPDCXWJQ7",
-      "title": "The Settlers®: New Allies",
-      "image": "https://store-images.s-microsoft.com/image/apps.42926.13977733522491696.6fc8f63b-9fd7-4153-9b1f-efc78cf2301b.8ce72d81-c256-4c2d-9406-64146a408cc9",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1688425200000,
-      "description": "The Settlers®: New Allies is a strategy game with an in-depth build-up experience and real-time strategic battles.\r\n\r\nBuy The Settlers®: New Allies on console and get the Founders Pack for free. Offer ends on September 2.\r\nThe Founders Pack includes three tower skins, a title, and a one-day in-game currency booster.",
-      "developer": ""
+      "developer": "Blue Byte",
+      "removed": false,
+      "aliasIds": [
+        "9N10HHMXFFC5",
+        "9NPGPDCXWJQ7"
+      ]
     },
     {
       "id": "9PLFD17M47K3",
@@ -8642,24 +8094,18 @@
       "title": "theHunter: Call of the Wild™",
       "image": "https://store-images.s-microsoft.com/image/apps.31673.63553167684393025.1b31f51e-c4c6-49b1-bf61-a2e65ea14c73.150d2a5d-49a6-4724-8e53-cb908f866746",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1506902400000,
       "description": "Discover an atmospheric hunting game like no other in this realistic, stunning open world – regularly updated in collaboration with the community. Immerse yourself in the single player campaign, or share the ultimate hunting experience with friends.",
-      "developer": "Expansive Worlds"
-    },
-    {
-      "id": "9NQV7C0G1040",
-      "title": "theHunter: Call of the Wild™ - Windows 10",
-      "image": "https://store-images.s-microsoft.com/image/apps.2768.13762125458177399.e3dc12bf-b35c-48a4-ae96-9cd3eda2895e.2b2888bb-89cd-4575-819d-cacd12368ccf",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1638266400000,
-      "description": "Discover an atmospheric hunting game like no other in this realistic, stunning open world – regularly updated in collaboration with the community. Immerse yourself in the single player campaign, or share the ultimate hunting experience with friends.",
-      "developer": "Expansive Worlds"
+      "developer": "Expansive Worlds",
+      "removed": false,
+      "aliasIds": [
+        "BXBJQ1932138",
+        "9NQV7C0G1040"
+      ]
     },
     {
       "id": "9ND19JDMBS3R",
@@ -8700,148 +8146,112 @@
       "developer": "uvula"
     },
     {
-      "id": "C3VVNLQQ54F8",
-      "title": "Tom Clancy's Ghost Recon Breakpoint",
-      "image": "https://store-images.s-microsoft.com/image/apps.56444.66828190550422385.fbaf89cf-b3e0-4543-aeba-5f00ca851393.df40c5a2-41e9-472d-90ee-ba9fd7488662",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1570147200000,
-      "description": "Ghost Recon Breakpoint is a tactical third-person shooter set in a vast open world. You must survive, adapt, and fight a rogue spec ops faction, using stealth, strategy, and high-tech gear in solo or co-op.",
-      "developer": ""
-    },
-    {
-      "id": "C2N9CS4FS1QR",
-      "title": "Tom Clancy's Ghost Recon Wildlands",
-      "image": "https://store-images.s-microsoft.com/image/apps.34828.65577870102127192.cc211066-4ede-470b-9241-48c6083d347f.a7c7df41-881f-4ed4-8b2a-8ef7b6454d3b",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1488844800000,
-      "description": "Lead your elite team of Ghosts in this tactical third-person shooter. Explore a massive open world, infiltrate and destroy the deadly Santa Blanca cartel, and save Bolivia and its people.\n\nAll editions now include a free title update, featuring a new story mission, plus 4K and 60 FPS availability!",
-      "developer": ""
-    },
-    {
       "id": "9P85NL6T3DHP",
       "title": "Tom Clancy’s Ghost Recon Wildlands",
       "image": "https://store-images.s-microsoft.com/image/apps.43306.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.3d6649c7-7ee3-4a8d-80f6-3eeb41e5484d",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "Create a team with up to 3 friends in Tom Clancy’s Ghost Recon® Wildlands and enjoy the ultimate military shooter experience set in a massive, dangerous, and responsive open world.",
-      "developer": "Ubisoft Entertainment"
+      "developer": "Ubisoft Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9P85NL6T3DHP",
+        "C2N9CS4FS1QR"
+      ]
     },
     {
       "id": "9PKJ0532DTCW",
       "title": "Tom Clancy's Ghost Recon® Breakpoint",
       "image": "https://store-images.s-microsoft.com/image/apps.56444.13854112670148905.26c6c61d-a4a5-45bb-b0b1-c5edd982ab6a.9df0553a-2710-44cd-a16d-99c66f4dc21f",
       "platforms": [
-        "pc"
+        "pc",
+        "console"
       ],
       "ea": false,
       "release": 1784642400000,
       "description": "Become a Ghost, an elite spec ops soldier, tasked with a special mission to Auroa. The remote archipelago has lost contact with outside world due to Skell Technology turning hostile. The Wolves, a rogue spec ops team, lead by your ex-brother in arms, have taken over and are hunting you down. Lead your team through the island landscape and save the civilians without being noticed.",
-      "developer": "UBISOFT"
+      "developer": "UBISOFT",
+      "removed": false,
+      "aliasIds": [
+        "9PKJ0532DTCW",
+        "C3VVNLQQ54F8"
+      ]
     },
     {
       "id": "9PB3RHWXB9MR",
       "title": "Tom Clancy's Rainbow Six Siege - Elite Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.64537.14130689193256226.8d62f3e9-9ac5-4676-92a5-ea70272f517c.2d0b1811-f305-41e2-8cf2-970b5d66ccc3",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1749564000000,
       "description": "Tom Clancy's Rainbow Six Siege is the undisputed reference in tactical team shooters, where elite strategy and execution triumph.\n\nThe Elite Edition grants access to all game modes including Ranked playlists and the Siege Cup, as well as 16 additional operators.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "9PB3RHWXB9MR",
+        "9NCZ8W65H33V"
+      ]
     },
     {
       "id": "BXRB4ZH2GJHK",
       "title": "Tom Clancy’s Rainbow Six® Extraction",
       "image": "https://store-images.s-microsoft.com/image/apps.7039.63231504676176196.fce3b959-5f54-4aad-a199-00e19cf052ba.0b7d81c1-9a6a-491f-af83-7123aaa1e5bd",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1642636800000,
       "description": "Team Rainbow now faces the greatest terror ever: a lethal, mutating alien invasion. Pre-order now to get the Orbital Decay bundle.",
-      "developer": "UBISOFT MONTREAL"
-    },
-    {
-      "id": "9P0G4TBCCS7J",
-      "title": "Tom Clancy’s Rainbow Six® Extraction",
-      "image": "https://store-images.s-microsoft.com/image/apps.7039.63231504676176196.fce3b959-5f54-4aad-a199-00e19cf052ba.0b7d81c1-9a6a-491f-af83-7123aaa1e5bd",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "For decades, Team Rainbow has been the shield against the worst global threats imaginable. Now, we face the greatest terror yet: a lethal, mutating alien parasite. \n•\tIncludes Buddy Pass: Invite 2 friends to play with you for FREE for 14 days\n•\tPlay alone or with friends from any platform\n•\t69 guns, 25 gadgets, 18 operators with progression levels, 12 maps, 13 mutating enemies, & free post-launch",
-      "developer": "UBISOFT MONTREAL"
-    },
-    {
-      "id": "9NCZ8W65H33V",
-      "title": "Tom Clancy's Rainbow Six® Siege - Elite Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.64537.14130689193256226.8d62f3e9-9ac5-4676-92a5-ea70272f517c.2d0b1811-f305-41e2-8cf2-970b5d66ccc3",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1764547200000,
-      "description": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.\n\nSiege X marks the biggest evolution in its history, and deepens the game’s tactical core.",
-      "developer": ""
+      "developer": "UBISOFT MONTREAL",
+      "removed": false,
+      "aliasIds": [
+        "BXRB4ZH2GJHK",
+        "9P0G4TBCCS7J"
+      ]
     },
     {
       "id": "9NDJPHS21XXG",
       "title": "Tom Clancy's The Division",
       "image": "https://store-images.s-microsoft.com/image/apps.54587.13613328691185913.94648081-bed8-44db-a7a0-9ca6819d0bb3.304d73dd-ed3b-4187-959a-c507554c758b",
       "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1457395200000,
-      "description": "New-York City, today. An unprecedented pandemic has struck the city during the fever of Black Friday. One by one, basic services fail. In only days, without food or water, society collapses into chaos. You’re part of the Division, an autonomous unit of tactical agents trained to operate independently. Your mission: protect what remains and restore hope. \n\n•  Fight your way through a breath-taking urban jungle dragged into chaos\n\n• As a member of the Division, customize your Agent, loot and upgrade your equipment with state-of-the art technology\n \n• Take back New York City from hostile factions, alone or with your friends\n",
-      "developer": "Massive Entertainment"
-    },
-    {
-      "id": "BRGPD72KHM3Q",
-      "title": "Tom Clancy’s The Division",
-      "image": "https://store-images.s-microsoft.com/image/apps.54587.69731494251073459.b4784411-abd2-44d3-85f2-ee9462429806.a6c5b771-10e0-4c87-ac93-d2a6a85a467c",
-      "platforms": [
+        "pc",
         "console"
       ],
       "ea": false,
       "release": 1457395200000,
-      "description": "A tactical open world third-person shooter set in New York after a deadly pandemic. Team up or go solo to restore order against deadly factions, secure loot, and conquer high-risk endgame challenges. Rediscover this classic, now in 4K 60 FPS!",
-      "developer": ""
+      "description": "New-York City, today. An unprecedented pandemic has struck the city during the fever of Black Friday. One by one, basic services fail. In only days, without food or water, society collapses into chaos. You’re part of the Division, an autonomous unit of tactical agents trained to operate independently. Your mission: protect what remains and restore hope. \n\n•  Fight your way through a breath-taking urban jungle dragged into chaos\n\n• As a member of the Division, customize your Agent, loot and upgrade your equipment with state-of-the art technology\n \n• Take back New York City from hostile factions, alone or with your friends\n",
+      "developer": "Massive Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9NDJPHS21XXG",
+        "BRGPD72KHM3Q"
+      ]
     },
     {
       "id": "BVQ3V30ZXVT5",
       "title": "Tom Clancy’s The Division 2",
       "image": "https://store-images.s-microsoft.com/image/apps.46486.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.dae0d307-4fa7-4b01-879e-fd359f5a02c8",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1552608000000,
       "description": "Join The Division in this open world tactical shooter. Engage in intense cover-based combat, team up with friends, and build your ultimate agent to save Washington, D.C.",
-      "developer": ""
-    },
-    {
-      "id": "9PHR6KG3D1RQ",
-      "title": "Tom Clancy’s The Division 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.46486.71050925055292780.d113598c-97ad-4805-8dbc-eb73bf447e25.dae0d307-4fa7-4b01-879e-fd359f5a02c8",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Join The Division in this open world tactical shooter. Engage in intense cover-based combat, team up with friends, and build your ultimate agent to save Washington, D.C.",
-      "developer": ""
+      "developer": "",
+      "removed": false,
+      "aliasIds": [
+        "BVQ3V30ZXVT5",
+        "9PHR6KG3D1RQ"
+      ]
     },
     {
       "id": "9N926481VT1Z",
@@ -8861,24 +8271,18 @@
       "title": "Torment: Tides of Numenera",
       "image": "https://store-images.s-microsoft.com/image/apps.53292.69228847133651133.1a071f35-fd99-4884-ae4a-12f55849b9eb.4f8fe808-1dfe-42cc-b42e-5319dfa1239e",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1488240000000,
       "description": "Explore Earth one billion years in the future in the science-fantasy setting of Numenera. Discover the Ninth World built on the bones of extinct, hyper-advanced civilizations and leave your own mark on it. Make thousands of essential choices, face the consequences, and meet death incarnated as you seek the answer to the ultimate question: What does one life matter?",
-      "developer": "inXile Entertainment"
-    },
-    {
-      "id": "9NC0071DJ6XC",
-      "title": "Torment: Tides of Numenera",
-      "image": "https://store-images.s-microsoft.com/image/apps.1180.13573916410389292.c37074d3-3b34-4830-9506-f6a100b0dfd2.bb46aeb3-7151-4726-bbe9-3a2dbac3b87f",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1561593600000,
-      "description": "Explore Earth one billion years in the future in the science-fantasy setting of Numenera. Discover the Ninth World built on the bones of extinct, hyper-advanced civilizations and leave your own mark on it. Make thousands of essential choices, face the consequences, and meet death incarnated as you seek the answer to the ultimate question: What does one life matter?",
-      "developer": "inXile Entertainment"
+      "developer": "inXile Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "BQND4NQXFFV2",
+        "9NC0071DJ6XC"
+      ]
     },
     {
       "id": "9PHTX5QZ035T",
@@ -8937,24 +8341,18 @@
       "title": "Trackmania Turbo",
       "image": "https://store-images.s-microsoft.com/image/apps.7354.13950367046754656.73c5bf75-73bc-41cb-bf09-2749755b0e21.00496878-caed-44a9-b568-83dbe84d15c7",
       "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1458777600000,
-      "description": "Trackmania offers you the ultimate arcade racing universe where everything is about reaching the perfect racing time. Test your skills in over 200 tracks, experience immediate fun by challenging your friends at home (offline splitscreen) or online.",
-      "developer": "Nadeo"
-    },
-    {
-      "id": "C3SQQG5Q6Z64",
-      "title": "Trackmania® Turbo",
-      "image": "https://store-images.s-microsoft.com/image/apps.7354.66795167581690331.6243694a-51d8-4e47-a669-9f75a7a2ae49.4fd04854-e88f-4256-b613-fbd81f85670a",
-      "platforms": [
+        "pc",
         "console"
       ],
       "ea": false,
       "release": 1458777600000,
-      "description": "Available for the very first time on Xbox One, Trackmania offers you the ultimate arcade racing universe where everything is about reaching the perfect racing time.\nTest your skills in over 200 tracks, experience immediate fun by challenging your friends at home (offline splitscreen) or online.\nThe competition lasts forever: design and share your own tracks with other players in the Trackbuilder!",
-      "developer": "Nadeo"
+      "description": "Trackmania offers you the ultimate arcade racing universe where everything is about reaching the perfect racing time. Test your skills in over 200 tracks, experience immediate fun by challenging your friends at home (offline splitscreen) or online.",
+      "developer": "Nadeo",
+      "removed": false,
+      "aliasIds": [
+        "9N2SB04LKPFP",
+        "C3SQQG5Q6Z64"
+      ]
     },
     {
       "id": "9NSFGM8J6MBJ",
@@ -8974,24 +8372,18 @@
       "title": "Transference",
       "image": "https://store-images.s-microsoft.com/image/apps.38097.13662575907042688.2861c98a-7aa5-4a06-a574-f6e3595fc74e.fdfe520c-1f79-459e-b305-a1391073236d",
       "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1537228800000,
-      "description": "Imagine an escape room set in a deranged mind. Experience a first-person exploration game in a chilling new dimension. Shift between three perspectives of a family and unravel the mystery hiding in this mind-bending psychological thriller.",
-      "developer": "Ubisoft Entertainment"
-    },
-    {
-      "id": "C0RNBFHQ7X96",
-      "title": "Transference™",
-      "image": "https://store-images.s-microsoft.com/image/apps.38097.64436175129588459.0c80c575-6841-4651-b440-18978a37fd52.ad4a292b-513c-4484-aa98-7edc44c0ae21",
-      "platforms": [
+        "pc",
         "console"
       ],
       "ea": false,
       "release": 1537228800000,
-      "description": "Imagine an escape room set in a deranged mind. Experience a first-person exploration game in a chilling new dimension. Shift between three perspectives of a family in this troubled scientist's experiment, and attempt to unravel the mystery hiding in this mind-bending psychological thriller.",
-      "developer": "Ubisoft"
+      "description": "Imagine an escape room set in a deranged mind. Experience a first-person exploration game in a chilling new dimension. Shift between three perspectives of a family and unravel the mystery hiding in this mind-bending psychological thriller.",
+      "developer": "Ubisoft Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9NKDZ44LZR2R",
+        "C0RNBFHQ7X96"
+      ]
     },
     {
       "id": "9NCDMPCPDTQF",
@@ -9011,24 +8403,18 @@
       "title": "Trials Fusion",
       "image": "https://store-images.s-microsoft.com/image/apps.15233.71395082567433528.16735f42-b6d7-4b47-87c2-5eb0e8defe49.5d1340c2-87f3-479f-9675-f148d93d1599",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1397606400000,
       "description": "Trials Fusion combines simple yet addictive physics-based motorbike racing with the social and visual breakthroughs of the new generation of console gaming. Its frenzied multiplayer, global leader boards, track creation and sharing, and an all-new FMX tricks system ensure even more addictive gameplay.  Discover what has made the Trials series from RedLynx a hit with millions of players around the world.",
-      "developer": "RedLynx"
-    },
-    {
-      "id": "9P1VK0ZCQGND",
-      "title": "Trials Fusion",
-      "image": "https://store-images.s-microsoft.com/image/apps.15233.14503958778322715.61be8a1d-2674-48db-845d-715fb5a3120f.1910ff85-b57b-4d63-94e2-5e125df24da9",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1759276800000,
-      "description": "Trials Fusion is the gold-standard platform racer for the next-generation of gaming. Built upon the Trials franchise’s proven gameplay foundations, Fusion challenges players endlessly in both classic and all-new ways.",
-      "developer": "RedLynx, in collaboration with Ubisoft Shanghai, Ubisoft Kiev"
+      "developer": "RedLynx",
+      "removed": false,
+      "aliasIds": [
+        "BVCRSR6XSDW5",
+        "9P1VK0ZCQGND"
+      ]
     },
     {
       "id": "9NHMR19TS1M0",
@@ -9048,48 +8434,36 @@
       "title": "Trials of the Blood Dragon",
       "image": "https://store-images.s-microsoft.com/image/apps.24854.68666534148093958.e11f94a3-2e7b-4ee5-857d-0a4b518451ed.118a0a5f-98b1-426f-b7f0-ef73444ba280",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1465776000000,
-      "description": "Discover an epic single player experience, combining the top notch gameplay of Trials with the unique style and attitude of Blood Dragon. Take control of Rex Power Colt’s cybercommando kids as they drive, shoot, swing, tame and travel through different environments. Expect also hot competition with Ghost mode, Global Score and Leaderboards.",
-      "developer": "RedLynx"
-    },
-    {
-      "id": "9PG0ZSTFBL1T",
-      "title": "TRIALS OF THE BLOOD DRAGON",
-      "image": "https://store-images.s-microsoft.com/image/apps.24854.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.a29863d8-9eb2-4177-b8f0-0eda06d2d9b9",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1465776000000,
-      "description": "The year is 2019. Roxanne and Slayter, the offspring of the legendary Rex Power Colt, are going to Vietnam War 4 to save freedom, and save the world. Discover an epic single player experience with the unique combination of competitive, precise, physics-based Trials gameplay- and rather less precise gun toting, balls swinging, neon-drenched Blood Dragon action. The future is back. Are you ready?\n",
-      "developer": "RedLynx"
+      "description": "Discover an epic single player experience, combining the top notch gameplay of Trials with the unique style and attitude of Blood Dragon. Take control of Rex Power Colt’s cybercommando kids as they drive, shoot, swing, tame and travel through different environments. Expect also hot competition with Ghost mode, Global Score and Leaderboards.",
+      "developer": "RedLynx",
+      "removed": false,
+      "aliasIds": [
+        "BPPR6D5C2GLF",
+        "9PG0ZSTFBL1T"
+      ]
     },
     {
       "id": "9N3F9256SF8K",
       "title": "Trials Rising",
       "image": "https://store-images.s-microsoft.com/image/apps.56015.13933831786875858.fd150f9a-dd6c-4fd6-b74d-f8dfd5fcf99e.a48e4abd-e709-42b8-ad7c-efec475e2890",
       "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1551139200000,
-      "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest opus of the Trials franchise.  With new tracks in exotic places all over the world  and more ways to compete, Trials® Rising is the best one yet.",
-      "developer": "RedLynx"
-    },
-    {
-      "id": "BP6V6QZBMFP0",
-      "title": "Trials® Rising",
-      "image": "https://store-images.s-microsoft.com/image/apps.56015.67833834336852725.359ee4d2-f566-4a2e-91d9-45cec572c8fd.888ab66d-7be9-4003-ab0e-c5abc7742041",
-      "platforms": [
+        "pc",
         "console"
       ],
       "ea": false,
       "release": 1551139200000,
-      "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest opus of the Trials franchise.  With new tracks in exotic places all over the world  and more ways to compete, Trials® Rising offers the best multiplayer racing experience. The fun is endless with the new tandem bike mode, expanded Track Central and gear customisation tool.  Eat dirt. Taste victory.",
-      "developer": "Ubisoft RedLynx, Ubisoft Kiev"
+      "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest opus of the Trials franchise.  With new tracks in exotic places all over the world  and more ways to compete, Trials® Rising is the best one yet.",
+      "developer": "RedLynx",
+      "removed": false,
+      "aliasIds": [
+        "9N3F9256SF8K",
+        "BP6V6QZBMFP0"
+      ]
     },
     {
       "id": "9NLRT31Z4RWM",
@@ -9155,28 +8529,22 @@
       "developer": "Steel City Interactive "
     },
     {
-      "id": "9NWS5S7ZGD9T",
-      "title": "UNO®",
-      "image": "https://store-images.s-microsoft.com/image/apps.24537.14439182735187248.308e5be4-85cb-4e48-b700-81407f8e8835.fedfe4ce-8dff-4a3c-a311-8df33b849299",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1471305600000,
-      "description": "One of the most iconic classic games which we all grew to know and love! UNO makes its return with an assortment of exciting new features such as added video chat support and an all new theme system which adds more fun!",
-      "developer": ""
-    },
-    {
       "id": "BNSDHDK45KBR",
       "title": "UNO™",
       "image": "https://store-images.s-microsoft.com/image/apps.64833.67582047191807640.1f6942f5-d7bc-46df-a9db-2fa15b28dfdf.7d799b05-0ec4-4758-92ac-c4152b49db91",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1471305600000,
       "description": "Dive into the iconic game that we all grew up with! Match cards by color, number, or symbol, play action cards, and race to empty your hand first. Spice things up with fun House Rules and customize your game with colorful boards, card decks, and avatars. Play solo or challenge your friends locally or online with up to 4 players for endless fun!",
-      "developer": "Ubisoft Chengdu"
+      "developer": "Ubisoft Chengdu",
+      "removed": false,
+      "aliasIds": [
+        "BNSDHDK45KBR",
+        "9NWS5S7ZGD9T"
+      ]
     },
     {
       "id": "C11KKHB5H7QJ",
@@ -9207,24 +8575,18 @@
       "title": "Valiant Hearts: The Great War",
       "image": "https://store-images.s-microsoft.com/image/apps.37152.65058618232281657.63467f0d-c2fd-437f-a555-f7600b31c66b.a167efca-0b24-41b8-8c63-325cd3f6e6ba",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1403654400000,
       "description": "Valiant Hearts - The Great War is the story of 4 crossed destinies and a broken love in a world torn apart.",
-      "developer": "Ubisoft Montpellier"
-    },
-    {
-      "id": "9N9GCWL14F1N",
-      "title": "Valiant Hearts: The Great War",
-      "image": "https://store-images.s-microsoft.com/image/apps.37152.13533541507642289.c9bf6a3b-9a6d-4b98-8745-a4f226fa90ca.fa8207cc-cf02-4df3-8d0c-23fe468ef58d",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1759276800000,
-      "description": "This is the story of crossed destinies and a broken love in a world torn apart.\n\nAll of them will try to survive the horror of the trenches following their faithful canine companion.\n\nIn Valiant Hearts, the lives of all these characters are inextricably drawn together over the course of the game. Friendship, love, sacrifice and tragedy befall each one as they help each other to retain their humanity against the horrors of war.",
-      "developer": "Ubisoft Montpellier"
+      "developer": "Ubisoft Montpellier",
+      "removed": false,
+      "aliasIds": [
+        "C0X15TR4NP0B",
+        "9N9GCWL14F1N"
+      ]
     },
     {
       "id": "9N1NLJK9SKRN",
@@ -9495,24 +8857,18 @@
       "title": "Wasteland 3",
       "image": "https://store-images.s-microsoft.com/image/apps.54134.69010346493633739.074410cb-38ab-4f48-b6fe-0ffa69c89fa9.5e0b834f-57d5-42d6-9b07-c8d7bf92038a",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1598572800000,
-      "description": "The Patriarch of Colorado has promised help the Desert Rangers if you can rescue his land from his three bloodthirsty children. In this post-apocalyptic RPG you must travel north to build a new base, equip a vehicle, train recruits, explore Colorado's hostile frozen wastes, and deal with the locals—but remember, every choice has a consequence.",
-      "developer": "inXile entertainment, Inc."
-    },
-    {
-      "id": "9NLT5XR52ZS7",
-      "title": "Wasteland 3 (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.54134.13700876625277388.8e8fb436-9b3b-4256-a65f-36b842163d85.05c76123-742b-47cf-a219-76de346b4ef5",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1598572800000,
       "description": "The Patriarch of Colorado has promised help the Desert Rangers if you can rescue his land from his three bloodthirsty children. In this post-apocalyptic RPG you must travel north to build a new base, equip a vehicle, train recruits, explore Colorado's hostile frozen wastes, and deal with the locals—but remember, every choice has a consequence.",
-      "developer": "inXile entertainment, Inc."
+      "developer": "inXile entertainment, Inc.",
+      "removed": false,
+      "aliasIds": [
+        "BQ9T0JF0D3L4",
+        "9NLT5XR52ZS7"
+      ]
     },
     {
       "id": "9NGH1FK0RJGL",
@@ -9532,96 +8888,72 @@
       "title": "Watch Dogs: Legion",
       "image": "https://store-images.s-microsoft.com/image/apps.18275.65664549497403424.a741b357-ecc5-4fa6-bfad-4f3a95f27506.87ae0e0d-537a-4730-a6bb-c2fbd19ae709",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1603929600000,
       "description": "In Watch Dogs: Legion, you get to build a resistance from virtually anyone you see as you hack, infiltrate, and fight to take back a near-future London that is facing its downfall. Welcome to the Resistance.\r\nTake the resistance one step further and fight with your friends in new missions in Online mode.",
-      "developer": "UBISOFT TORONTO"
-    },
-    {
-      "id": "9MXG725MBV3N",
-      "title": "Watch Dogs®: Legion",
-      "image": "https://store-images.s-microsoft.com/image/apps.18275.14454478644537775.18e64e6c-91d5-4ac4-9098-101dbd702e9f.896a07e0-e127-488a-87b5-a3071b6e0034",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1784642400000,
-      "description": "Build a resistance from anyone in the world as you fight to take back a near-future London facing its downfall. Experience never-before-seen gameplay innovation that allows you to recruit and play as any character. Everyone has a unique skill to help your team. Recipient of over 65 E3 awards and nominations.",
-      "developer": ""
+      "developer": "UBISOFT TORONTO",
+      "removed": false,
+      "aliasIds": [
+        "C1WRX8ZD77M9",
+        "9MXG725MBV3N"
+      ]
     },
     {
       "id": "BSXLFN5QQZSC",
       "title": "Watch Dogs®2",
       "image": "https://store-images.s-microsoft.com/image/apps.26142.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.b216af15-301f-4f23-83a3-69a59a87985b",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1479168000000,
       "description": "Welcome to San Francisco. Play as Marcus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of the history.",
-      "developer": "Ubisoft Montreal"
-    },
-    {
-      "id": "9NLFKBTNP2VJ",
-      "title": "Watch Dogs®2",
-      "image": "https://store-images.s-microsoft.com/image/apps.26142.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.b216af15-301f-4f23-83a3-69a59a87985b",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1781182800000,
-      "description": "Welcome to San Francisco. Play as Marcus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of the history.",
-      "developer": "Ubisoft Montreal"
+      "developer": "Ubisoft Montreal",
+      "removed": false,
+      "aliasIds": [
+        "BSXLFN5QQZSC",
+        "9NLFKBTNP2VJ"
+      ]
     },
     {
       "id": "9P76M1N37K6K",
       "title": "WATCH_DOGS",
       "image": "https://store-images.s-microsoft.com/image/apps.51441.14610079002080806.f515d88d-14c7-449b-92ab-4c5312e2a0ca.d80529d4-7608-4696-b620-39a36d4357d4",
       "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1401148800000,
-      "description": "All it takes is the swipe of a finger. We connect with friends. We buy the latest gadgets and gear. We find out what’s happening in the world. But with that same simple swipe, we cast an increasingly ",
-      "developer": "Ubisoft Entertainment"
-    },
-    {
-      "id": "C4DMGRPNSHXG",
-      "title": "WATCH_DOGS™",
-      "image": "https://store-images.s-microsoft.com/image/apps.51441.66583679601418453.329e8674-c508-4106-8a82-e4ebbbda5bd7.d28372d0-95e3-4c53-aa88-43909b44308f",
-      "platforms": [
+        "pc",
         "console"
       ],
       "ea": false,
       "release": 1401148800000,
-      "description": "IN TODAY’S HYPER-CONNECTED WORLD, CHICAGO OPERATES UNDER CTOS, THE MOST ADVANCED COMPUTER NETWORK IN AMERICA.\nAs Aiden Pearce, you can hack into this entire system and make Chicago your ultimate weapon in your quest for vengeance.\nBut what happens when your personal quest collides with an entire city?",
-      "developer": "Ubisoft Entertainment"
+      "description": "All it takes is the swipe of a finger. We connect with friends. We buy the latest gadgets and gear. We find out what’s happening in the world. But with that same simple swipe, we cast an increasingly ",
+      "developer": "Ubisoft Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "9P76M1N37K6K",
+        "C4DMGRPNSHXG"
+      ]
     },
     {
       "id": "BPR2TBS2KMQJ",
       "title": "We Happy Few",
       "image": "https://store-images.s-microsoft.com/image/apps.45930.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.53d53de7-c096-4ac7-9439-aaf384d8417f",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1533859200000,
       "description": "Set in a drug-fuelled, retrofuturistic city in an alternative 1960s England, We Happy Few is an action/adventure game in which you hide, fight, and conform your way out of a delusional Joy-obsessed world.",
-      "developer": "Compulsion Games Inc"
-    },
-    {
-      "id": "9NBLGGH5342P",
-      "title": "We Happy Few",
-      "image": "https://store-images.s-microsoft.com/image/apps.45930.13510798887680222.3c51bb2a-c94b-499f-8ece-ee87047564ad.4f3a51f6-c15f-447e-a9c3-ed0842191294",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1533924000000,
-      "description": "Set in a drug-fuelled, retrofuturistic city in an alternative 1960s England, We Happy Few is an action/adventure game in which you hide, fight, and conform your way out of a delusional Joy-obsessed world.",
-      "developer": "Compulsion Games Inc"
+      "developer": "Compulsion Games Inc",
+      "removed": false,
+      "aliasIds": [
+        "BPR2TBS2KMQJ",
+        "9NBLGGH5342P"
+      ]
     },
     {
       "id": "9PLH7R84GJWP",
@@ -9756,24 +9088,18 @@
       "title": "Wolfenstein 3D",
       "image": "https://store-images.s-microsoft.com/image/apps.53556.14103068553133050.2db8938c-844e-4b8f-bb62-aca2ce562342.be454e36-958e-43ec-a1de-de65a69e2cae",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1369958400000,
       "description": "World War II rages. The Nazis are planning to build an unstoppable, mutant army. On a mission to steal the secret plans, you were captured and imprisoned. Now, a lucky break gives you the chance to escape, but a maze of passages and trigger-happy Nazis stand in your way.",
-      "developer": "id Software"
-    },
-    {
-      "id": "9P7Z1D3N8KR7",
-      "title": "Wolfenstein 3D",
-      "image": "https://store-images.s-microsoft.com/image/apps.53556.14103068553133050.2db8938c-844e-4b8f-bb62-aca2ce562342.be454e36-958e-43ec-a1de-de65a69e2cae",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1660780800000,
-      "description": "World War II rages. The Nazis are planning to build an unstoppable, mutant army. On a mission to steal the secret plans, you were captured and imprisoned. Now, a lucky break gives you the chance to escape, but a maze of passages and trigger-happy Nazis stand in your way.",
-      "developer": "id Software"
+      "developer": "id Software",
+      "removed": false,
+      "aliasIds": [
+        "BSXDD75Q561F",
+        "9P7Z1D3N8KR7"
+      ]
     },
     {
       "id": "9NDBKK9G0FHL",
@@ -9792,72 +9118,54 @@
       "title": "Wolfenstein: The New Order",
       "image": "https://store-images.s-microsoft.com/image/apps.60509.70764866595776237.49bcb933-4bfd-4b64-a764-f2ef10fde8d5.b9b34a2c-bf98-43f6-8b2f-3e532f37edda",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1400544000000,
       "description": "Europe, 1960. The tide of World War II has been turned using a new kind of mysterious, advanced technology. Using unrelenting force and intimidation, a ruthless world power has brought even the most powerful of nations to their knees. The regime now dominates the globe with an iron fist. You are B.J. Blazkowicz, the American war hero. You are the only man capable of rewriting history.",
-      "developer": "MachineGames"
-    },
-    {
-      "id": "9P75CBJ9WT9W",
-      "title": "Wolfenstein: The New Order (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.60509.70764866595776237.49bcb933-4bfd-4b64-a764-f2ef10fde8d5.b9b34a2c-bf98-43f6-8b2f-3e532f37edda",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1615507200000,
-      "description": "Intense and cinematic, Wolfenstein: The New Order sends players across Europe on a personal mission to bring down the Nazi war machine. ",
-      "developer": "MachineGames"
+      "developer": "MachineGames",
+      "removed": false,
+      "aliasIds": [
+        "BT9FFLG51VVG",
+        "9P75CBJ9WT9W"
+      ]
     },
     {
       "id": "BPV4GXTDCNSH",
       "title": "Wolfenstein: The Old Blood",
       "image": "https://store-images.s-microsoft.com/image/apps.64069.14122383886801714.65a75288-1d4b-4744-b3e8-5eb9e5357c0a.630b98bc-a639-4db4-8b96-d81efbd34129",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1430784000000,
       "description": "Wolfenstein: The Old Blood is a standalone prequel to the critically acclaimed first-person action-adventure shooter, Wolfenstein: The New Order. The adventure, which spans eight chapters and two interconnected stories, features the hallmarks of MachineGames – thrilling action, immersive story and intense first-person combat.",
-      "developer": "MachineGames"
-    },
-    {
-      "id": "9PBB4QHMSDKR",
-      "title": "Wolfenstein: The Old Blood (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.64069.14122383886801714.65a75288-1d4b-4744-b3e8-5eb9e5357c0a.630b98bc-a639-4db4-8b96-d81efbd34129",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1615507200000,
-      "description": "The year is 1946 and the Regime is on the brink of winning World War II. In an effort to turn the tide in the allies’ favor, B.J. Blazkowicz must embark on an epic, two-part mission deep within Bavaria…. ",
-      "developer": "MachineGames"
+      "developer": "MachineGames",
+      "removed": false,
+      "aliasIds": [
+        "BPV4GXTDCNSH",
+        "9PBB4QHMSDKR"
+      ]
     },
     {
       "id": "C421ZX7RCG0W",
       "title": "Wolfenstein: Youngblood",
       "image": "https://store-images.s-microsoft.com/image/apps.34137.14232405978199420.10006ada-af2f-43d4-ab04-4e26289ccf76.46f2767d-1483-4024-9cf8-0beb70923f5b",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1564099200000,
       "description": "Try Wolfenstein: Youngblood for free. Access to all gameplay and features requires an invitation from a Buddy Pass owner.\r\n\r\nWolfenstein: Youngblood is the first modern co-op Wolfenstein adventure.\r\n\r\nTeam up with a friend or play solo as one of BJ Blazkowicz’s twin daughters and wield a powerful arsenal of new weapons, gadgets, and abilities to liberate Paris from the Nazis.",
-      "developer": "MachineGames"
-    },
-    {
-      "id": "9PHFTS44F99K",
-      "title": "Wolfenstein: Youngblood (PC)",
-      "image": "https://store-images.s-microsoft.com/image/apps.34137.14232405978199420.10006ada-af2f-43d4-ab04-4e26289ccf76.46f2767d-1483-4024-9cf8-0beb70923f5b",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1580947200000,
-      "description": "Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure.\n\nTeam up with a friend or play solo as one of BJ Blazkowicz’s twin daughters and wield a powerful arsenal of new weapons, gadgets, and abilities to liberate Paris from the Nazis.",
-      "developer": "MachineGames"
+      "developer": "MachineGames",
+      "removed": false,
+      "aliasIds": [
+        "C421ZX7RCG0W",
+        "9PHFTS44F99K"
+      ]
     },
     {
       "id": "C4LLMHFQ1BXQ",
@@ -9940,48 +9248,36 @@
       "title": "Wreckfest",
       "image": "https://store-images.s-microsoft.com/image/apps.62864.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.20973bfd-77f7-41d0-8e0a-7cb51d9f8add",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1566860400000,
       "description": "Break the rules and take full-contact racing to the limit with Wreckfest! \r\n\r\n\r\n\r\n\r\n\r\nExpect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 & 2!\r\n\r\n\r\n\r\n\r\n\r\nBurn rubber and shred metal in the ultimate driving playground!",
-      "developer": "Bugbear Entertainment"
-    },
-    {
-      "id": "9NG06CSMM97P",
-      "title": "Wreckfest",
-      "image": "https://store-images.s-microsoft.com/image/apps.62864.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.2db605c4-0ddc-4af6-a7fe-27fa24741872",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1613606400000,
-      "description": "Break the rules and take full-contact racing to the limit with Wreckfest! \r\n\r\nExpect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 & 2!\r\n\r\nBurn rubber and shred metal in the ultimate driving playground!",
-      "developer": "Bugbear Entertainment"
+      "developer": "Bugbear Entertainment",
+      "removed": false,
+      "aliasIds": [
+        "BRJNRZ9N734V",
+        "9NG06CSMM97P"
+      ]
     },
     {
       "id": "9NPRHD8GQKQS",
       "title": "WUCHANG: Fallen Feathers",
       "image": "https://store-images.s-microsoft.com/image/apps.44761.13783945394833991.9c211df2-6d91-4ddb-8a9b-d22dd17d57de.2d4b818f-ca01-45f0-b255-54b665c38ac6",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1753369200000,
-      "description": "WUCHANG: Fallen Feathers is a soulslike, action RPG set in the land of Shu during the dark and tumultuous late Ming Dynasty, plagued with warring factions and a mysterious illness spawning monstrous creatures.",
-      "developer": "Leenzee"
-    },
-    {
-      "id": "9N6WN0ZHZQ6W",
-      "title": "WUCHANG: Fallen Feathers",
-      "image": "https://store-images.s-microsoft.com/image/apps.44761.13783945394833991.9c211df2-6d91-4ddb-8a9b-d22dd17d57de.2d4b818f-ca01-45f0-b255-54b665c38ac6",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1753369200000,
       "description": "WUCHANG: Fallen Feathers is a soulslike, action RPG set in the land of Shu during the dark and tumultuous late Ming Dynasty, plagued with warring factions and a mysterious illness spawning monstrous creatures.",
-      "developer": "Leenzee"
+      "developer": "Leenzee",
+      "removed": false,
+      "aliasIds": [
+        "9NPRHD8GQKQS",
+        "9N6WN0ZHZQ6W"
+      ]
     },
     {
       "id": "9P41GS5W1C6L",
@@ -10027,24 +9323,18 @@
       "title": "ZOMBI",
       "image": "https://store-images.s-microsoft.com/image/apps.3917.68822110586088769.01809b29-a049-4674-9458-ee60f902269d.786d2a56-5832-4ad6-bceb-209631d15dfc",
       "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1439856000000,
-      "description": "London is falling. Are you prepared?  For the second time in history, a great plague has shrouded London in a fog of death. The nail-biting survival experience of ZombiU™ is now available to everyone on Xbox One.  Zombi takes the power of the latest generation of hardware to bring you a new level of horror. Test your will to survive, but beware: one wrong move can cause you to lose everything.",
-      "developer": "STRAIGHT RIGHT"
-    },
-    {
-      "id": "9NLZH0VNVSKR",
-      "title": "ZOMBI",
-      "image": "https://store-images.s-microsoft.com/image/apps.3917.13702451775984962.18ead730-9078-40c2-bb82-10231c54d0ba.314002e5-fb3d-41ed-b882-83dc4b7480a1",
-      "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
       "release": 1439856000000,
-      "description": "London is falling. Test your will to survive, but beware: one wrong move can cause you to lose everything and survival is not guaranteed. ",
-      "developer": "Straight Right"
+      "description": "London is falling. Are you prepared?  For the second time in history, a great plague has shrouded London in a fog of death. The nail-biting survival experience of ZombiU™ is now available to everyone on Xbox One.  Zombi takes the power of the latest generation of hardware to bring you a new level of horror. Test your will to survive, but beware: one wrong move can cause you to lose everything.",
+      "developer": "STRAIGHT RIGHT",
+      "removed": false,
+      "aliasIds": [
+        "BR03N9C6Z9G6",
+        "9NLZH0VNVSKR"
+      ]
     },
     {
       "id": "9PLSCHRN5715",
@@ -10096,5 +9386,7 @@
       "description": "This game was made by PopCap with love. Download the free trial and see for yourself.",
       "developer": "PopCap Games"
     }
-  ]
+  ],
+  "totalCount": 697,
+  "removedCount": 0
 }

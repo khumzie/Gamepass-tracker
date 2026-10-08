@@ -73,8 +73,121 @@ async function fetchProducts(ids) {
   return out;
 }
 
+function getBaseKey(title) {
+  let t = (title || "").toLowerCase();
+  t = t.replace(/[®™©]/g, '')
+       .replace(/['']/g, "'")
+       .replace(/[""]/g, '"')
+       .replace(/[–—]/g, '-');
+
+  // Strip platform indicators
+  t = t.replace(/\s*\((windows|pc|xbox|xbox\s*one|xbox\s*series\s*[xs])(\s*10)?\)/gi, '')
+       .replace(/\s*-\s*(windows|pc)(\s*10)?$/gi, '')
+       .replace(/\s+for\s+windows(\s*10)?$/gi, '');
+
+  // Strip edition indicators for grouping
+  const editionPatterns = [
+    /\s*[:-]?\s*(standard|deluxe|complete|definitive|ultimate|anniversary|enhanced|special|goty|game of the year|collector'?s?)\s*edition$/gi,
+    /\s*[:-]?\s*(digital\s*deluxe|premium|gold)\s*edition$/gi,
+    /\s*[:-]?\s*(remastered|director'?s?\s*cut)$/gi
+  ];
+  for (const pat of editionPatterns) {
+    t = t.replace(pat, '');
+  }
+
+  return t.replace(/[^a-z0-9]/g, '');
+}
+
+function getEditionScore(g) {
+  const t = (g.title || "").toLowerCase();
+  let score = 50;
+
+  // Edition superiority (Complete > Definitive > Enhanced > Standard)
+  if (t.includes('complete') || t.includes('ultimate') || t.includes('game of the year') || t.includes('goty')) score += 50;
+  else if (t.includes('definitive') || t.includes('anniversary') || t.includes('gold') || t.includes('deluxe') || t.includes('premium')) score += 35;
+  else if (t.includes('enhanced') || t.includes('special edition') || t.includes('remastered') || t.includes("director's cut")) score += 20;
+  else if (t.includes('standard')) score -= 10;
+
+  // Penalize platform tags in title (prefer clean title)
+  if (t.includes('(windows') || t.includes('- windows') || t.includes('(pc)')) score -= 15;
+  if (t.includes('preview')) score -= 10;
+
+  // Prefer entries with better metadata
+  if (g.image) score += 5;
+  if (g.description && g.description.length > 50) score += 5;
+  if (g.developer) score += 2;
+
+  return score;
+}
+
+function deduplicateGames(rawGames) {
+  const groups = new Map();
+  for (const g of rawGames) {
+    const k = getBaseKey(g.title);
+    if (!groups.has(k)) groups.set(k, []);
+    groups.get(k).push(g);
+  }
+
+  const out = [];
+  for (const list of groups.values()) {
+    if (list.length === 1) {
+      out.push(list[0]);
+      continue;
+    }
+
+    // Sort by best edition
+    list.sort((a, b) => getEditionScore(b) - getEditionScore(a));
+    const best = { ...list[0] };
+
+    // Merge platforms
+    const platforms = new Set();
+    let isEa = false;
+    let anyActive = false;
+    const aliasIds = [];
+
+    for (const item of list) {
+      if (!aliasIds.includes(item.id)) aliasIds.push(item.id);
+      if (Array.isArray(item.aliasIds)) {
+        for (const aid of item.aliasIds) {
+          if (!aliasIds.includes(aid)) aliasIds.push(aid);
+        }
+      }
+      if (item.platforms) {
+        for (const p of item.platforms) platforms.add(p);
+      }
+      if (item.ea) isEa = true;
+      if (!item.removed) anyActive = true;
+    }
+
+    best.platforms = platforms.size ? Array.from(platforms) : ["console"];
+    best.ea = isEa;
+    best.removed = !anyActive;
+    best.aliasIds = aliasIds;
+
+    out.push(best);
+  }
+
+  return out;
+}
+
 async function run() {
-  console.log("Fetching IDs from sigls...");
+  console.log("Reading existing catalogue from games.json...");
+  const existingMap = new Map();
+  try {
+    if (fs.existsSync('games.json')) {
+      const prev = JSON.parse(fs.readFileSync('games.json', 'utf8'));
+      if (Array.isArray(prev.games)) {
+        for (const g of prev.games) {
+          if (g && g.id) existingMap.set(g.id, g);
+        }
+      }
+      console.log(`Found ${existingMap.size} games in previous catalogue.`);
+    }
+  } catch (e) {
+    console.warn("Could not read previous games.json:", e.message);
+  }
+
+  console.log("Fetching current IDs from sigls...");
   const sourceMap = {};
   for (const k of ["console", "pc", "ea", "all"]) {
     try {
@@ -90,11 +203,15 @@ async function run() {
   }
 
   const allIds = Object.keys(sourceMap);
-  console.log(`Total unique IDs: ${allIds.length}`);
+  const activeIdsSet = new Set(allIds);
+  console.log(`Total active IDs currently on Game Pass: ${allIds.length}`);
 
+  // Fetch product metadata only for IDs that need it (new or all)
   const products = await fetchProducts(allIds);
 
   const m = new Map();
+  let newlyAddedCount = 0;
+
   for (const p of products) {
     const id = p.ProductId || p.Id;
     if (!id) continue;
@@ -107,24 +224,56 @@ async function run() {
     }
     const isEa = src.includes("ea");
 
+    const existing = existingMap.get(id);
+    const isBrandNew = !existing;
+    if (isBrandNew) newlyAddedCount++;
+
     m.set(id, {
       id,
-      title: titleFor(p),
-      image: imageFor(p),
-      platforms,
-      ea: isEa,
-      release: dateFor(p),
-      description: p.LocalizedProperties?.[0]?.ShortDescription || p.LocalizedProperties?.[0]?.ProductDescription?.slice(0, 200) || "",
-      developer: p.LocalizedProperties?.[0]?.DeveloperName || ""
+      title: titleFor(p) || existing?.title || "Unknown game",
+      image: imageFor(p) || existing?.image || "",
+      platforms: platforms.length ? platforms : (existing?.platforms || ["console"]),
+      ea: isEa || Boolean(existing?.ea),
+      release: dateFor(p) || existing?.release || 0,
+      description: p.LocalizedProperties?.[0]?.ShortDescription || p.LocalizedProperties?.[0]?.ProductDescription?.slice(0, 200) || existing?.description || "",
+      developer: p.LocalizedProperties?.[0]?.DeveloperName || existing?.developer || "",
+      removed: false,
+      addedDate: existing?.addedDate || Date.now()
     });
   }
 
-  const games = [...m.values()].sort((a, b) => a.title.localeCompare(b.title));
-  console.log(`Normalized ${games.length} games.`);
+  // Preserve games that have been removed from Game Pass
+  let removedCount = 0;
+  for (const [id, oldGame] of existingMap.entries()) {
+    if (!activeIdsSet.has(id)) {
+      removedCount++;
+      m.set(id, {
+        ...oldGame,
+        removed: true,
+        removedDate: oldGame.removedDate || new Date().toISOString()
+      });
+    }
+  }
+
+  const rawGames = [...m.values()];
+  console.log(`Raw games before deduplication: ${rawGames.length}`);
+
+  // Deduplicate and choose best edition
+  const games = deduplicateGames(rawGames).sort((a, b) => {
+    // Active games first, then removed games
+    if (Boolean(a.removed) !== Boolean(b.removed)) {
+      return a.removed ? 1 : -1;
+    }
+    return a.title.localeCompare(b.title);
+  });
+
+  console.log(`Catalogue summary after deduplication: ${games.filter(g => !g.removed).length} active, ${games.filter(g => g.removed).length} removed. Total unique titles: ${games.length}`);
   const output = {
     updatedAt: Date.now(),
     updatedDate: new Date().toISOString(),
-    count: games.length,
+    count: games.filter(g => !g.removed).length,
+    totalCount: games.length,
+    removedCount: games.filter(g => g.removed).length,
     games
   };
   fs.writeFileSync('games.json', JSON.stringify(output, null, 2));
@@ -132,3 +281,5 @@ async function run() {
 }
 
 run().catch(console.error);
+
+
