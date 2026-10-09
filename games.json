@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1791457712890,
-  "updatedDate": "2026-10-08T11:08:32.890Z",
-  "count": 698,
-  "totalCount": 698,
+  "updatedAt": 1791544046088,
+  "updatedDate": "2026-10-09T11:07:26.088Z",
+  "count": 699,
+  "totalCount": 699,
   "removedCount": 0,
   "games": [
     {
@@ -342,32 +342,23 @@
       "addedDate": 1791457712874
     },
     {
-      "id": "9P1VNX9Z03N5",
-      "title": "Anno 1800™",
-      "image": "https://store-images.s-microsoft.com/image/apps.39903.14560706864397031.06afa3fb-7b74-40b6-aa11-c213f11bfec6.17b409b5-94eb-4a5d-ad8d-b4dd24ebd1c9",
+      "id": "9PHKWCSZ0SQJ",
+      "title": "Anno 1800",
+      "image": "https://store-images.s-microsoft.com/image/apps.52642.13903974859798407.fe1b6a24-4577-41e3-92da-76a2503642b9.06c98722-1c79-4f04-81fd-3e72cb2ee0ba",
       "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
-      "release": 1784642400000,
-      "description": "Welcome to the dawn of the Industrial Age. Experience one of the most exciting & fast-changing periods of all time in a rich city-building experience.",
-      "developer": "BLUE BYTE",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
-      "id": "9PHKWCSZ0SQJ",
-      "title": "Anno 1800™ Console Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.52642.13903974859798407.fe1b6a24-4577-41e3-92da-76a2503642b9.06c98722-1c79-4f04-81fd-3e72cb2ee0ba",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
       "release": 1681686000000,
-      "description": "Welcome to the dawn of the Industrial Age in this city-building real-time strategy game. Experience one of the most exciting and fast-changing periods of all time as you discover new technologies, regions, and societies, implement your own strategy, and build a new world to your design.\r\n\r\nPlay solo or use the online mode to play PvP or co-op modes: How the world remembers your name is up to you.",
+      "description": "Forge your empire in an award-winning builder game set at the dawn of the Industrial Age. Build and manage vast industrial cities from the Old World to the New World.\n\nMake strategic choices and master complex production chains using innovation, diplomacy, and economic mastery to lead your society.",
       "developer": "BLUE BYTE",
       "removed": false,
-      "addedDate": 1791457712874
+      "addedDate": 1791457712874,
+      "aliasIds": [
+        "9PHKWCSZ0SQJ",
+        "9P1VNX9Z03N5"
+      ]
     },
     {
       "id": "9NK8947Z28XL",
@@ -3132,6 +3123,21 @@
       "addedDate": 1791457712874
     },
     {
+      "id": "9N72DFC6GL91",
+      "title": "Echo Weaver",
+      "image": "https://store-images.s-microsoft.com/image/apps.10430.14007070537305664.23c6e561-edd5-44ed-a3ad-86b6c1a5c1c1.e3ee97c9-cd7d-44f4-9171-b07a3c8daaab",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1791475200000,
+      "description": "Time is your greatest resource. Master a time loop Metroidvania where secrets are your only upgrades.  Explore what remains. Uncover the mystery. Perfect the loop.",
+      "developer": "Moonlight Kids",
+      "removed": false,
+      "addedDate": 1791544046072
+    },
+    {
       "id": "9PDKDBQGG2N2",
       "title": "Egging On",
       "image": "https://store-images.s-microsoft.com/image/apps.17074.14152749769454837.6267b1e7-52ba-45c3-8a48-c823ac92c3ba.0b606b68-2a85-4834-a620-c8db5791486c",
@@ -3898,6 +3904,21 @@
       "developer": "IronOak Games Inc.",
       "removed": false,
       "addedDate": 1791457712875
+    },
+    {
+      "id": "9NFB47H2SDRX",
+      "title": "Forever Ago",
+      "image": "https://store-images.s-microsoft.com/image/apps.32369.13602461240998233.6f87298c-1315-45ca-95cb-f70de3689fc6.f3660ec0-09b3-43fa-ae60-bb898e75b5ee",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1791464400000,
+      "description": "Following a tragic stroke of fate, Alfred embarks on a journey north in search of redemption in this single-player road trip adventure.",
+      "developer": "Third Shift",
+      "removed": false,
+      "addedDate": 1791544046072
     },
     {
       "id": "BT5P2X999VH2",
@@ -6155,7 +6176,7 @@
     {
       "id": "9P8SQQJ5T94B",
       "title": "NARAKA: BLADEPOINT",
-      "image": "https://store-images.s-microsoft.com/image/apps.40921.14085855469646025.41616b04-2f86-4370-acdd-c02f787b88cc.44cd311b-87dd-4296-b1f3-f0d4c73bb1e8",
+      "image": "https://store-images.s-microsoft.com/image/apps.21810.14085855469646025.79385fad-0738-4130-a98b-b6f34ec818c6.6a601f64-8784-4963-af2b-fbeb7cebefd5",
       "platforms": [
         "console",
         "pc"
@@ -6465,7 +6486,7 @@
     {
       "id": "9NBNFBQ546DT",
       "title": "Nova Roma (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.64389.13514288515095406.3f7236b5-ddee-4494-adf3-12dbe4be4e57.5b73e318-a3d6-4ce1-a529-ebc6265a69ae",
+      "image": "https://store-images.s-microsoft.com/image/apps.38629.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.70ae0d17-df02-41a3-9cbd-a9c87176c566",
       "platforms": [
         "pc"
       ],
@@ -9239,7 +9260,7 @@
       ],
       "ea": false,
       "release": 1506902400000,
-      "description": "Discover an atmospheric hunting game like no other in this realistic, stunning open world – regularly updated in collaboration with the community. Immerse yourself in the single player campaign, or share the ultimate hunting experience with friends.",
+      "description": "Discover an authentic hunting game in a dynamic open world that reacts to your every move. Track prey, face unscripted encounters, and master the hunt alone or with friends.",
       "developer": "Expansive Worlds",
       "removed": false,
       "addedDate": 1791457712876,
