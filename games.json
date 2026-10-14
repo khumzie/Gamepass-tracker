@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1791890691839,
-  "updatedDate": "2026-10-13T11:24:51.839Z",
-  "count": 699,
-  "totalCount": 699,
+  "updatedAt": 1791969429341,
+  "updatedDate": "2026-10-14T09:17:09.341Z",
+  "count": 702,
+  "totalCount": 702,
   "removedCount": 0,
   "games": [
     {
@@ -1044,6 +1044,20 @@
       "developer": "DICE",
       "removed": false,
       "addedDate": 1791457712874
+    },
+    {
+      "id": "9P2FF14JZLL3",
+      "title": "Battlefield™ 6",
+      "image": "https://store-images.s-microsoft.com/image/apps.65490.14559138935406168.e7f01a08-ebf9-41d8-88ba-39fb1a148711.c65ba007-7378-497e-b934-101230f24e82",
+      "platforms": [
+        "console"
+      ],
+      "ea": true,
+      "release": 1760108400000,
+      "description": "The Best Selling Shooter of 2025",
+      "developer": "Battlefield Studios",
+      "removed": false,
+      "addedDate": 1791969429324
     },
     {
       "id": "BZKZFMQG2K2K",
@@ -2407,6 +2421,21 @@
       "developer": "Arkane Studios",
       "removed": false,
       "addedDate": 1791457712874
+    },
+    {
+      "id": "9PPF72ZH6RP8",
+      "title": "Deep Dish Dungeon",
+      "image": "https://store-images.s-microsoft.com/image/apps.42452.14326063685133853.939b1741-3671-493b-b12d-2c262722c883.895b973c-6205-405e-be6d-00ace2e16503",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1791900000000,
+      "description": "A survival exploration game where you navigate through a puzzly, handcrafted dungeon, with metroidvania and crafting elements. Unravel the enigmas of the dungeon solo or online co-op multiplayer. ",
+      "developer": "Behold Studios",
+      "removed": false,
+      "addedDate": 1791969429324
     },
     {
       "id": "9NHFVWX1V7QJ",
@@ -9799,6 +9828,21 @@
         "C0X15TR4NP0B",
         "9N9GCWL14F1N"
       ]
+    },
+    {
+      "id": "9P861V1542BL",
+      "title": "Valor Mortis",
+      "image": "https://store-images.s-microsoft.com/image/apps.6950.14098465670758705.ee77a872-5740-4661-bec6-399c86db9b2c.57a42d9a-98d4-4d4d-98fd-56200c024d29",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1791910800000,
+      "description": "Valor Mortis is a first-person action Souls-like from the creators of Ghostrunner. Rise from death as a former soldier of Napoleon’s army. Wield supernatural powers, battle horror monsters, and unravel a conspiracy that threatens all of humanity.",
+      "developer": "One More Level",
+      "removed": false,
+      "addedDate": 1791969429326
     },
     {
       "id": "9N1NLJK9SKRN",
