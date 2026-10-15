@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1791969429341,
-  "updatedDate": "2026-10-14T09:17:09.341Z",
-  "count": 702,
-  "totalCount": 702,
+  "updatedAt": 1792054268945,
+  "updatedDate": "2026-10-15T08:51:08.945Z",
+  "count": 703,
+  "totalCount": 703,
   "removedCount": 0,
   "games": [
     {
@@ -652,19 +652,14 @@
       "title": "Assassin's Creed® Chronicles: India",
       "image": "https://store-images.s-microsoft.com/image/apps.21584.70425082533983523.ff1d078d-4642-493c-9cc6-2c51390ba69c.c7b7c9d3-1c96-4687-885e-65a550df067d",
       "platforms": [
-        "console",
-        "pc"
+        "console"
       ],
       "ea": false,
       "release": 1452556800000,
       "description": "Embody Arbaaz in his quest for retribution through a colourful depiction of Colonial India in 2.5D stealth gameplay. \n\n• Travel across an amazing 19th Century India and its legendary landmarks. \n• Experience the thrill of a stealthy assassin with a unique set of skills and weapons such as the double kill moves and the chakram.\n• Discover a brand new mode with stealth, speed and assassination rooms",
       "developer": "Climax Studios",
       "removed": false,
-      "addedDate": 1791457712874,
-      "aliasIds": [
-        "BTMS1PXLQ6P6",
-        "9N0QFT016SGV"
-      ]
+      "addedDate": 1791457712874
     },
     {
       "id": "BXQQQQ8HRBSF",
@@ -1350,6 +1345,21 @@
       "developer": "Artax Games and Casual Brothers Ltd.",
       "removed": false,
       "addedDate": 1791457712874
+    },
+    {
+      "id": "9NQVHHW88XW9",
+      "title": "Bluey's Happy Snaps",
+      "image": "https://store-images.s-microsoft.com/image/apps.35599.13762188493241252.c9eed3d4-2711-40bb-b507-e4c31d9fe3e1.010ff7ff-e206-4830-ad42-9734bafe87c8",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1792018800000,
+      "description": "Explore Bluey's world like never before! ",
+      "developer": "Gameloft",
+      "removed": false,
+      "addedDate": 1792054268929
     },
     {
       "id": "9P66TM1HLGLX",
@@ -9657,19 +9667,14 @@
       "title": "Trials of the Blood Dragon",
       "image": "https://store-images.s-microsoft.com/image/apps.24854.68666534148093958.e11f94a3-2e7b-4ee5-857d-0a4b518451ed.118a0a5f-98b1-426f-b7f0-ef73444ba280",
       "platforms": [
-        "console",
-        "pc"
+        "console"
       ],
       "ea": false,
       "release": 1465776000000,
       "description": "Discover an epic single player experience, combining the top notch gameplay of Trials with the unique style and attitude of Blood Dragon. Take control of Rex Power Colt’s cybercommando kids as they drive, shoot, swing, tame and travel through different environments. Expect also hot competition with Ghost mode, Global Score and Leaderboards.",
       "developer": "RedLynx",
       "removed": false,
-      "addedDate": 1791457712876,
-      "aliasIds": [
-        "BPPR6D5C2GLF",
-        "9PG0ZSTFBL1T"
-      ]
+      "addedDate": 1791457712876
     },
     {
       "id": "BP6V6QZBMFP0",
