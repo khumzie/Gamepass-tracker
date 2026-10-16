@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1792054268945,
-  "updatedDate": "2026-10-15T08:51:08.945Z",
-  "count": 703,
-  "totalCount": 703,
+  "updatedAt": 1792140306046,
+  "updatedDate": "2026-10-16T08:45:06.046Z",
+  "count": 704,
+  "totalCount": 704,
   "removedCount": 0,
   "games": [
     {
@@ -1744,6 +1744,21 @@
       "developer": "Red Dot Games",
       "removed": false,
       "addedDate": 1791457712874
+    },
+    {
+      "id": "9PKZRN4RJRC9",
+      "title": "Chained Beasts",
+      "image": "https://store-images.s-microsoft.com/image/apps.60883.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.cd3cfc9c-7767-44a0-a2a5-4d89e5f1b4bc",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1792083600000,
+      "description": "Fight chaotic battles chained to your friends in this 1-4 player co-op gladiator roguelike. Use your chains or the arena to beat up foes in creative ways and win the bloodthirsty crowd. Endure physical and mental injuries to defeat fearsome bosses and survive the day.",
+      "developer": "Featherweight Games",
+      "removed": false,
+      "addedDate": 1792140306031
     },
     {
       "id": "BQ9Q620NC614",
@@ -7187,7 +7202,7 @@
     {
       "id": "9P9446P7D9TZ",
       "title": "Quarantine Zone: The Last Check",
-      "image": "https://store-images.s-microsoft.com/image/apps.64417.14075645230645496.92f4d4d6-ef85-4ef3-b4c4-345d84f35480.01ae191a-7900-4093-98cd-22b8e1c407e1",
+      "image": "https://store-images.s-microsoft.com/image/apps.46966.14075645230645496.c0a12691-ed46-4232-b7fd-f8ee8018a9d3.dfa3deb8-7116-48db-8b78-4605c3aa2094",
       "platforms": [
         "console",
         "pc"
@@ -7282,14 +7297,14 @@
     {
       "id": "C26K4DVGR45B",
       "title": "Rayman Legends",
-      "image": "https://store-images.s-microsoft.com/image/apps.25053.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.c8e55bec-d1f6-4fe4-b3fa-13ac1e79814f",
+      "image": "https://store-images.s-microsoft.com/image/apps.29344.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.1f5224a7-58e0-4bee-86c3-b0772ac70ebb",
       "platforms": [
         "console",
         "pc"
       ],
       "ea": false,
       "release": 1392854400000,
-      "description": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
+      "description": "In this award-winning platforming adventure, run, jump, and slap through the colorful worlds of the Glade of Dreams, face epic bosses, and team up in 4-player local co-op.",
       "developer": "Ubisoft Montpellier",
       "removed": false,
       "addedDate": 1791457712875,
