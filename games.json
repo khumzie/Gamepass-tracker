@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1792140306046,
-  "updatedDate": "2026-10-16T08:45:06.046Z",
-  "count": 704,
-  "totalCount": 704,
-  "removedCount": 0,
+  "updatedAt": 1792224939652,
+  "updatedDate": "2026-10-17T08:15:39.652Z",
+  "count": 696,
+  "totalCount": 705,
+  "removedCount": 9,
   "games": [
     {
       "id": "9NPDN9R45JX4",
@@ -63,25 +63,6 @@
       "developer": "DoubleBee, Mi'pu'mi Games",
       "removed": false,
       "addedDate": 1791457712874
-    },
-    {
-      "id": "9ND0JVB184XL",
-      "title": "A Plague Tale: Requiem",
-      "image": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1666047600000,
-      "description": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
-      "developer": "Asobo Studio",
-      "removed": false,
-      "addedDate": 1791457712874,
-      "aliasIds": [
-        "9ND0JVB184XL",
-        "9N97RC576957"
-      ]
     },
     {
       "id": "BWVBNCMF22ZK",
@@ -1200,6 +1181,20 @@
       "addedDate": 1791457712874
     },
     {
+      "id": "9N4ZMKC3GX4M",
+      "title": "Beyond These Stars",
+      "image": "https://store-images.s-microsoft.com/image/apps.30358.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.9dc01aed-c3b0-47eb-a3a8-1ef883a22a8b",
+      "platforms": [
+        "pc"
+      ],
+      "ea": false,
+      "release": 1792173600000,
+      "description": "Build a city on the back of a Space Whale and learn to coexist as you journey through the stars. Manage intricate supply chains and the needs of your people as you build outposts, meet aliens, and uncover the mysteries of the universe.",
+      "developer": "Balancing Monkey Games",
+      "removed": false,
+      "addedDate": 1792224939633
+    },
+    {
       "id": "9NTXGKBW2HSM",
       "title": "Black Jacket",
       "image": "https://store-images.s-microsoft.com/image/apps.58955.14405259644338008.f21b8d19-b15c-4c53-8317-578bc22237ab.bc677eca-50dd-4529-99bd-9e2ceaee798a",
@@ -1851,21 +1846,6 @@
       "addedDate": 1791457712876
     },
     {
-      "id": "9PPT8K6GQHRZ",
-      "title": "Clair Obscur: Expedition 33",
-      "image": "https://store-images.s-microsoft.com/image/apps.55260.14322280443288156.27788484-2760-47f7-be0d-dd693682e016.c7b2322a-d6b0-4051-a58b-d0b11aa37b20",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1745478000000,
-      "description": "Lead the members of Expedition 33 on their quest to destroy the Paintress - so she can never paint death again. Explore a world of wonders inspired by Belle Époque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
-      "developer": "Sandfall Interactive",
-      "removed": false,
-      "addedDate": 1791457712874
-    },
-    {
       "id": "9NKHKBQJSSC3",
       "title": "Clone Drone in the Danger Zone",
       "image": "https://store-images.s-microsoft.com/image/apps.50897.13656707570024266.6eb12281-8416-458c-8123-d1d704e3a0c1.87a46f2d-1c87-4b5c-a3e4-bc1381d4c581",
@@ -2136,21 +2116,6 @@
       "release": 1763560800000,
       "description": "Featuring the all-new Management Career, a bigger and better Pro Team, in-depth Ashes mode, and expanded control on and off the field from enhanced gameplay and in-depth strategies - Cricket 26 is The Ultimate Showdown. ",
       "developer": "Big Ant Studios",
-      "removed": false,
-      "addedDate": 1791457712874
-    },
-    {
-      "id": "9NGZ1M3N98P2",
-      "title": "Crime Scene Cleaner",
-      "image": "https://store-images.s-microsoft.com/image/apps.62899.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.e0e97ecd-de05-428b-8a35-d2cc77d7e574",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1744873200000,
-      "description": "Once you get tangled with the mob, you will forever be a part of the mob. At least they pay a decent salary and all you have to do is clean up after their dirty work, but you know what you’re doing. So clean crime scenes, earn as much money as you can, and get ready for the next mission.\n",
-      "developer": "President Studio S.A. ",
       "removed": false,
       "addedDate": 1791457712874
     },
@@ -2782,21 +2747,6 @@
       "addedDate": 1791457712874
     },
     {
-      "id": "9N6V2181GHLM",
-      "title": "Donut County",
-      "image": "https://store-images.s-microsoft.com/image/apps.9487.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.bb7adc22-496e-4006-a148-669d0ac3898f",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1545091200000,
-      "description": "Donut County is a story-based physics puzzle game where you play as an ever-growing hole in the ground. Meet cute characters, steal their trash, and throw them in a hole.\r\n\r\nThe PC version of this game does not support Xbox Live",
-      "developer": "Ben Esposito",
-      "removed": false,
-      "addedDate": 1791457712874
-    },
-    {
       "id": "C3QH42WRGM3R",
       "title": "DOOM",
       "image": "https://store-images.s-microsoft.com/image/apps.18860.66773763610413114.5c7115ed-b566-4d24-80ce-7027cb5b7c3e.e1d91fd3-d9ed-4be4-aedf-437e5d9820fe",
@@ -3294,25 +3244,6 @@
       "developer": "Yellow Brick Games",
       "removed": false,
       "addedDate": 1791457712875
-    },
-    {
-      "id": "9MW581HCJPM6",
-      "title": "Evil West",
-      "image": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1669075200000,
-      "description": "A dark menace consumes the Old West. In solo or coop, fight with style in visceral, explosive combat against bloodthirsty monstrosities. Eradicate the vampiric hordes with your lightning-fueled gauntlet and become a Wild West Superhero.",
-      "developer": "Flying Wild Hog",
-      "removed": false,
-      "addedDate": 1791457712875,
-      "aliasIds": [
-        "9MW581HCJPM6",
-        "9PC49MD70881"
-      ]
     },
     {
       "id": "9PLVVTDHS1P0",
@@ -6538,20 +6469,6 @@
       "addedDate": 1791457712875
     },
     {
-      "id": "9NBNFBQ546DT",
-      "title": "Nova Roma (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.38629.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.70ae0d17-df02-41a3-9cbd-a9c87176c566",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1774548000000,
-      "description": "The glory of Rome is at your fingertips in this city-building game where you must appease the gods, enact laws, and develop complex supply chains to meet the needs of your citizens.",
-      "developer": "Lion Shield",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
       "id": "9PMX3SK2RMG4",
       "title": "OddBallers",
       "image": "https://store-images.s-microsoft.com/image/apps.2153.14285324483181019.341ded0c-fb1a-4150-aca3-e692fe6f9620.4a730957-e331-44a5-a666-448fe037a4c7",
@@ -6696,21 +6613,6 @@
       "developer": "Blizzard Entertainment",
       "removed": false,
       "addedDate": 1791457712877
-    },
-    {
-      "id": "9PNKG0WBL61W",
-      "title": "Pacific Drive",
-      "image": "https://store-images.s-microsoft.com/image/apps.9028.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.479a98da-1b02-4315-86a1-a5df93ed489a",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1761246000000,
-      "description": "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
-      "developer": "Ironwood Studios ",
-      "removed": false,
-      "addedDate": 1791457712875
     },
     {
       "id": "9NKV34XDW014",
@@ -8532,21 +8434,6 @@
       "addedDate": 1791457712876
     },
     {
-      "id": "9N4M72L6KGC8",
-      "title": "Superball",
-      "image": "https://store-images.s-microsoft.com/image/apps.62003.13984747577958597.78ebdbe9-45c0-4d00-bbd6-0a52d99831d1.f956513a-d205-45ad-9925-64a87122cae3",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1761674400000,
-      "description": "Superball is a multiplayer superpower sports game featuring 3v3 team-based combat in cyberpunk-themed stadiums. \nSelect your character, pass, kick and pave the way to victory!",
-      "developer": "Pathea Games",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
       "id": "9NRH78B682L8",
       "title": "SUPERHOT: MIND CONTROL DELETE",
       "image": "https://store-images.s-microsoft.com/image/apps.10113.14383048766618347.734b0c9a-e030-4976-bf99-73f141752531.ed55d2c8-b4e3-4e01-8582-c8221b2c5955",
@@ -8779,21 +8666,6 @@
       "release": 1565701200000,
       "description": "Experience the events that led to The Bard’s Tale IV: Barrows Deep and The Mage’s Tale! The Bard's Tale Trilogy is a remastering of the classic 1980s series, one of the godfathers of the RPG genre. Create an adventuring party in the first volume and play it across all three, creating a heroic story all your own! ",
       "developer": "Krome Studios",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
-      "id": "9PG0PMB5Q0GT",
-      "title": "The Casting of Frank Stone™",
-      "image": "https://store-images.s-microsoft.com/image/apps.57876.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.fef64c0a-42a2-41ec-94db-06a33a017716",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1725379200000,
-      "description": "The shadow of Frank Stone looms over Cedar Hills, a town forever altered by his violent past. As a group of young friends are about to discover, Stone’s blood-soaked legacy cuts deep, leaving scars across families, generations, and the very fabric of reality itself.  ",
-      "developer": "Supermassive Games",
       "removed": false,
       "addedDate": 1791457712876
     },
@@ -10765,6 +10637,157 @@
       "developer": "PopCap Games",
       "removed": false,
       "addedDate": 1791457712876
+    },
+    {
+      "id": "9ND0JVB184XL",
+      "title": "A Plague Tale: Requiem",
+      "image": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1666047600000,
+      "description": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
+      "developer": "Asobo Studio",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "aliasIds": [
+        "9ND0JVB184XL",
+        "9N97RC576957"
+      ],
+      "removedDate": "2026-10-17T08:15:39.633Z"
+    },
+    {
+      "id": "9PPT8K6GQHRZ",
+      "title": "Clair Obscur: Expedition 33",
+      "image": "https://store-images.s-microsoft.com/image/apps.55260.14322280443288156.27788484-2760-47f7-be0d-dd693682e016.c7b2322a-d6b0-4051-a58b-d0b11aa37b20",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1745478000000,
+      "description": "Lead the members of Expedition 33 on their quest to destroy the Paintress - so she can never paint death again. Explore a world of wonders inspired by Belle Époque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
+      "developer": "Sandfall Interactive",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9NGZ1M3N98P2",
+      "title": "Crime Scene Cleaner",
+      "image": "https://store-images.s-microsoft.com/image/apps.62899.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.e0e97ecd-de05-428b-8a35-d2cc77d7e574",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1744873200000,
+      "description": "Once you get tangled with the mob, you will forever be a part of the mob. At least they pay a decent salary and all you have to do is clean up after their dirty work, but you know what you’re doing. So clean crime scenes, earn as much money as you can, and get ready for the next mission.\n",
+      "developer": "President Studio S.A. ",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9N6V2181GHLM",
+      "title": "Donut County",
+      "image": "https://store-images.s-microsoft.com/image/apps.9487.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.bb7adc22-496e-4006-a148-669d0ac3898f",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1545091200000,
+      "description": "Donut County is a story-based physics puzzle game where you play as an ever-growing hole in the ground. Meet cute characters, steal their trash, and throw them in a hole.\r\n\r\nThe PC version of this game does not support Xbox Live",
+      "developer": "Ben Esposito",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9MW581HCJPM6",
+      "title": "Evil West",
+      "image": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1669075200000,
+      "description": "A dark menace consumes the Old West. In solo or coop, fight with style in visceral, explosive combat against bloodthirsty monstrosities. Eradicate the vampiric hordes with your lightning-fueled gauntlet and become a Wild West Superhero.",
+      "developer": "Flying Wild Hog",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "aliasIds": [
+        "9MW581HCJPM6",
+        "9PC49MD70881"
+      ],
+      "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9NBNFBQ546DT",
+      "title": "Nova Roma (Game Preview)",
+      "image": "https://store-images.s-microsoft.com/image/apps.38629.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.70ae0d17-df02-41a3-9cbd-a9c87176c566",
+      "platforms": [
+        "pc"
+      ],
+      "ea": false,
+      "release": 1774548000000,
+      "description": "The glory of Rome is at your fingertips in this city-building game where you must appease the gods, enact laws, and develop complex supply chains to meet the needs of your citizens.",
+      "developer": "Lion Shield",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9PNKG0WBL61W",
+      "title": "Pacific Drive",
+      "image": "https://store-images.s-microsoft.com/image/apps.9028.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.479a98da-1b02-4315-86a1-a5df93ed489a",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1761246000000,
+      "description": "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
+      "developer": "Ironwood Studios ",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9N4M72L6KGC8",
+      "title": "Superball",
+      "image": "https://store-images.s-microsoft.com/image/apps.62003.13984747577958597.78ebdbe9-45c0-4d00-bbd6-0a52d99831d1.f956513a-d205-45ad-9925-64a87122cae3",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1761674400000,
+      "description": "Superball is a multiplayer superpower sports game featuring 3v3 team-based combat in cyberpunk-themed stadiums. \nSelect your character, pass, kick and pave the way to victory!",
+      "developer": "Pathea Games",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9PG0PMB5Q0GT",
+      "title": "The Casting of Frank Stone™",
+      "image": "https://store-images.s-microsoft.com/image/apps.57876.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.fef64c0a-42a2-41ec-94db-06a33a017716",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1725379200000,
+      "description": "The shadow of Frank Stone looms over Cedar Hills, a town forever altered by his violent past. As a group of young friends are about to discover, Stone’s blood-soaked legacy cuts deep, leaving scars across families, generations, and the very fabric of reality itself.  ",
+      "developer": "Supermassive Games",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "removedDate": "2026-10-17T08:15:39.634Z"
     }
   ]
 }
