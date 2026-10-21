@@ -1,6 +1,6 @@
 {
-  "updatedAt": 1792487215747,
-  "updatedDate": "2026-10-20T09:06:55.747Z",
+  "updatedAt": 1792573623630,
+  "updatedDate": "2026-10-21T09:07:03.630Z",
   "count": 696,
   "totalCount": 705,
   "removedCount": 9,
@@ -633,19 +633,14 @@
       "title": "Assassin's Creed® Chronicles: India",
       "image": "https://store-images.s-microsoft.com/image/apps.21584.70425082533983523.ff1d078d-4642-493c-9cc6-2c51390ba69c.c7b7c9d3-1c96-4687-885e-65a550df067d",
       "platforms": [
-        "console",
-        "pc"
+        "console"
       ],
       "ea": false,
       "release": 1452556800000,
       "description": "Embody Arbaaz in his quest for retribution through a colourful depiction of Colonial India in 2.5D stealth gameplay. \n\n• Travel across an amazing 19th Century India and its legendary landmarks. \n• Experience the thrill of a stealthy assassin with a unique set of skills and weapons such as the double kill moves and the chakram.\n• Discover a brand new mode with stealth, speed and assassination rooms",
       "developer": "Climax Studios",
       "removed": false,
-      "addedDate": 1791457712874,
-      "aliasIds": [
-        "BTMS1PXLQ6P6",
-        "9N0QFT016SGV"
-      ]
+      "addedDate": 1791457712874
     },
     {
       "id": "BXQQQQ8HRBSF",
@@ -8890,7 +8885,7 @@
     {
       "id": "9PGD71CMDS0Z",
       "title": "THE FINALS",
-      "image": "https://store-images.s-microsoft.com/image/apps.61064.14187080498030026.0dd8c398-3cd8-46a2-a68f-9c4f3d2d879b.4b09caf9-a9b4-4196-bb25-85ec20849310",
+      "image": "https://store-images.s-microsoft.com/image/apps.64644.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.713c07d0-8c65-4b9a-b897-7fa57beb0215",
       "platforms": [
         "console",
         "pc"
@@ -9559,19 +9554,14 @@
       "title": "Trials of the Blood Dragon",
       "image": "https://store-images.s-microsoft.com/image/apps.24854.68666534148093958.e11f94a3-2e7b-4ee5-857d-0a4b518451ed.118a0a5f-98b1-426f-b7f0-ef73444ba280",
       "platforms": [
-        "console",
-        "pc"
+        "console"
       ],
       "ea": false,
       "release": 1465776000000,
       "description": "Discover an epic single player experience, combining the top notch gameplay of Trials with the unique style and attitude of Blood Dragon. Take control of Rex Power Colt’s cybercommando kids as they drive, shoot, swing, tame and travel through different environments. Expect also hot competition with Ghost mode, Global Score and Leaderboards.",
       "developer": "RedLynx",
       "removed": false,
-      "addedDate": 1791457712876,
-      "aliasIds": [
-        "BPPR6D5C2GLF",
-        "9PG0ZSTFBL1T"
-      ]
+      "addedDate": 1791457712876
     },
     {
       "id": "BP6V6QZBMFP0",
@@ -10432,7 +10422,7 @@
     {
       "id": "9N11JM7F5CXK",
       "title": "World of Tanks: HEAT",
-      "image": "https://store-images.s-microsoft.com/image/apps.28387.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.7bd00d59-6fb9-4b0a-b3d2-eed534f2e0c1",
+      "image": "https://store-images.s-microsoft.com/image/apps.46446.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.86215b6f-798f-45e3-bcde-737ebc123907",
       "platforms": [
         "console",
         "pc"
@@ -10559,7 +10549,7 @@
     {
       "id": "9N4X0WFZ2STM",
       "title": "Zenless Zone Zero",
-      "image": "https://store-images.s-microsoft.com/image/apps.22806.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.681170dd-5c61-42ed-b68e-f25aa46d0e5c",
+      "image": "https://store-images.s-microsoft.com/image/apps.62467.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.14b194b5-8632-4c40-bcf7-7082df3db95d",
       "platforms": [
         "console",
         "pc"
