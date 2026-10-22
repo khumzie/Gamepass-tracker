@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1792573623630,
-  "updatedDate": "2026-10-21T09:07:03.630Z",
-  "count": 696,
-  "totalCount": 705,
+  "updatedAt": 1792660184359,
+  "updatedDate": "2026-10-22T09:09:44.359Z",
+  "count": 697,
+  "totalCount": 706,
   "removedCount": 9,
   "games": [
     {
@@ -2730,6 +2730,21 @@
       "developer": "Asobo",
       "removed": false,
       "addedDate": 1791457712874
+    },
+    {
+      "id": "9P7S9F02293J",
+      "title": "Dodo Duckie",
+      "image": "https://store-images.s-microsoft.com/image/apps.64017.14101741972261561.9ff0cf37-f909-4b61-ac8e-848b39743146.ae8cf80b-04c0-4ecf-89e3-f55fdd7d71e4",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1784826000000,
+      "description": "You’re a DUCK! with one special cap that gives you the power to switch between 2D and 3D. Use it to explore, switch perspectives, solve puzzles and save your chicken friends.",
+      "developer": "BornMonkie",
+      "removed": false,
+      "addedDate": 1792660184342
     },
     {
       "id": "9P8XKV2D5DZ5",
@@ -8813,7 +8828,7 @@
     {
       "id": "BRKX5CRMRTC2",
       "title": "The Elder Scrolls Online: Standard Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.23436.69742768075920623.827baea2-0e15-46be-a422-347ee95ca314.67ea9750-0855-448f-834e-28f835084b32",
+      "image": "https://store-images.s-microsoft.com/image/apps.35238.69742768075920623.908ff79c-313a-4bed-acc5-deeed45673cd.c5660162-b0d2-4ee4-be4e-968529430fe4",
       "platforms": [
         "console",
         "pc"
