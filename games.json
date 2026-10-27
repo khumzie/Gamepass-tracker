@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1793007740417,
-  "updatedDate": "2026-10-26T09:42:20.417Z",
-  "count": 697,
-  "totalCount": 706,
+  "updatedAt": 1793093771636,
+  "updatedDate": "2026-10-27T09:36:11.636Z",
+  "count": 698,
+  "totalCount": 707,
   "removedCount": 9,
   "games": [
     {
@@ -7665,6 +7665,21 @@
       "developer": "Lantto Games",
       "removed": false,
       "addedDate": 1791457712877
+    },
+    {
+      "id": "9NK039GWVTVC",
+      "title": "Scramble Knights Online (Game Preview)",
+      "image": "https://store-images.s-microsoft.com/image/apps.4371.13666925911831228.39a643d8-0904-4270-b0a3-7b063f9c1c1d.2a4489c3-fa20-45ec-a31a-bdd0ae8e1d4f",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1765360800000,
+      "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game.\n\nAdventure with friends in this MMO-lite action RPG! Explore the shared online kingdom of Terracott as a knight-in-training. Team up to conquer dungeons, slay monsters, discover rare loot, and return home to forge powerful new gear before setting out on your next quest.",
+      "developer": "Funktronic Labs",
+      "removed": false,
+      "addedDate": 1793093771623
     },
     {
       "id": "BQ4M1XWXFKHB",
