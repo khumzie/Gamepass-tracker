@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1793093771636,
-  "updatedDate": "2026-10-27T09:36:11.636Z",
-  "count": 698,
-  "totalCount": 707,
+  "updatedAt": 1793182876001,
+  "updatedDate": "2026-10-28T10:21:16.001Z",
+  "count": 699,
+  "totalCount": 708,
   "removedCount": 9,
   "games": [
     {
@@ -2238,7 +2238,7 @@
     {
       "id": "C0N22P73QZ60",
       "title": "Dead by Daylight",
-      "image": "https://store-images.s-microsoft.com/image/apps.46191.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.96ba18fa-312c-4fc2-ba88-eb59eab37888",
+      "image": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37",
       "platforms": [
         "console"
       ],
@@ -2252,7 +2252,7 @@
     {
       "id": "9NMS4SFNBGBH",
       "title": "Dead by Daylight Windows",
-      "image": "https://store-images.s-microsoft.com/image/apps.35959.13756572830160292.e0bc9919-a49f-4230-b3b0-ec9eb93969b8.9f5402c2-ab24-433f-b30b-ef9d6c2d66f7",
+      "image": "https://store-images.s-microsoft.com/image/apps.16719.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.917800ae-51f5-48b3-aa38-cb498fde9b40",
       "platforms": [
         "pc"
       ],
@@ -6505,7 +6505,7 @@
     {
       "id": "9N0QWXC09MPT",
       "title": "Once Human",
-      "image": "https://store-images.s-microsoft.com/image/apps.26737.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.dc8a8b1c-9323-4ba2-8bcc-953be8a9c701",
+      "image": "https://store-images.s-microsoft.com/image/apps.6246.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.41b67786-ad5b-43c9-acbb-7ea6151faf32",
       "platforms": [
         "console",
         "pc"
@@ -9074,6 +9074,21 @@
       "addedDate": 1791457712876
     },
     {
+      "id": "9PNRLJNDPP4G",
+      "title": "The Séance of Blake Manor",
+      "image": "https://store-images.s-microsoft.com/image/apps.16621.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.56c0b677-c7a4-41bb-ba89-862d2a38f74d",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1793113200000,
+      "description": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
+      "developer": "Spooky Doorway",
+      "removed": false,
+      "addedDate": 1793182875986
+    },
+    {
       "id": "9N10HHMXFFC5",
       "title": "The Settlers: New Allies",
       "image": "https://store-images.s-microsoft.com/image/apps.42926.13911218403200220.38c225dc-b069-4b42-bcf8-d9b6ddb0e7e1.2dfcbe0a-447a-4a8d-b0e4-eb5577c29b33",
@@ -9769,7 +9784,7 @@
     {
       "id": "9N1NLJK9SKRN",
       "title": "VALORANT",
-      "image": "https://store-images.s-microsoft.com/image/apps.24285.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.f83375e3-5886-4708-888a-8d37fbb998f5",
+      "image": "https://store-images.s-microsoft.com/image/apps.43432.13898029070941789.b9070612-bb75-4081-8f05-4acaf8e47425.19aed1bf-e497-497c-8140-1e0c100cba49",
       "platforms": [
         "console"
       ],
@@ -9783,7 +9798,7 @@
     {
       "id": "9NKCCHCFTHV2",
       "title": "VALORANT PC",
-      "image": "https://store-images.s-microsoft.com/image/apps.24285.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.bc2c8a77-f251-47c2-908a-6b9d61b7f479",
+      "image": "https://store-images.s-microsoft.com/image/apps.43432.13663857844271189.005b5800-25c5-439e-8a6e-fdb02b928900.96ac9b34-3c66-40bf-a23c-7251edc524dc",
       "platforms": [
         "pc"
       ],
