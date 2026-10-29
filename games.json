@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1793182876001,
-  "updatedDate": "2026-10-28T10:21:16.001Z",
-  "count": 699,
-  "totalCount": 708,
+  "updatedAt": 1793270550330,
+  "updatedDate": "2026-10-29T10:42:30.330Z",
+  "count": 700,
+  "totalCount": 709,
   "removedCount": 9,
   "games": [
     {
@@ -295,7 +295,7 @@
     {
       "id": "9PK8PHLCQDF6",
       "title": "Aniimo",
-      "image": "https://store-images.s-microsoft.com/image/apps.33654.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.8fd7e7b5-86e6-4a76-873b-32af6bd3cd47",
+      "image": "https://store-images.s-microsoft.com/image/apps.24411.14271146495264987.389490b9-697a-4878-87fc-ab69dd3499a6.7f065786-fc9f-4285-a789-0813a431232e",
       "platforms": [
         "console",
         "pc"
@@ -3774,6 +3774,21 @@
       "developer": "",
       "removed": false,
       "addedDate": 1791457712875
+    },
+    {
+      "id": "9NRQVQ7ZRM7Z",
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "image": "https://store-images.s-microsoft.com/image/apps.50920.14378305291947412.8d8cbc22-0457-455b-807c-34822c76e54f.91e88811-dea2-4b9e-b0f8-ccebbb29f2aa",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1769040000000,
+      "description": "In the bustling city of Midgar, lead Cloud and his allies in their fight against the Shinra Electric Power Company in a legendary tale filled with unforgettable characters and intense battles that fuse fast-paced action with strategic commands.",
+      "developer": "SQUARE ENIX CO., LTD.",
+      "removed": false,
+      "addedDate": 1793270550315
     },
     {
       "id": "9NBZ7Z3JRXQ8",
