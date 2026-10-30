@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1793270550330,
-  "updatedDate": "2026-10-29T10:42:30.330Z",
-  "count": 700,
-  "totalCount": 709,
+  "updatedAt": 1793356967189,
+  "updatedDate": "2026-10-30T10:42:47.189Z",
+  "count": 703,
+  "totalCount": 712,
   "removedCount": 9,
   "games": [
     {
@@ -6159,6 +6159,21 @@
       "addedDate": 1791457712875
     },
     {
+      "id": "9MVNCSJ14754",
+      "title": "Mouthwashing",
+      "image": "https://store-images.s-microsoft.com/image/apps.53631.13855544626090177.00f10a03-a204-4b92-893c-87ea3db07631.14702d75-4bb9-45eb-ab3e-1aa7bec2490b",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1793282400000,
+      "description": "The five crew members of the Tulpar are stranded in the empty reaches of space, shrouded in perpetual sunset. God is not watching.",
+      "developer": "Wrong Organ",
+      "removed": false,
+      "addedDate": 1793356967176
+    },
+    {
       "id": "9P88K6NQW12H",
       "title": "Moving Out 2",
       "image": "https://store-images.s-microsoft.com/image/apps.52583.14092419520193072.64e53d99-3172-4ca7-856b-dd313b69b944.e83589b5-de0e-470f-80a6-21ea4709fe39",
@@ -6936,6 +6951,20 @@
       "developer": "PopCap",
       "removed": false,
       "addedDate": 1791457712875
+    },
+    {
+      "id": "9PGSDFM3JD85",
+      "title": "Plants vs. Zombies™: Replanted",
+      "image": "https://store-images.s-microsoft.com/image/apps.44024.14249493036313298.22c0dae5-4fa6-41f8-a5bd-bfdfcb3e98a0.e9d9cbb7-341e-49bc-9f14-09919dbaae4e",
+      "platforms": [
+        "console"
+      ],
+      "ea": true,
+      "release": 1761235200000,
+      "description": "The classic Plants vs. Zombies returns in glorious HD! The original battle between Plants and Zombies is back - bigger, brighter, and crazier than ever before! Experience the game that started it all, now remastered with stunning HD graphics and packed with new secrets and content to uncover.",
+      "developer": "PopCap Games",
+      "removed": false,
+      "addedDate": 1793356967176
     },
     {
       "id": "9P2HHT3VS7MP",
@@ -8653,6 +8682,21 @@
       "developer": "Payload Studios",
       "removed": false,
       "addedDate": 1791457712876
+    },
+    {
+      "id": "9PKFL1XJT73S",
+      "title": "Terrible Lizards",
+      "image": "https://store-images.s-microsoft.com/image/apps.39250.14263508046410977.85ca9e89-ec54-4c85-9c49-0ce9abe3f1fd.9aafbae6-8834-48f7-b413-2e0e49f377b9",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1793293200000,
+      "description": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction… with something dark and sinister lurking below. To escape, you’ll need to move fast, navigate challenging terrain, and uncover what Dalton’s Dinos is really hiding. You’d better start running.",
+      "developer": "WDR Studios",
+      "removed": false,
+      "addedDate": 1793356967177
     },
     {
       "id": "9N0P25WJHM8C",
