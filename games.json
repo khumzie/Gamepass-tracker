@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1793441472196,
-  "updatedDate": "2026-10-31T10:11:12.196Z",
-  "count": 703,
+  "updatedAt": 1793530872283,
+  "updatedDate": "2026-11-01T11:01:12.283Z",
+  "count": 695,
   "totalCount": 712,
-  "removedCount": 9,
+  "removedCount": 17,
   "games": [
     {
       "id": "9NPDN9R45JX4",
@@ -2206,21 +2206,6 @@
       "addedDate": 1791457712874
     },
     {
-      "id": "9NKK6CX54183",
-      "title": "Day of the Tentacle Remastered",
-      "image": "https://store-images.s-microsoft.com/image/apps.45089.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.9f593142-562b-48e6-9ab5-20ea48887200",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1603990800000,
-      "description": "A mind-bending, time travel, cartoon puzzle adventure game in which three unlikely friends work together to prevent an evil mutated purple tentacle from taking over the world!",
-      "developer": "Double Fine Productions & Shiny Shoe",
-      "removed": false,
-      "addedDate": 1791457712874
-    },
-    {
       "id": "BSR9NLHVF1KL",
       "title": "DayZ",
       "image": "https://store-images.s-microsoft.com/image/apps.23097.69886306496288395.9ec42146-6037-4440-b5c7-3a44e5213cc3.0e09163e-a6c4-40f6-9fe1-24a6b4685c64",
@@ -2353,21 +2338,6 @@
       "addedDate": 1791457712874
     },
     {
-      "id": "9MXWL7VJ2SJW",
-      "title": "Dead Static Drive",
-      "image": "https://store-images.s-microsoft.com/image/apps.5403.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.dda501bf-b544-4d26-a7dd-abbe3ad6d733",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1762300800000,
-      "description": "Grand Theft Cthulhu.",
-      "developer": "Reuben Games",
-      "removed": false,
-      "addedDate": 1791457712874
-    },
-    {
       "id": "9PD9SZGNCMDZ",
       "title": "Death Howl",
       "image": "https://store-images.s-microsoft.com/image/apps.29706.14153289927843166.5079f8ec-a171-48c2-871c-d91520b81fb5.fed6f715-9dfd-45c4-8eb4-5bf699911281",
@@ -2426,21 +2396,6 @@
       "developer": "Behold Studios",
       "removed": false,
       "addedDate": 1791969429324
-    },
-    {
-      "id": "9NHFVWX1V7QJ",
-      "title": "Deep Rock Galactic",
-      "image": "https://store-images.s-microsoft.com/image/apps.64496.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.a4caf3fb-c53b-4424-91a6-f6db3488a3c1",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1589356800000,
-      "description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring badass space Dwarves, 100% destructible environments, procedurally-generated caves, and endless hordes of alien monsters.",
-      "developer": "Ghost Ship Games",
-      "removed": false,
-      "addedDate": 1791457712874
     },
     {
       "id": "9N18L56XHK8Z",
@@ -3938,7 +3893,7 @@
     {
       "id": "BT5P2X999VH2",
       "title": "Fortnite",
-      "image": "https://store-images.s-microsoft.com/image/apps.17283.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.bd4108fb-c5af-4a9a-90c5-9a25a46d76a1",
+      "image": "https://store-images.s-microsoft.com/image/apps.52548.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.a0e057ff-c216-4206-a6b9-65bfc7d54fb0",
       "platforms": [
         "console",
         "pc"
@@ -4022,21 +3977,6 @@
       "release": 1781193600000,
       "description": "Up to 8 player co-op extraction puzzle-platformer where you swing, jump, catapult your friends, and eat eat EAT until you grow into a humongous Megafrog. Squad up with your frog friends and storm the Sewers for the glory of the Swamp King!",
       "developer": "Panic Stations",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
-      "id": "9P3ZRGNQVC7D",
-      "title": "Full Throttle Remastered",
-      "image": "https://store-images.s-microsoft.com/image/apps.39265.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.0e1db341-dc19-4da2-8a23-cc7a3476ee6b",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1603990800000,
-      "description": "A classic graphic adventure game from industry legend Tim Schafer, telling the story of Ben Throttle, the butt-kicking leader of biker gang the Polecats who gets caught up in a tale of Motorcycles, Mayhem, and Murder.",
-      "developer": "Double Fine Productions & Shiny Shoe",
       "removed": false,
       "addedDate": 1791457712875
     },
@@ -5286,21 +5226,6 @@
       "addedDate": 1791457712875
     },
     {
-      "id": "C3553MB4P5TT",
-      "title": "Lara Croft and the Temple of Osiris",
-      "image": "https://store-images.s-microsoft.com/image/apps.28930.66406861093311956.5a3a6cc5-ae0d-478d-aa71-eeec71b3768a.9075a65b-ad79-49b1-8aaf-6fb3bb771bb3",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1418083200000,
-      "description": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
-      "developer": "Crystal Dynamics",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
       "id": "9PB301R051CQ",
       "title": "League of Legends",
       "image": "https://store-images.s-microsoft.com/image/apps.18996.14127010465288187.f9de4a96-0ee4-4da3-bf66-d4132b38c599.caf661a7-e0b3-492d-b91b-63627e47283e",
@@ -5342,21 +5267,6 @@
       "developer": "Riot Games",
       "removed": false,
       "addedDate": 1791457712876
-    },
-    {
-      "id": "BRMKDCZT0C4L",
-      "title": "LEGO® Star Wars™: The Skywalker Saga",
-      "image": "https://store-images.s-microsoft.com/image/apps.15663.69776162813131649.c3b28bba-c81b-49e6-8333-6c1ce8e9222a.73b33586-cd57-4e89-bf80-b88ccd21d330",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 253370592000000,
-      "description": "Play through all nine Skywalker saga films in a game unlike any other.   With over 300 playable characters, over 100 vehicles, and 23 planets to explore, a galaxy far, far away has never been more fun! \r\n\r\n*Purchasers of the digital edition receive an exclusive classic Obi-Wan Kenobi playable character.",
-      "developer": "TT Games",
-      "removed": false,
-      "addedDate": 1791457712875
     },
     {
       "id": "9P00SVGWDJCP",
@@ -10117,21 +10027,6 @@
       "addedDate": 1791457712876
     },
     {
-      "id": "9NWQ686JB33G",
-      "title": "Wartales",
-      "image": "https://store-images.s-microsoft.com/image/apps.55567.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.85dd1ece-9871-428e-bdef-f545c2c8425e",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1698757200000,
-      "description": "Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!",
-      "developer": "Shiro Games",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
       "id": "C521HDXRTS7F",
       "title": "Wasteland 2: Director's Cut",
       "image": "https://store-images.s-microsoft.com/image/apps.58841.67543493413768448.5fe0b603-cfee-4844-b8b0-07e502111713.9ddee53f-70bf-4171-ba87-75cdf1605c5d",
@@ -10326,21 +10221,6 @@
       "release": 1676592000000,
       "description": "Master ancient tech to hunt down giant beasts. WILD HEARTS™ is a twist on the hunting genre where ancient tech gives you a fighting chance against giant nature-infused beasts. Set in a fantasy feudal Japan, hunt alone or with friends in seamless co-op.",
       "developer": "KOEI TECMO GAMES CO. LTD.",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
-      "id": "9N6VS1BMZ3BW",
-      "title": "Wildgate",
-      "image": "https://store-images.s-microsoft.com/image/apps.38613.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.4d84c881-27c2-4b19-a64d-e13604baf39e",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1753196400000,
-      "description": "Wildgate is a PvPvE multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact... or the last crew left flying.",
-      "developer": "Moonshot Games",
       "removed": false,
       "addedDate": 1791457712876
     },
@@ -10795,6 +10675,54 @@
       "removedDate": "2026-10-17T08:15:39.634Z"
     },
     {
+      "id": "9NKK6CX54183",
+      "title": "Day of the Tentacle Remastered",
+      "image": "https://store-images.s-microsoft.com/image/apps.45089.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.9f593142-562b-48e6-9ab5-20ea48887200",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1603990800000,
+      "description": "A mind-bending, time travel, cartoon puzzle adventure game in which three unlikely friends work together to prevent an evil mutated purple tentacle from taking over the world!",
+      "developer": "Double Fine Productions & Shiny Shoe",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-11-01T11:01:12.273Z"
+    },
+    {
+      "id": "9MXWL7VJ2SJW",
+      "title": "Dead Static Drive",
+      "image": "https://store-images.s-microsoft.com/image/apps.5403.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.dda501bf-b544-4d26-a7dd-abbe3ad6d733",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1762300800000,
+      "description": "Grand Theft Cthulhu.",
+      "developer": "Reuben Games",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-11-01T11:01:12.273Z"
+    },
+    {
+      "id": "9NHFVWX1V7QJ",
+      "title": "Deep Rock Galactic",
+      "image": "https://store-images.s-microsoft.com/image/apps.64496.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.a4caf3fb-c53b-4424-91a6-f6db3488a3c1",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1589356800000,
+      "description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring badass space Dwarves, 100% destructible environments, procedurally-generated caves, and endless hordes of alien monsters.",
+      "developer": "Ghost Ship Games",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-11-01T11:01:12.273Z"
+    },
+    {
       "id": "9N6V2181GHLM",
       "title": "Donut County",
       "image": "https://store-images.s-microsoft.com/image/apps.9487.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.bb7adc22-496e-4006-a148-669d0ac3898f",
@@ -10829,6 +10757,54 @@
         "9PC49MD70881"
       ],
       "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9P3ZRGNQVC7D",
+      "title": "Full Throttle Remastered",
+      "image": "https://store-images.s-microsoft.com/image/apps.39265.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.0e1db341-dc19-4da2-8a23-cc7a3476ee6b",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1603990800000,
+      "description": "A classic graphic adventure game from industry legend Tim Schafer, telling the story of Ben Throttle, the butt-kicking leader of biker gang the Polecats who gets caught up in a tale of Motorcycles, Mayhem, and Murder.",
+      "developer": "Double Fine Productions & Shiny Shoe",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-01T11:01:12.273Z"
+    },
+    {
+      "id": "C3553MB4P5TT",
+      "title": "Lara Croft and the Temple of Osiris",
+      "image": "https://store-images.s-microsoft.com/image/apps.28930.66406861093311956.5a3a6cc5-ae0d-478d-aa71-eeec71b3768a.9075a65b-ad79-49b1-8aaf-6fb3bb771bb3",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1418083200000,
+      "description": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
+      "developer": "Crystal Dynamics",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-01T11:01:12.273Z"
+    },
+    {
+      "id": "BRMKDCZT0C4L",
+      "title": "LEGO® Star Wars™: The Skywalker Saga",
+      "image": "https://store-images.s-microsoft.com/image/apps.15663.69776162813131649.c3b28bba-c81b-49e6-8333-6c1ce8e9222a.73b33586-cd57-4e89-bf80-b88ccd21d330",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 253370592000000,
+      "description": "Play through all nine Skywalker saga films in a game unlike any other.   With over 300 playable characters, over 100 vehicles, and 23 planets to explore, a galaxy far, far away has never been more fun! \r\n\r\n*Purchasers of the digital edition receive an exclusive classic Obi-Wan Kenobi playable character.",
+      "developer": "TT Games",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-01T11:01:12.273Z"
     },
     {
       "id": "9NBNFBQ546DT",
@@ -10892,6 +10868,38 @@
       "removed": true,
       "addedDate": 1791457712876,
       "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9NWQ686JB33G",
+      "title": "Wartales",
+      "image": "https://store-images.s-microsoft.com/image/apps.55567.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.85dd1ece-9871-428e-bdef-f545c2c8425e",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1698757200000,
+      "description": "Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!",
+      "developer": "Shiro Games",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "removedDate": "2026-11-01T11:01:12.273Z"
+    },
+    {
+      "id": "9N6VS1BMZ3BW",
+      "title": "Wildgate",
+      "image": "https://store-images.s-microsoft.com/image/apps.38613.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.4d84c881-27c2-4b19-a64d-e13604baf39e",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1753196400000,
+      "description": "Wildgate is a PvPvE multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact... or the last crew left flying.",
+      "developer": "Moonshot Games",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "removedDate": "2026-11-01T11:01:12.273Z"
     }
   ]
 }
