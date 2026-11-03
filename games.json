@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1793620795965,
-  "updatedDate": "2026-11-02T11:59:55.965Z",
-  "count": 695,
-  "totalCount": 712,
+  "updatedAt": 1793705836102,
+  "updatedDate": "2026-11-03T11:37:16.102Z",
+  "count": 696,
+  "totalCount": 713,
   "removedCount": 17,
   "games": [
     {
@@ -4292,6 +4292,21 @@
       "addedDate": 1791457712875
     },
     {
+      "id": "9PBG4MTM3JJC",
+      "title": "GRAVHOUNDS (Game Preview)",
+      "image": "https://store-images.s-microsoft.com/image/apps.40166.14119486704236036.abde8f1d-835f-498a-a443-5a7c4d6c7932.b6227c5c-14b9-457f-b75f-e717dcd817f6",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 253370592000000,
+      "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game. \nGRAVHOUNDS is a 1–4 player co-op action builder. Drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow. ",
+      "developer": "Octopus Panic, Inc",
+      "removed": false,
+      "addedDate": 1793705836092
+    },
+    {
       "id": "9N36BLQF3FX6",
       "title": "Great God Grove",
       "image": "https://store-images.s-microsoft.com/image/apps.49217.13938047926882205.478db89a-539b-4b20-956d-db969f740012.51327afc-1102-47d8-8243-0a7e592ceb44",
@@ -7872,7 +7887,7 @@
     {
       "id": "9NV8W1KJSQLL",
       "title": "SMITE 2 (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.25253.14402893629943553.54fbd0de-7e4f-448e-93c6-1ad78c0a967a.3bd1beb4-cbc8-4159-9f66-48c6fb2f4159",
+      "image": "https://store-images.s-microsoft.com/image/apps.62277.14402893629943553.6e6c7d04-2186-4859-a2b8-45f1f1799a2e.8d2666eb-bd71-4d2b-be65-e0c1ace35c98",
       "platforms": [
         "console",
         "pc"
@@ -10421,7 +10436,7 @@
     {
       "id": "9NK9K07FDPJV",
       "title": "World of Warships",
-      "image": "https://store-images.s-microsoft.com/image/apps.5355.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.b8c1aaa2-488e-481e-a1da-be13117b9acf",
+      "image": "https://store-images.s-microsoft.com/image/apps.24728.13660342589962425.83c35c19-74e3-4695-9f5e-d36d0fcd1705.d32f03d7-3c2e-4a7c-9399-971eb467f09f",
       "platforms": [
         "pc"
       ],
