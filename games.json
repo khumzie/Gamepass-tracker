@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1793705836102,
-  "updatedDate": "2026-11-03T11:37:16.102Z",
-  "count": 696,
-  "totalCount": 713,
+  "updatedAt": 1793793087268,
+  "updatedDate": "2026-11-04T11:51:27.268Z",
+  "count": 698,
+  "totalCount": 715,
   "removedCount": 17,
   "games": [
     {
@@ -3442,20 +3442,6 @@
       "addedDate": 1791457712875
     },
     {
-      "id": "BV2ZVP7PJZWL",
-      "title": "Far Cry 3 Classic Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3",
-      "platforms": [
-        "console"
-      ],
-      "ea": false,
-      "release": 1529971200000,
-      "description": "(Re-)experience Far Cry 3 Classic Edition, now available in 60 FPS on Xbox Series X|S. Create your own adventure in a single-player, open world island of danger and discovery as you journey through the dark side of humanity.",
-      "developer": "",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
       "id": "9P1HX8TFF3VW",
       "title": "FAR CRY PRIMAL",
       "image": "https://store-images.s-microsoft.com/image/apps.64306.14079505688681780.9ec50825-311f-45ea-ad4f-9e9011ea0aaa.473ceee0-ea6e-4be1-bbd8-a21e0adbaaf7",
@@ -3549,6 +3535,20 @@
         "C1DDW4PRF6K5",
         "9NWX420Z2NLG"
       ]
+    },
+    {
+      "id": "BV2ZVP7PJZWL",
+      "title": "FARCRY 3 Classic Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3",
+      "platforms": [
+        "console"
+      ],
+      "ea": false,
+      "release": 1529971200000,
+      "description": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed, visceral first-person shooter. Now in 60 FPS on Xbox Series X|S!",
+      "developer": "",
+      "removed": false,
+      "addedDate": 1791457712875
     },
     {
       "id": "9NMCDQ6RCJKH",
@@ -3817,6 +3817,20 @@
       "developer": "Sports Interactive",
       "removed": false,
       "addedDate": 1791457712875
+    },
+    {
+      "id": "9N4NKMXDZCX6",
+      "title": "Football Manager 27",
+      "image": "https://store-images.s-microsoft.com/image/apps.47586.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.40797f8e-48ea-47e2-aab8-9ea6e13f5a79",
+      "platforms": [
+        "pc"
+      ],
+      "ea": false,
+      "release": 1794268800000,
+      "description": "Choose the club. Shape the squad. Set the tactics. Chase the future only you can see. \r\nFM27 is where your footballing beliefs become a reality. Make The Call.",
+      "developer": "Sports Interactive",
+      "removed": false,
+      "addedDate": 1793793087253
     },
     {
       "id": "9N3DWR830CVN",
@@ -6790,6 +6804,21 @@
         "BS34VNW7H61F",
         "9N1P6T7ZQ2KF"
       ]
+    },
+    {
+      "id": "9MW4MFG0192L",
+      "title": "PIT OF GOBLIN",
+      "image": "https://store-images.s-microsoft.com/image/apps.9831.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.6ec243d5-63f7-4a8a-bf58-7a0bd6fcd318",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1793714400000,
+      "description": "Ever dreamt of being the lowest of the low, living a life so nasty and gnarly that even the rats look down on you? Well, in Pit of Goblin, that’s every day! Slap on your stinkiest boots and dive into ",
+      "developer": "Friendly Foe",
+      "removed": false,
+      "addedDate": 1793793087252
     },
     {
       "id": "9PK5WS0HXQKQ",
@@ -10421,7 +10450,7 @@
     {
       "id": "9N11JM7F5CXK",
       "title": "World of Tanks: HEAT",
-      "image": "https://store-images.s-microsoft.com/image/apps.46446.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.86215b6f-798f-45e3-bcde-737ebc123907",
+      "image": "https://store-images.s-microsoft.com/image/apps.28387.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.7bd00d59-6fb9-4b0a-b3d2-eed534f2e0c1",
       "platforms": [
         "console",
         "pc"
