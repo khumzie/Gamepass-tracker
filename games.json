@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1793793087268,
-  "updatedDate": "2026-11-04T11:51:27.268Z",
-  "count": 698,
-  "totalCount": 715,
+  "updatedAt": 1793879516226,
+  "updatedDate": "2026-11-05T11:51:56.226Z",
+  "count": 699,
+  "totalCount": 716,
   "removedCount": 17,
   "games": [
     {
@@ -3408,7 +3408,7 @@
       ],
       "ea": false,
       "release": 1784642400000,
-      "description": "Far Cry 3 is an open world first-person shooter set on an island unlike any other. A place where heavily armed warlords traffic in slaves. Where outsiders are hunted for ransom. And as you embark on a desperate quest to rescue your friends, you realize that the only way to escape this darkness… is to embrace it",
+      "description": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed visceral FPS.",
       "developer": "Ubisoft Montreal, MASSIVE Entertainment & Ubisoft Shanghaï",
       "removed": false,
       "addedDate": 1791457712876
@@ -3761,6 +3761,21 @@
       "addedDate": 1791457712875
     },
     {
+      "id": "9N8RKWJT32L4",
+      "title": "Firefighting Simulator: Ignite",
+      "image": "https://store-images.s-microsoft.com/image/apps.32408.14039390486448903.600abc2c-9f2a-489a-8d46-0eefc0946576.cabef57c-c072-408a-a400-ef040fd8bca9",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1757404800000,
+      "description": "Face unpredictable dangers, fight perilous fires with your crew, and save lives in Firefighting Simulator: Ignite. Step into the boots of a U.S. firefighter and play with up to 3 friends or with the help of your NPC controlled crew members. ",
+      "developer": "weltenbauer. Software Entwicklung GmbH",
+      "removed": false,
+      "addedDate": 1793879516208
+    },
+    {
       "id": "9N7MVHP2R7VP",
       "title": "FixForce",
       "image": "https://store-images.s-microsoft.com/image/apps.59766.14061818942283170.453dd0a8-2e69-4069-87c0-422a2c787feb.b061b80e-d27f-4049-9040-e028755de255",
@@ -3967,7 +3982,7 @@
     {
       "id": "9MW715J1P29D",
       "title": "FragPunk",
-      "image": "https://store-images.s-microsoft.com/image/apps.16868.13848987134544813.7c1bc445-ee84-4289-ab2e-4ee6990764e8.3e3a1229-cf14-4c88-af69-ef4ea095b75a",
+      "image": "https://store-images.s-microsoft.com/image/apps.25465.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.c8470771-5d33-4194-9c26-0745775b3361",
       "platforms": [
         "console",
         "pc"
@@ -9057,19 +9072,14 @@
       "title": "The Rogue Prince of Persia™",
       "image": "https://store-images.s-microsoft.com/image/apps.44243.14104912943733679.5b0de357-ef0f-4d82-a120-7694f677050b.5e21b586-6445-4980-8b28-f19d3ff63f31",
       "platforms": [
-        "console",
-        "pc"
+        "console"
       ],
       "ea": false,
       "release": 1755698400000,
       "description": "In this challenging, fast-paced roguelite, every death is a unique chance to rewrite fate, save Persia – or die trying. Master fluid, acrobatic combat and parkour as you explore your kingdom to right your wrongs!",
       "developer": "",
       "removed": false,
-      "addedDate": 1791457712876,
-      "aliasIds": [
-        "9P7M1VCXKQVD",
-        "9P1WJCK9B8S6"
-      ]
+      "addedDate": 1791457712876
     },
     {
       "id": "9N034X5G08B7",
@@ -9927,9 +9937,10 @@
     },
     {
       "id": "9N9K5QP9G3GL",
-      "title": "VOID/BREAKER (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.20544.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.75e42099-ab23-4790-9d28-58ea2fa9077d",
+      "title": "VOID/BREAKER",
+      "image": "https://store-images.s-microsoft.com/image/apps.8077.13536036111571877.6e9314d2-c36f-4ec9-ad65-425453b390bd.43f1c606-e026-4cd5-8eab-759d0b1b550e",
       "platforms": [
+        "console",
         "pc"
       ],
       "ea": false,
