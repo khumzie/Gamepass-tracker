@@ -1,6 +1,6 @@
 {
-  "updatedAt": 1793965738223,
-  "updatedDate": "2026-11-06T11:48:58.223Z",
+  "updatedAt": 1794048765050,
+  "updatedDate": "2026-11-07T10:52:45.050Z",
   "count": 702,
   "totalCount": 719,
   "removedCount": 17,
@@ -9115,14 +9115,19 @@
       "title": "The Rogue Prince of Persia™",
       "image": "https://store-images.s-microsoft.com/image/apps.44243.14104912943733679.5b0de357-ef0f-4d82-a120-7694f677050b.5e21b586-6445-4980-8b28-f19d3ff63f31",
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
       "ea": false,
       "release": 1755698400000,
       "description": "In this challenging, fast-paced roguelite, every death is a unique chance to rewrite fate, save Persia – or die trying. Master fluid, acrobatic combat and parkour as you explore your kingdom to right your wrongs!",
       "developer": "",
       "removed": false,
-      "addedDate": 1791457712876
+      "addedDate": 1791457712876,
+      "aliasIds": [
+        "9P7M1VCXKQVD",
+        "9NCQ70MVCK24"
+      ]
     },
     {
       "id": "9N034X5G08B7",
