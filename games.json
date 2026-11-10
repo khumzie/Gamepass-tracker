@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1794227484065,
-  "updatedDate": "2026-11-09T12:31:24.065Z",
-  "count": 702,
-  "totalCount": 719,
+  "updatedAt": 1794312359311,
+  "updatedDate": "2026-11-10T12:05:59.311Z",
+  "count": 704,
+  "totalCount": 721,
   "removedCount": 17,
   "games": [
     {
@@ -5963,7 +5963,7 @@
     {
       "id": "9P8X6TVW9ZW8",
       "title": "Mistfall Hunter",
-      "image": "https://store-images.s-microsoft.com/image/apps.46876.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.cc590df2-b04c-4c5a-9ac2-7446c5c83b6f",
+      "image": "https://store-images.s-microsoft.com/image/apps.1812.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.c5036d3e-caf8-4aff-b693-3e1f93ea2ec8",
       "platforms": [
         "console",
         "pc"
@@ -8594,6 +8594,21 @@
       "addedDate": 1791457712876
     },
     {
+      "id": "9NRBW3FJSJWT",
+      "title": "TANUKI: Pon's Summer",
+      "image": "https://store-images.s-microsoft.com/image/apps.55068.14390224744653316.b8cfc87d-5763-4e3b-9506-f6dc3b4f7735.9e7b7cab-1918-46f7-a5a7-258279566820",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 253370592000000,
+      "description": "The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for the big festival!\n\n",
+      "developer": "Denkiworks",
+      "removed": false,
+      "addedDate": 1794312359297
+    },
+    {
       "id": "9P9GX5D8H9DW",
       "title": "TCG Card Shop Simulator",
       "image": "https://store-images.s-microsoft.com/image/apps.58237.13937399101571368.d7ea1ad6-8d5d-4b4d-a570-efed308de865.26b2bdaf-a722-4b21-bb40-d7dfdb82b2a9",
@@ -8875,6 +8890,7 @@
       "addedDate": 1791457712877,
       "aliasIds": [
         "9PP7XSG5LDH1",
+        "BXVCFBJBNS17",
         "BZ4WD43D8DTS"
       ]
     },
@@ -10114,6 +10130,21 @@
       "developer": "Saber Interactive",
       "removed": false,
       "addedDate": 1791457712876
+    },
+    {
+      "id": "9MZZWGTF7V65",
+      "title": "Warhammer Survivors",
+      "image": "https://store-images.s-microsoft.com/image/apps.63012.13865289401901694.ec4fd4fe-95aa-4110-a6b3-96d9a78df1a3.0a17bc32-56e3-46a1-8aae-d4edfc5689e8",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 253370592000000,
+      "description": "Become the embodiment of bullet hell in Warhammer Survivors, a fast-paced roguelite survivors game. Play as characters from the Warhammer 40,000 and Warhammer: Age of Sigmar universes, collect and evolve iconic weapons and destroy endless swarms of enemies.",
+      "developer": "Auroch Digital",
+      "removed": false,
+      "addedDate": 1794312359298
     },
     {
       "id": "BXZWT67JBZJH",
