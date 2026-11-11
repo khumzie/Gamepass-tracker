@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1794312359311,
-  "updatedDate": "2026-11-10T12:05:59.311Z",
+  "updatedAt": 1794397258890,
+  "updatedDate": "2026-11-11T11:40:58.891Z",
   "count": 704,
-  "totalCount": 721,
-  "removedCount": 17,
+  "totalCount": 723,
+  "removedCount": 19,
   "games": [
     {
       "id": "9NPDN9R45JX4",
@@ -3820,35 +3820,6 @@
       "addedDate": 1791457712876
     },
     {
-      "id": "9PD0Z90216RJ",
-      "title": "Football Manager 26",
-      "image": "https://store-images.s-microsoft.com/image/apps.16795.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.a9467371-4bb3-44ec-b989-4ed9a79314e9",
-      "platforms": [
-        "pc"
-      ],
-      "ea": false,
-      "release": 1762272000000,
-      "description": "Step into the dugout and experience the future of football management.  ",
-      "developer": "Sports Interactive",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
-      "id": "9NMNZ4CK59DM",
-      "title": "Football Manager 26 Console",
-      "image": "https://store-images.s-microsoft.com/image/apps.63033.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.6e09f097-e938-4a50-85b4-6e14b4800029",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1762272000000,
-      "description": "Step into the dugout and experience the future of football management",
-      "developer": "Sports Interactive",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
       "id": "9N4NKMXDZCX6",
       "title": "Football Manager 27",
       "image": "https://store-images.s-microsoft.com/image/apps.47586.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.40797f8e-48ea-47e2-aab8-9ea6e13f5a79",
@@ -3861,6 +3832,21 @@
       "developer": "Sports Interactive",
       "removed": false,
       "addedDate": 1793793087253
+    },
+    {
+      "id": "9N5DDTDLTWCL",
+      "title": "Football Manager 27 Console",
+      "image": "https://store-images.s-microsoft.com/image/apps.33382.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.f531ab0a-2ff2-42b3-9b12-e108b709763d",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1794326400000,
+      "description": "Choose the club. Set the tactics. Shape the squad. Make the call.",
+      "developer": "Sports Interactive",
+      "removed": false,
+      "addedDate": 1794397258876
     },
     {
       "id": "9N3DWR830CVN",
@@ -5783,6 +5769,20 @@
       "developer": "",
       "removed": false,
       "addedDate": 1791457712876
+    },
+    {
+      "id": "9WZDNCRFHV60",
+      "title": "Microsoft Sudoku",
+      "image": "https://store-images.s-microsoft.com/image/apps.33703.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.c5690b38-509d-45a5-b5a3-0bdf1d0e74ec",
+      "platforms": [
+        "pc"
+      ],
+      "ea": false,
+      "release": 1394074944747,
+      "description": "Microsoft Sudoku has turned up the brilliance! With NEW levels of difficulty, FOUR (4) themes to choose from, DAILY Challenges, and ALL NEW Irregular and Ice Breaker modes, you may never go back to playing the classic way again. Keep your mind sharp across hundreds of brain training puzzles in bright, FUN colors. Play at your own pace or strive to become a GRANDMASTER today!",
+      "developer": "",
+      "removed": false,
+      "addedDate": 1794397258878
     },
     {
       "id": "9MVXMVT8ZKWC",
@@ -10032,7 +10032,7 @@
     {
       "id": "BX1DTCBD1HXJ",
       "title": "War Thunder",
-      "image": "https://store-images.s-microsoft.com/image/apps.30829.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.cea534d7-08cd-4f3f-9bed-765c2c2534cc",
+      "image": "https://store-images.s-microsoft.com/image/apps.31569.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.74335df6-275b-4eab-9f85-3553275f2c77",
       "platforms": [
         "console",
         "pc"
@@ -10891,6 +10891,37 @@
         "9PC49MD70881"
       ],
       "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9PD0Z90216RJ",
+      "title": "Football Manager 26",
+      "image": "https://store-images.s-microsoft.com/image/apps.16795.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.a9467371-4bb3-44ec-b989-4ed9a79314e9",
+      "platforms": [
+        "pc"
+      ],
+      "ea": false,
+      "release": 1762272000000,
+      "description": "Step into the dugout and experience the future of football management.  ",
+      "developer": "Sports Interactive",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "removedDate": "2026-11-11T11:40:58.878Z"
+    },
+    {
+      "id": "9NMNZ4CK59DM",
+      "title": "Football Manager 26 Console",
+      "image": "https://store-images.s-microsoft.com/image/apps.63033.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.6e09f097-e938-4a50-85b4-6e14b4800029",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1762272000000,
+      "description": "Step into the dugout and experience the future of football management",
+      "developer": "Sports Interactive",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-11T11:40:58.879Z"
     },
     {
       "id": "9P3ZRGNQVC7D",
