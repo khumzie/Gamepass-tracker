@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1794397258890,
-  "updatedDate": "2026-11-11T11:40:58.891Z",
-  "count": 704,
-  "totalCount": 723,
+  "updatedAt": 1794485454000,
+  "updatedDate": "2026-11-12T12:10:54.000Z",
+  "count": 707,
+  "totalCount": 726,
   "removedCount": 19,
   "games": [
     {
@@ -4843,6 +4843,21 @@
       "addedDate": 1791457712875
     },
     {
+      "id": "9P1S707BPW6W",
+      "title": "Hope in the City",
+      "image": "https://store-images.s-microsoft.com/image/apps.18291.14501332661010356.1878bbae-b86e-4579-a4ee-b6e5b6f9498a.006155a7-c92b-46e3-8067-ae5260091bde",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1794420000000,
+      "description": "17-year-old Hope Song thought the national exams were her biggest worry... until she got home to a ransacked apartment and two missing parents. Investigate through the eyes of an artist, turn sketches into evidence, and watch her family's mystery grow stranger and darker with every answer.",
+      "developer": "Lofty Sky Games",
+      "removed": false,
+      "addedDate": 1794485453989
+    },
+    {
       "id": "9NBFGKQLMV33",
       "title": "House Flipper",
       "image": "https://store-images.s-microsoft.com/image/apps.37810.13518543789452586.33e180bb-4f0b-4a39-b1c8-cde6206c1eb3.10ce0025-264d-4dfc-bf77-75601b68ec7e",
@@ -5040,6 +5055,21 @@
       "developer": "Rare Limited",
       "removed": false,
       "addedDate": 1791457712875
+    },
+    {
+      "id": "9MTGCZ84M503",
+      "title": "John Carpenter's Toxic Commando",
+      "image": "https://store-images.s-microsoft.com/image/apps.29766.13813225504277272.60187aa7-cee5-4670-9406-da8555a77e6d.c837b95c-ea53-45ca-8a1d-e10bea8f2ff1",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1773309600000,
+      "description": "Pick a character and team up with three friends ‘cause it’s time to save the world. Experience intense FPS action as you obliterate hordes of terrifying monsters! You may not be on the best team of mercenaries, but you are… a Toxic Commando!",
+      "developer": "Saber Interactive",
+      "removed": false,
+      "addedDate": 1794485453989
     },
     {
       "id": "C1ZWH2BZ9TSF",
@@ -9328,6 +9358,21 @@
       ]
     },
     {
+      "id": "9NWWL1CBWFCG",
+      "title": "Thronefall",
+      "image": "https://store-images.s-microsoft.com/image/apps.6680.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.679c84e1-8453-4a86-a0d9-73938d5be9ad",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1794405600000,
+      "description": "A minimalist game about building and defending your little kingdom.",
+      "developer": "Mythwright",
+      "removed": false,
+      "addedDate": 1794485453990
+    },
+    {
       "id": "9ND19JDMBS3R",
       "title": "Tiny Bookshop",
       "image": "https://store-images.s-microsoft.com/image/apps.44681.13557737472275158.70a58551-687d-4de1-a23b-d2133d48842e.06cf2a84-c7a3-42a6-88fc-9fec560fac15",
@@ -10637,7 +10682,7 @@
     {
       "id": "9P41GS5W1C6L",
       "title": "Wuthering Waves",
-      "image": "https://store-images.s-microsoft.com/image/apps.41355.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.7ed514f5-984b-48f8-9420-0aff88f34e7f",
+      "image": "https://store-images.s-microsoft.com/image/apps.892.14597666972638877.997ecdaf-86da-490b-9c6a-bb00a16ac10c.22e253a7-e520-4052-80f1-986412b0a6c1",
       "platforms": [
         "console",
         "pc"
