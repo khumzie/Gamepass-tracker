@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1794485454000,
-  "updatedDate": "2026-11-12T12:10:54.000Z",
-  "count": 707,
-  "totalCount": 726,
+  "updatedAt": 1794570677640,
+  "updatedDate": "2026-11-13T11:51:17.640Z",
+  "count": 708,
+  "totalCount": 727,
   "removedCount": 19,
   "games": [
     {
@@ -37,13 +37,13 @@
     },
     {
       "id": "9NNM7PKZN3JF",
-      "title": "9 Kings (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.35509.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.b42db9c9-6f64-4b73-87f2-50f1121929ce",
+      "title": "9 Kings",
+      "image": "https://store-images.s-microsoft.com/image/apps.59638.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.ce3dc6c1-ae4a-4e2d-adfc-a1449dc8667f",
       "platforms": [
         "pc"
       ],
       "ea": false,
-      "release": 1755176400000,
+      "release": 1794488400000,
       "description": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
       "developer": "Sad Socket",
       "removed": false,
@@ -4322,6 +4322,21 @@
       "addedDate": 1791457712875
     },
     {
+      "id": "BTHC2G28X9H4",
+      "title": "Grabbed by the Ghoulies™",
+      "image": "https://store-images.s-microsoft.com/image/apps.59433.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.d0e37ded-a86f-4757-9ed4-1f68d310e177",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1069372800000,
+      "description": "An Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Take on the role of Cooper, a kid on a mission to rescue his girlfriend, who has been \"grabbed by the ghoulies.\" Venture through haunted and ominous Ghoulhaven Hall and battle it out with a variety of mo…",
+      "developer": "Rare®",
+      "removed": false,
+      "addedDate": 1794570677630
+    },
+    {
       "id": "9PBG4MTM3JJC",
       "title": "GRAVHOUNDS (Game Preview)",
       "image": "https://store-images.s-microsoft.com/image/apps.40166.14119486704236036.abde8f1d-835f-498a-a443-5a7c4d6c7932.b6227c5c-14b9-457f-b75f-e717dcd817f6",
@@ -5239,14 +5254,14 @@
     {
       "id": "9MW53ZKZH168",
       "title": "Kiln",
-      "image": "https://store-images.s-microsoft.com/image/apps.8202.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.212d1263-476d-49c3-972d-3bc343d29dc0",
+      "image": "https://store-images.s-microsoft.com/image/apps.48716.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.b91169a5-fc95-467b-998b-0635ba722f98",
       "platforms": [
         "console",
         "pc"
       ],
       "ea": false,
       "release": 1776956400000,
-      "description": "An online multiplayer, pottery party brawler where teams of colorful spirits sculpt ceramic battle armor on a pottery wheel, and the size and shape of your pots determine your play-style and abilities",
+      "description": "A multiplayer pottery party brawler all about creation and destruction. Assemble a team, sculpt your pot body out of clay, and enter the fray with one of three online modes or with some local co-op.",
       "developer": "Double Fine Productions",
       "removed": false,
       "addedDate": 1791457712875
@@ -6562,7 +6577,7 @@
     {
       "id": "9N0QWXC09MPT",
       "title": "Once Human",
-      "image": "https://store-images.s-microsoft.com/image/apps.6246.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.41b67786-ad5b-43c9-acbb-7ea6151faf32",
+      "image": "https://store-images.s-microsoft.com/image/apps.17259.13916126641198036.7e5a4785-388f-47fb-b99e-33d1a78b811a.4b270173-ed40-4d92-9b17-05fd926d9aef",
       "platforms": [
         "console",
         "pc"
@@ -10628,15 +10643,15 @@
     },
     {
       "id": "9PLCL2VB2SC0",
-      "title": "World War Z: Aftermath",
-      "image": "https://store-images.s-microsoft.com/image/apps.52097.14315814591543581.e259272c-6394-43a0-9fcb-744c0a35683f.74727990-a7ec-4dbd-8bc9-29b0b83eebee",
+      "title": "World War Z: Year 1 Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.11303.14315814591543581.7abfbd86-71c6-4582-a8ef-26d2cba60921.fd262ff0-3854-4d0d-b014-2d434eb6a2ca",
       "platforms": [
         "console",
         "pc"
       ],
       "ea": false,
       "release": 1632229200000,
-      "description": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has captivated over 20 million players.  Fight off hordes of zombies in intense story episodes across new zombie-ravaged locations around the world.",
+      "description": "World War Z: Year 1 Edition is a great way to experience the first year of story content from the breakout co-op zombie shooter hit that has now captivated over 25 million players.",
       "developer": "Saber Interactive Inc.",
       "removed": false,
       "addedDate": 1791457712876
