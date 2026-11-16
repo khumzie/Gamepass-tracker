@@ -1,25 +1,10 @@
 {
-  "updatedAt": 1794743125550,
-  "updatedDate": "2026-11-15T11:45:25.550Z",
-  "count": 708,
+  "updatedAt": 1794831975977,
+  "updatedDate": "2026-11-16T12:26:15.977Z",
+  "count": 696,
   "totalCount": 727,
-  "removedCount": 19,
+  "removedCount": 31,
   "games": [
-    {
-      "id": "9NPDN9R45JX4",
-      "title": "1000xRESIST",
-      "image": "https://store-images.s-microsoft.com/image/apps.42712.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.ac32cda4-2fd9-4049-a090-966d3ace3e22",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1762272000000,
-      "description": "1000xRESIST is a thrilling sci-fi adventure. The year is unknown, and a disease spread by an alien invasion keeps you underground. You are Watcher. You dutifully fulfil your purpose in serving the ALLMOTHER, until the day you discover a shocking secret that changes everything. ",
-      "developer": "sunset visitor 斜陽過客",
-      "removed": false,
-      "addedDate": 1791457712874
-    },
     {
       "id": "9P8LR42PTRGJ",
       "title": "33 Immortals",
@@ -918,21 +903,6 @@
       "release": 1277251200000,
       "description": "The bear and bird’s second outing available in full. Loads of rollicking fun to be had here and with the legendary Stop 'N' Swop feature reinstated. The best use of a backpack in a game ever!",
       "developer": "4J Studios",
-      "removed": false,
-      "addedDate": 1791457712874
-    },
-    {
-      "id": "9N21ZCV0JW6V",
-      "title": "Barbie™ Horse Trails",
-      "image": "https://store-images.s-microsoft.com/image/apps.59736.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.619fb50f-5c70-4233-b504-e5e7fdee4a5d",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1760050800000,
-      "description": "There’s plenty to unlock and discover in Canterbury Trails Park. Ride along as Barbie™, and Barbie with your horse, Lucky on this wild adventure.",
-      "developer": "PHL Collective",
       "removed": false,
       "addedDate": 1791457712874
     },
@@ -2866,21 +2836,6 @@
       "addedDate": 1791457712874
     },
     {
-      "id": "BX03760D0QGN",
-      "title": "DRAGON BALL XENOVERSE 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.32513.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.e4eb532e-0d8b-41c0-ac6a-dbeb6ff4e9dd",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1477612800000,
-      "description": "DRAGON BALL XENOVERSE 2 builds upon the highly popular DRAGON BALL XENOVERSE with enhanced graphics that will further immerse players into the largest and most detailed Dragon Ball world ever developed.",
-      "developer": "Dimps",
-      "removed": false,
-      "addedDate": 1791457712874
-    },
-    {
       "id": "9NFQ1XMXDLN6",
       "title": "DreamWorks Gabby’s Dollhouse: Ready to Party",
       "image": "https://store-images.s-microsoft.com/image/apps.45016.13590480699430465.de074dfc-1014-4172-8fa7-28ca36b25c57.3428b717-e279-4ae0-9def-5996aadb743e",
@@ -3761,21 +3716,6 @@
       "addedDate": 1793270550315
     },
     {
-      "id": "9NBZ7Z3JRXQ8",
-      "title": "Firefighting Simulator - The Squad",
-      "image": "https://store-images.s-microsoft.com/image/apps.37983.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.d4771ae5-9b57-4a43-8021-142acfe2e595",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1670313600000,
-      "description": "Fire alert incoming! With Firefighting Simulator-The Squad, you can become part of a major US city's firefighting team and experience how it feels to fight fires. ",
-      "developer": "Chronos Unterhaltungssoftware UG",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
       "id": "9N8RKWJT32L4",
       "title": "Firefighting Simulator: Ignite",
       "image": "https://store-images.s-microsoft.com/image/apps.32408.14039390486448903.600abc2c-9f2a-489a-8d46-0eefc0946576.cabef57c-c072-408a-a400-ef040fd8bca9",
@@ -3828,7 +3768,7 @@
       ],
       "ea": false,
       "release": 1794268800000,
-      "description": "Choose the club. Shape the squad. Set the tactics as the manager of the world’s greatest football clubs. FM27 is where footballing beliefs become reality in a living breathing football world that blends strategy with RPG in the ultimate sport simulation game.",
+      "description": "Choose the club. Shape the squad. Set the tactics as the manager of the world’s greatest football clubs. FM27 is where footballing beliefs become reality in a living breathing football world that blends strategy with RPG in the ultimate sports simulation game.",
       "developer": "Sports Interactive",
       "removed": false,
       "addedDate": 1793793087253
@@ -4350,21 +4290,6 @@
       "developer": "Octopus Panic, Inc",
       "removed": false,
       "addedDate": 1793705836092
-    },
-    {
-      "id": "9N36BLQF3FX6",
-      "title": "Great God Grove",
-      "image": "https://store-images.s-microsoft.com/image/apps.49217.13938047926882205.478db89a-539b-4b20-956d-db969f740012.51327afc-1102-47d8-8243-0a7e592ceb44",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1731686400000,
-      "description": "THE WORLD IS ENDING AND THE GODS ARE SQUABBLING! Suck up and launch dialogue in a world of puzzles, puppets, and weird gods… or THE RIFT WILL CONSUME US ALL!",
-      "developer": "LimboLane",
-      "removed": false,
-      "addedDate": 1791457712875
     },
     {
       "id": "9NCT9L7NFHX7",
@@ -6113,21 +6038,6 @@
       "addedDate": 1791457712875
     },
     {
-      "id": "9P8XJRLCLH2P",
-      "title": "Moonlighter",
-      "image": "https://store-images.s-microsoft.com/image/apps.27309.14078999020725962.f9f4d516-290a-4fec-820e-f71d575013d8.781a4a00-3d6d-477f-987a-a7b734ab1fd1",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1527598800000,
-      "description": "Every adventure has to pay off\r\nDuring an archaeological excavation – a set of Gates were discovered. People quickly realized that these ancient passages lead to different realms and dimensions. Rynok",
-      "developer": "Digital Sun",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
       "id": "9NDJX252Q5BW",
       "title": "Moonlighter 2: The Endless Vault",
       "image": "https://store-images.s-microsoft.com/image/apps.46867.13613495733795404.958a29ae-aca4-4c3f-a15c-62c6c57d4d68.1166dd10-7833-4820-898b-e9e9e8ad81dc",
@@ -6847,21 +6757,6 @@
       "addedDate": 1791457712875
     },
     {
-      "id": "9NRHQLZX3900",
-      "title": "Pigeon Simulator",
-      "image": "https://store-images.s-microsoft.com/image/apps.63629.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.69ed27fb-c1a2-4c19-a803-a9f289039e26",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1762880400000,
-      "description": "Born to protect, forced to pigeon.",
-      "developer": "tinyBuild Riga",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
       "id": "9N8N7NZSVTG3",
       "title": "Pillars of Eternity 2: Deadfire - Ultimate Edition (PC)",
       "image": "https://store-images.s-microsoft.com/image/apps.61424.14218490899188575.a8c726f9-aa48-4378-bee2-0dffc21a7089.af88412e-ac16-457c-9332-9db6d9b912bf",
@@ -7035,21 +6930,6 @@
       "release": 1707955200000,
       "description": "Cook and serve your dishes, design and decorate your restaurants, and expand your culinary kingdom with new unlocks, abilities and dishes in procedurally-generated locations. Classic cooking action with permanent roguelite progression. Hire your friends - or do it all yourself!",
       "developer": "It's happening",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
-      "id": "9P0NPLQ9P1DB",
-      "title": "Police Simulator: Patrol Officers",
-      "image": "https://store-images.s-microsoft.com/image/apps.26366.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.9b9e6bbe-69b3-4cd9-8509-3de264dfc1a2",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1668067200000,
-      "description": "POLICE SIMULATOR: PATROL OFFICERS offers a Simulation Mode for veteran players looking for the most authentic experience, as well as a Casual Mode for players who want a more relaxing patrol around the streets of Brighton. ",
-      "developer": "Aesir Interactive",
       "removed": false,
       "addedDate": 1791457712875
     },
@@ -7358,21 +7238,6 @@
       "release": 1682985600000,
       "description": "The town of Redfall is under siege by a legion of vampires who have cut the island off from the outside world. Trapped with a handful of survivors, slay alone or squad up in open-world FPS action.",
       "developer": "Arkane Studios",
-      "removed": false,
-      "addedDate": 1791457712875
-    },
-    {
-      "id": "9P81K2C8RBF4",
-      "title": "Relic Hunters Legend",
-      "image": "https://store-images.s-microsoft.com/image/apps.37208.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.bc2320d7-e0dd-4e46-91d9-33b920008b14",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1755183600000,
-      "description": "A Top-Down Shooter/Looter RPG with a touching story inspired by JRPG classics. Shoot enemies, get loot, and customize your characters. Multiple endgame systems and over 100 hours of play await you solo or up to 4-player co-op!",
-      "developer": "Rogue Snail",
       "removed": false,
       "addedDate": 1791457712875
     },
@@ -9580,21 +9445,6 @@
       ]
     },
     {
-      "id": "9PHTX5QZ035T",
-      "title": "Total Chaos",
-      "image": "https://store-images.s-microsoft.com/image/apps.28442.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.9b048914-2a7a-4761-92ad-b34030a60d61",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1763665200000,
-      "description": "Fort Oasis is no paradise—it's a decaying nightmare where reality crumbles. The creator of Turbo Overkill unleashes survival-horror stacked with mysteries and monstrosities. Scavenge to craft weapons, while a voice on your walkie-talkie guides you into the island's depths.",
-      "developer": "Trigger Happy Interactive, Black Sheep Studio",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
       "id": "9PC4RWP34M2D",
       "title": "Totally Accurate Battle Simulator",
       "image": "https://store-images.s-microsoft.com/image/apps.44329.14176345306313891.79ca8837-5397-4838-85b6-4a8a9720856c.ee70365f-2fde-4714-a069-8c43500ef3bc",
@@ -10434,21 +10284,6 @@
       "addedDate": 1791457712876
     },
     {
-      "id": "9ND3HTTQ0GKB",
-      "title": "Winter Burrow",
-      "image": "https://store-images.s-microsoft.com/image/apps.17059.13551922362408999.6a1ab142-ad0f-4a13-b0ba-9fcbb7182271.7ccb83f6-23a8-4dc2-af72-26b158ad9746",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1762963200000,
-      "description": "Winter Burrow is a cozy woodland survival game about a mouse returning home to restore their childhood burrow. Explore, gather resources, craft, knit warm sweaters, bake pies and meet the locals.",
-      "developer": "Pine Creek Games",
-      "removed": false,
-      "addedDate": 1791457712876
-    },
-    {
       "id": "9N9X9PC8V9CP",
       "title": "Wo Long: Fallen Dynasty",
       "image": "https://store-images.s-microsoft.com/image/apps.35756.13524128328401524.c8089ad9-5e75-4246-83e8-2dac88f04afd.c15772fe-d979-45ea-8d13-c81c5a30e4fa",
@@ -10657,25 +10492,6 @@
       "addedDate": 1791457712876
     },
     {
-      "id": "BRJNRZ9N734V",
-      "title": "Wreckfest",
-      "image": "https://store-images.s-microsoft.com/image/apps.62864.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.20973bfd-77f7-41d0-8e0a-7cb51d9f8add",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "ea": false,
-      "release": 1566860400000,
-      "description": "Break the rules and take full-contact racing to the limit with Wreckfest! \r\n\r\n\r\n\r\n\r\n\r\nExpect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 & 2!\r\n\r\n\r\n\r\n\r\n\r\nBurn rubber and shred metal in the ultimate driving playground!",
-      "developer": "Bugbear Entertainment",
-      "removed": false,
-      "addedDate": 1791457712876,
-      "aliasIds": [
-        "BRJNRZ9N734V",
-        "9NG06CSMM97P"
-      ]
-    },
-    {
       "id": "9NPRHD8GQKQS",
       "title": "WUCHANG: Fallen Feathers",
       "image": "https://store-images.s-microsoft.com/image/apps.44761.13783945394833991.9c211df2-6d91-4ddb-8a9b-d22dd17d57de.2d4b818f-ca01-45f0-b255-54b665c38ac6",
@@ -10817,6 +10633,22 @@
       "addedDate": 1791457712876
     },
     {
+      "id": "9NPDN9R45JX4",
+      "title": "1000xRESIST",
+      "image": "https://store-images.s-microsoft.com/image/apps.42712.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.ac32cda4-2fd9-4049-a090-966d3ace3e22",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1762272000000,
+      "description": "1000xRESIST is a thrilling sci-fi adventure. The year is unknown, and a disease spread by an alien invasion keeps you underground. You are Watcher. You dutifully fulfil your purpose in serving the ALLMOTHER, until the day you discover a shocking secret that changes everything. ",
+      "developer": "sunset visitor 斜陽過客",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-11-16T12:26:15.967Z"
+    },
+    {
       "id": "9ND0JVB184XL",
       "title": "A Plague Tale: Requiem",
       "image": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
@@ -10835,6 +10667,22 @@
         "9N97RC576957"
       ],
       "removedDate": "2026-10-17T08:15:39.633Z"
+    },
+    {
+      "id": "9N21ZCV0JW6V",
+      "title": "Barbie™ Horse Trails",
+      "image": "https://store-images.s-microsoft.com/image/apps.59736.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.619fb50f-5c70-4233-b504-e5e7fdee4a5d",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1760050800000,
+      "description": "There’s plenty to unlock and discover in Canterbury Trails Park. Ride along as Barbie™, and Barbie with your horse, Lucky on this wild adventure.",
+      "developer": "PHL Collective",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-11-16T12:26:15.967Z"
     },
     {
       "id": "9PPT8K6GQHRZ",
@@ -10933,6 +10781,22 @@
       "removedDate": "2026-10-17T08:15:39.634Z"
     },
     {
+      "id": "BX03760D0QGN",
+      "title": "DRAGON BALL XENOVERSE 2",
+      "image": "https://store-images.s-microsoft.com/image/apps.32513.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.e4eb532e-0d8b-41c0-ac6a-dbeb6ff4e9dd",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1477612800000,
+      "description": "DRAGON BALL XENOVERSE 2 builds upon the highly popular DRAGON BALL XENOVERSE with enhanced graphics that will further immerse players into the largest and most detailed Dragon Ball world ever developed.",
+      "developer": "Dimps",
+      "removed": true,
+      "addedDate": 1791457712874,
+      "removedDate": "2026-11-16T12:26:15.967Z"
+    },
+    {
       "id": "9MW581HCJPM6",
       "title": "Evil West",
       "image": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
@@ -10951,6 +10815,22 @@
         "9PC49MD70881"
       ],
       "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9NBZ7Z3JRXQ8",
+      "title": "Firefighting Simulator - The Squad",
+      "image": "https://store-images.s-microsoft.com/image/apps.37983.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.d4771ae5-9b57-4a43-8021-142acfe2e595",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1670313600000,
+      "description": "Fire alert incoming! With Firefighting Simulator-The Squad, you can become part of a major US city's firefighting team and experience how it feels to fight fires. ",
+      "developer": "Chronos Unterhaltungssoftware UG",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-16T12:26:15.967Z"
     },
     {
       "id": "9PD0Z90216RJ",
@@ -11000,6 +10880,22 @@
       "removedDate": "2026-11-01T11:01:12.273Z"
     },
     {
+      "id": "9N36BLQF3FX6",
+      "title": "Great God Grove",
+      "image": "https://store-images.s-microsoft.com/image/apps.49217.13938047926882205.478db89a-539b-4b20-956d-db969f740012.51327afc-1102-47d8-8243-0a7e592ceb44",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1731686400000,
+      "description": "THE WORLD IS ENDING AND THE GODS ARE SQUABBLING! Suck up and launch dialogue in a world of puzzles, puppets, and weird gods… or THE RIFT WILL CONSUME US ALL!",
+      "developer": "LimboLane",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-16T12:26:15.967Z"
+    },
+    {
       "id": "C3553MB4P5TT",
       "title": "Lara Croft and the Temple of Osiris",
       "image": "https://store-images.s-microsoft.com/image/apps.28930.66406861093311956.5a3a6cc5-ae0d-478d-aa71-eeec71b3768a.9075a65b-ad79-49b1-8aaf-6fb3bb771bb3",
@@ -11032,6 +10928,22 @@
       "removedDate": "2026-11-01T11:01:12.273Z"
     },
     {
+      "id": "9P8XJRLCLH2P",
+      "title": "Moonlighter",
+      "image": "https://store-images.s-microsoft.com/image/apps.27309.14078999020725962.f9f4d516-290a-4fec-820e-f71d575013d8.781a4a00-3d6d-477f-987a-a7b734ab1fd1",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1527598800000,
+      "description": "Every adventure has to pay off\r\nDuring an archaeological excavation – a set of Gates were discovered. People quickly realized that these ancient passages lead to different realms and dimensions. Rynok",
+      "developer": "Digital Sun",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-16T12:26:15.967Z"
+    },
+    {
       "id": "9NBNFBQ546DT",
       "title": "Nova Roma (Game Preview)",
       "image": "https://store-images.s-microsoft.com/image/apps.38629.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.70ae0d17-df02-41a3-9cbd-a9c87176c566",
@@ -11061,6 +10973,54 @@
       "removed": true,
       "addedDate": 1791457712875,
       "removedDate": "2026-10-17T08:15:39.634Z"
+    },
+    {
+      "id": "9NRHQLZX3900",
+      "title": "Pigeon Simulator",
+      "image": "https://store-images.s-microsoft.com/image/apps.63629.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.69ed27fb-c1a2-4c19-a803-a9f289039e26",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1762880400000,
+      "description": "Born to protect, forced to pigeon.",
+      "developer": "tinyBuild Riga",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-16T12:26:15.967Z"
+    },
+    {
+      "id": "9P0NPLQ9P1DB",
+      "title": "Police Simulator: Patrol Officers",
+      "image": "https://store-images.s-microsoft.com/image/apps.26366.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.9b9e6bbe-69b3-4cd9-8509-3de264dfc1a2",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1668067200000,
+      "description": "POLICE SIMULATOR: PATROL OFFICERS offers a Simulation Mode for veteran players looking for the most authentic experience, as well as a Casual Mode for players who want a more relaxing patrol around the streets of Brighton. ",
+      "developer": "Aesir Interactive",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-16T12:26:15.967Z"
+    },
+    {
+      "id": "9P81K2C8RBF4",
+      "title": "Relic Hunters Legend",
+      "image": "https://store-images.s-microsoft.com/image/apps.37208.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.bc2320d7-e0dd-4e46-91d9-33b920008b14",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1755183600000,
+      "description": "A Top-Down Shooter/Looter RPG with a touching story inspired by JRPG classics. Shoot enemies, get loot, and customize your characters. Multiple endgame systems and over 100 hours of play await you solo or up to 4-player co-op!",
+      "developer": "Rogue Snail",
+      "removed": true,
+      "addedDate": 1791457712875,
+      "removedDate": "2026-11-16T12:26:15.967Z"
     },
     {
       "id": "9N4M72L6KGC8",
@@ -11095,6 +11055,22 @@
       "removedDate": "2026-10-17T08:15:39.634Z"
     },
     {
+      "id": "9PHTX5QZ035T",
+      "title": "Total Chaos",
+      "image": "https://store-images.s-microsoft.com/image/apps.28442.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.9b048914-2a7a-4761-92ad-b34030a60d61",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1763665200000,
+      "description": "Fort Oasis is no paradise—it's a decaying nightmare where reality crumbles. The creator of Turbo Overkill unleashes survival-horror stacked with mysteries and monstrosities. Scavenge to craft weapons, while a voice on your walkie-talkie guides you into the island's depths.",
+      "developer": "Trigger Happy Interactive, Black Sheep Studio",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "removedDate": "2026-11-16T12:26:15.967Z"
+    },
+    {
       "id": "9NWQ686JB33G",
       "title": "Wartales",
       "image": "https://store-images.s-microsoft.com/image/apps.55567.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.85dd1ece-9871-428e-bdef-f545c2c8425e",
@@ -11125,6 +11101,42 @@
       "removed": true,
       "addedDate": 1791457712876,
       "removedDate": "2026-11-01T11:01:12.273Z"
+    },
+    {
+      "id": "9ND3HTTQ0GKB",
+      "title": "Winter Burrow",
+      "image": "https://store-images.s-microsoft.com/image/apps.17059.13551922362408999.6a1ab142-ad0f-4a13-b0ba-9fcbb7182271.7ccb83f6-23a8-4dc2-af72-26b158ad9746",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1762963200000,
+      "description": "Winter Burrow is a cozy woodland survival game about a mouse returning home to restore their childhood burrow. Explore, gather resources, craft, knit warm sweaters, bake pies and meet the locals.",
+      "developer": "Pine Creek Games",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "removedDate": "2026-11-16T12:26:15.967Z"
+    },
+    {
+      "id": "BRJNRZ9N734V",
+      "title": "Wreckfest",
+      "image": "https://store-images.s-microsoft.com/image/apps.62864.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.20973bfd-77f7-41d0-8e0a-7cb51d9f8add",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1566860400000,
+      "description": "Break the rules and take full-contact racing to the limit with Wreckfest! \r\n\r\n\r\n\r\n\r\n\r\nExpect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 & 2!\r\n\r\n\r\n\r\n\r\n\r\nBurn rubber and shred metal in the ultimate driving playground!",
+      "developer": "Bugbear Entertainment",
+      "removed": true,
+      "addedDate": 1791457712876,
+      "aliasIds": [
+        "BRJNRZ9N734V",
+        "9NG06CSMM97P"
+      ],
+      "removedDate": "2026-11-16T12:26:15.967Z"
     }
   ]
 }
