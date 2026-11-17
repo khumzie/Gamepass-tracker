@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1794831975977,
-  "updatedDate": "2026-11-16T12:26:15.977Z",
-  "count": 696,
-  "totalCount": 727,
+  "updatedAt": 1794919567100,
+  "updatedDate": "2026-11-17T12:46:07.100Z",
+  "count": 697,
+  "totalCount": 728,
   "removedCount": 31,
   "games": [
     {
@@ -837,7 +837,7 @@
     {
       "id": "9MWXF3SRD7QN",
       "title": "BALL x PIT",
-      "image": "https://store-images.s-microsoft.com/image/apps.65421.13835016463632115.666396b5-f6e8-4a0a-ae87-81ee6b77084a.9ca9b47c-fe5e-416f-b0d8-585389838713",
+      "image": "https://store-images.s-microsoft.com/image/apps.41615.13835016463632115.a5cef575-d953-487b-9311-f25cca59bc7c.3fc8dbfb-f70e-4591-a04a-f75028587427",
       "platforms": [
         "console",
         "pc"
@@ -6627,6 +6627,21 @@
       "addedDate": 1791457712875
     },
     {
+      "id": "9N3P3TRJGWV0",
+      "title": "PAW Patrol™: Dino World",
+      "image": "https://store-images.s-microsoft.com/image/apps.23698.14003155671712527.e2286374-c296-44cb-8b6c-1bb5b97b583a.6e26181c-b9e8-4402-8d4b-77f3dcadcd79",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "ea": false,
+      "release": 1785452400000,
+      "description": "Join the PAW Patrol and Rex on colossal missions across Dino Island. Create roar-some looks, play minigames with friends and more. ",
+      "developer": "3DClouds",
+      "removed": false,
+      "addedDate": 1794919567084
+    },
+    {
       "id": "9PHGK0538TXM",
       "title": "Pax Dei",
       "image": "https://store-images.s-microsoft.com/image/apps.29859.14236304815140200.718f9989-90b4-4752-bb46-bc187ac73ae5.f07f3f26-a293-4369-8c8b-9e9b492863b9",
@@ -8927,7 +8942,7 @@
     {
       "id": "9P8FBXKMCLWC",
       "title": "The First Descendant",
-      "image": "https://store-images.s-microsoft.com/image/apps.25250.14088967971354578.6905da5e-eaf6-4f51-aabc-e221a5476323.f1a617e3-f1f9-4e8f-86e7-96d2c3182edf",
+      "image": "https://store-images.s-microsoft.com/image/apps.62129.14088967971354578.21f9976e-3fb0-4fe0-89fd-e7a4a3274e5d.64035029-25d5-4634-ac10-81ac3078037b",
       "platforms": [
         "console",
         "pc"
