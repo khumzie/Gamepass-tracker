@@ -1,6 +1,6 @@
 {
-  "updatedAt": 1795091395258,
-  "updatedDate": "2026-11-19T12:29:55.258Z",
+  "updatedAt": 1795177813158,
+  "updatedDate": "2026-11-20T12:30:13.158Z",
   "count": 697,
   "totalCount": 728,
   "removedCount": 31,
@@ -4208,7 +4208,7 @@
     {
       "id": "9NMB4T25W817",
       "title": "Goat Simulator 3",
-      "image": "https://store-images.s-microsoft.com/image/apps.47149.13691300234764634.6bd09c5e-3ea8-4ca5-9bd9-98e21eb55d43.22b4756b-4e8e-43dd-99b3-f86402687874",
+      "image": "https://store-images.s-microsoft.com/image/apps.38438.13691300234764634.9df58869-5b63-4949-9867-599eb0b0c79d.4582fbba-735b-4bf1-8678-41f7537ff4bf",
       "platforms": [
         "console"
       ],
@@ -4222,7 +4222,7 @@
     {
       "id": "9PDS2N82QNXG",
       "title": "Goat Simulator 3: Windows Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.47149.14148334348309617.d7ab70e3-9d1d-4489-b8b9-a2b9be7054bb.b1519ab1-017b-4c25-a2d8-2cb283a46821",
+      "image": "https://store-images.s-microsoft.com/image/apps.38438.14148334348309617.3cafe4a3-45e4-4621-afd6-e10feca03d19.34c1614e-1c5a-4e9b-abf5-06c6adb5cb66",
       "platforms": [
         "pc"
       ],
@@ -4236,7 +4236,7 @@
     {
       "id": "9NL3468NRPBG",
       "title": "Goat Simulator 3: Xbox One Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.47149.13719917860433649.aae29470-5649-4ad1-abf1-81f29d7c6bc8.8143a4c0-41a8-4b4c-9c97-94c4e223eec4",
+      "image": "https://store-images.s-microsoft.com/image/apps.38438.13719917860433649.8239cf63-0e5a-4cc1-afde-9d04991920d2.732ea8ec-a2fe-4a7f-95f9-bc23006a6258",
       "platforms": [
         "console"
       ],
